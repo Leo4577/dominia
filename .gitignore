@@ -1,0 +1,21 @@
+# segredos — NUNCA commitar
+.env
+.env.*
+!.env.example
+*.key
+
+# corpus bruto (grande demais p/ o GitHub — o app usa os JSONs derivados)
+*.jsonl
+!gold_sample.jsonl
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# saídas locais que não vão pro site
+juzia_dashboard.html
+DOMINIA.html
+*.log
+auditoria_dominia.xlsx

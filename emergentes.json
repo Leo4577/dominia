@@ -1,0 +1,1664 @@
+{
+ "gerado_em": "2026-08-28",
+ "janela_antiga": [
+  "2023-02-27",
+  "2024-02-27"
+ ],
+ "janela_recente": [
+  "2025-05-29",
+  "2026-05-29"
+ ],
+ "teses": [
+  {
+   "tese": "Descontos de associação/entidade",
+   "setor": "FINANCEIRO",
+   "frase": "\"desconto associativo\"",
+   "n_antigo": 0,
+   "n_recente": 16,
+   "n_recente_6m": 1,
+   "n_anterior_6m": 15,
+   "mult_6m": 0.07,
+   "multiplicador": 16.0,
+   "status": "NOVA",
+   "guia": {
+    "explicacao": "Descontos mensais em benefício do INSS ou em conta, por 'mensalidade associativa' de entidade/sindicato que o segurado nunca autorizou. Fenômeno em forte expansão. Discute-se a ausência de filiação válida e a devolução em dobro dos valores descontados.",
+    "documentos": [
+     "Extrato do benefício/conta com os descontos",
+     "Histórico de descontos (INSS/Meu INSS)",
+     "Ausência de ficha de filiação assinada",
+     "Reclamação administrativa (se houver)"
+    ],
+    "como_ajuizar": "Ação declaratória de inexistência de filiação c/c cessação dos descontos, restituição em dobro e danos morais, contra a associação (e o banco/INSS quando cabível). Tutela para cessar os descontos imediatamente. Cobrar da entidade a prova da autorização expressa.",
+    "fundamentos": [
+     "CDC art. 42, § único (repetição em dobro)",
+     "art. 6º, VIII, CDC (inversão)",
+     "IN INSS sobre autorização de descontos associativos"
+    ],
+    "valor_referencia": "Restituição em dobro de todos os descontos + dano moral R$ 3.000–8.000."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Casa de apostas / bet",
+   "setor": "APOSTAS",
+   "frase": "\"casa de apostas\"",
+   "n_antigo": 0,
+   "n_recente": 10,
+   "n_recente_6m": 3,
+   "n_anterior_6m": 7,
+   "mult_6m": 0.43,
+   "multiplicador": 10.0,
+   "status": "NOVA",
+   "guia": {
+    "explicacao": "Conflitos com plataformas de apostas (bets): bloqueio de saldo/saque, não pagamento de prêmio, conta encerrada com retenção de valores, ou uso indevido de dados/PIX. Tema NOVO, explodindo com a regulamentação (Lei 14.790/2023). Discute-se a relação de consumo e o dever de pagar/devolver.",
+    "documentos": [
+     "Print do saldo/aposta/prêmio",
+     "Histórico de depósitos (PIX/extrato)",
+     "Termos da plataforma",
+     "Reclamações e protocolos",
+     "Comprovante de identidade usado no cadastro"
+    ],
+    "como_ajuizar": "Ação de obrigação de fazer (liberar saque/pagar prêmio) ou de restituição dos depósitos c/c danos morais, com tutela de urgência. Enfrentar a alegação de 'multiconta'/irregularidade exigindo prova da plataforma. Atenção à legitimidade de bets estrangeiras e à regularização pela Lei 14.790/2023.",
+    "fundamentos": [
+     "CDC arts. 14 e 51",
+     "Lei 14.790/2023 (apostas de quota fixa)",
+     "boa-fé objetiva; vedação ao enriquecimento sem causa"
+    ],
+    "valor_referencia": "Liberação do saldo/prêmio; dano moral variável (R$ 2.000–8.000) conforme retenção e tempo."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Falso funcionário do banco",
+   "setor": "FRAUDE",
+   "frase": "\"falso funcionário\"",
+   "n_antigo": 4,
+   "n_recente": 30,
+   "n_recente_6m": 5,
+   "n_anterior_6m": 25,
+   "mult_6m": 0.2,
+   "multiplicador": 7.5,
+   "status": "SURGINDO",
+   "guia": {
+    "explicacao": "Fraudador se apresenta como gerente/funcionário e obtém dados, senhas ou aprovação de operações. Muito próximo da engenharia social; alto crescimento. Eixo: falha do banco em monitorar e a inexistência de contratação legítima.",
+    "documentos": [
+     "Extratos das operações contestadas",
+     "B.O.",
+     "Registro/print do contato do falso funcionário",
+     "Protocolos de contestação"
+    ],
+    "como_ajuizar": "Inexistência de débito das operações fraudulentas c/c danos morais e materiais, tutela para suspender parcelas/negativação. Explorar a atipicidade das operações frente ao perfil do cliente.",
+    "fundamentos": [
+     "CDC art. 14",
+     "Súmula 479 STJ",
+     "art. 6º, VIII, CDC"
+    ],
+    "valor_referencia": "Anulação das operações + dano moral R$ 4.000–12.000."
+   },
+   "processos": [
+    {
+     "n": "0001333-55.2025.8.05.0079",
+     "d": "2025-08-15"
+    },
+    {
+     "n": "0001058-80.2025.8.05.0120",
+     "d": "2025-08-06"
+    },
+    {
+     "n": "0195062-23.2024.8.05.0001",
+     "d": "2025-08-01"
+    },
+    {
+     "n": "0000193-17.2025.8.05.0004",
+     "d": "2025-07-20"
+    },
+    {
+     "n": "0041263-23.2025.8.05.0001",
+     "d": "2025-06-11"
+    }
+   ]
+  },
+  {
+   "tese": "Bloqueio de conta WhatsApp/Meta",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"whatsapp business\"",
+   "n_antigo": 4,
+   "n_recente": 16,
+   "n_recente_6m": 3,
+   "n_anterior_6m": 13,
+   "mult_6m": 0.23,
+   "multiplicador": 4.0,
+   "status": "SURGINDO",
+   "guia": {
+    "explicacao": "A Meta (WhatsApp/Facebook/Instagram) bane ou bloqueia a conta do usuário — muito comum no WhatsApp Business usado comercialmente por MEIs e pequenos negócios — em regra sem aviso prévio, sem motivação clara e sem contraditório, alegando violação genérica dos termos de uso. O titular perde acesso a contatos, histórico e clientes, com impacto direto no faturamento. Tese NOVA, em forte expansão (praticamente inexistia em 2024). Discute-se a falha na prestação do serviço, a ausência de motivação/devido processo e os danos materiais (faturamento perdido) e morais.",
+    "documentos": [
+     "Print do bloqueio/banimento e das mensagens da Meta",
+     "Comprovante de uso comercial da conta (WhatsApp Business, catálogo)",
+     "Notas fiscais/faturamento antes do bloqueio (dano material)",
+     "Tentativas de recuperação e protocolos de suporte",
+     "Cadastro/número vinculado à conta",
+     "Contrato social ou CNPJ do MEI (se PJ)"
+    ],
+    "como_ajuizar": "Ação de obrigação de fazer (reativar/desbloquear a conta) c/c danos materiais e morais, contra META PLATAFORMAS BRASIL LTDA, com pedido de TUTELA DE URGÊNCIA para restabelecimento imediato — o perigo de dano é a perda contínua de clientes. Fundamentar na relação de consumo, na falha do serviço e na ausência de motivação/contraditório do bloqueio. Comprovar o dano material com o faturamento anterior.",
+    "fundamentos": [
+     "CDC art. 14 (falha do serviço, responsabilidade objetiva)",
+     "CDC art. 6º, VIII (inversão do ônus)",
+     "Marco Civil da Internet (Lei 12.965/2014, arts. 7º e 10)",
+     "boa-fé objetiva e dever de motivação",
+     "Súmula 227 STJ (dano moral à pessoa jurídica)"
+    ],
+    "valor_referencia": "Reativação da conta + dano material (faturamento comprovadamente perdido) + dano moral R$ 3.000–15.000 (cabível também à PJ)."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Engenharia social / falsa central",
+   "setor": "FRAUDE",
+   "frase": "\"engenharia social\"",
+   "n_antigo": 40,
+   "n_recente": 116,
+   "n_recente_6m": 31,
+   "n_anterior_6m": 85,
+   "mult_6m": 0.36,
+   "multiplicador": 2.9,
+   "status": "SURGINDO",
+   "guia": {
+    "explicacao": "Fraudador se passa por central do banco e, por telefone/aplicativo, conduz a vítima a instalar app de acesso remoto, informar senha/token ou aprovar operações. O eixo é a falha de segurança do banco em barrar operações atípicas (empréstimos instantâneos, transferências fora do padrão do cliente). Tese com forte índice de êxito quando há operações destoantes do perfil.",
+    "documentos": [
+     "Extratos mostrando as operações atípicas",
+     "B.O.",
+     "Registro/gravação ou print do contato do golpista",
+     "Protocolos de contestação junto ao banco",
+     "Histórico de movimentação anterior (para provar o perfil)"
+    ],
+    "como_ajuizar": "Ação de inexistência de débito (empréstimos/transferências fraudulentas) c/c danos morais e materiais, com tutela para suspender descontos/parcelas. Central: as operações fogem do perfil do consumidor e o banco falhou no monitoramento. Requerer que o banco exiba os logs e a análise antifraude (inversão do ônus).",
+    "fundamentos": [
+     "CDC art. 14 e art. 6º, VIII (inversão)",
+     "Súmula 479 STJ",
+     "Dever de segurança bancária (Res. CMN 4.893/2021)"
+    ],
+    "valor_referencia": "Anulação dos contratos fraudulentos + dano moral R$ 4.000–12.000 conforme o transtorno e negativação."
+   },
+   "processos": [
+    {
+     "n": "0179660-62.2025.8.05.0001",
+     "d": "2025-12-03"
+    },
+    {
+     "n": "0004475-67.2025.8.05.0079",
+     "d": "2025-12-03"
+    },
+    {
+     "n": "0101593-83.2025.8.05.0001",
+     "d": "2025-12-02"
+    },
+    {
+     "n": "0009863-45.2025.8.05.0274",
+     "d": "2025-12-01"
+    },
+    {
+     "n": "0003827-21.2025.8.05.0004",
+     "d": "2025-12-01"
+    },
+    {
+     "n": "0003608-97.2025.8.05.0039",
+     "d": "2025-12-01"
+    },
+    {
+     "n": "0011285-83.2025.8.05.0103",
+     "d": "2025-11-25"
+    },
+    {
+     "n": "0137805-06.2025.8.05.0001",
+     "d": "2025-11-20"
+    },
+    {
+     "n": "0002747-22.2025.8.05.0004",
+     "d": "2025-11-20"
+    },
+    {
+     "n": "0146741-20.2025.8.05.0001",
+     "d": "2025-11-20"
+    },
+    {
+     "n": "0141277-15.2025.8.05.0001",
+     "d": "2025-11-19"
+    },
+    {
+     "n": "0151198-95.2025.8.05.0001",
+     "d": "2025-11-19"
+    },
+    {
+     "n": "0021758-03.2025.8.05.0080",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0074835-67.2025.8.05.0001",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0003898-89.2025.8.05.0079",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0157555-91.2025.8.05.0001",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "8000215-10.2025.8.05.0239",
+     "d": "2026-04-30"
+    },
+    {
+     "n": "0108721-57.2025.8.05.0001",
+     "d": "2025-11-17"
+    },
+    {
+     "n": "0120949-64.2025.8.05.0001",
+     "d": "2025-11-14"
+    },
+    {
+     "n": "0112996-49.2025.8.05.0001",
+     "d": "2025-11-14"
+    },
+    {
+     "n": "0047596-88.2025.8.05.0001",
+     "d": "2025-11-11"
+    },
+    {
+     "n": "0109301-87.2025.8.05.0001",
+     "d": "2025-11-11"
+    },
+    {
+     "n": "8000134-13.2025.8.05.0158",
+     "d": "2026-04-28"
+    },
+    {
+     "n": "0001069-42.2025.8.05.0110",
+     "d": "2025-11-06"
+    },
+    {
+     "n": "0001491-57.2025.8.05.0032",
+     "d": "2025-11-06"
+    }
+   ]
+  },
+  {
+   "tese": "Golpe do PIX",
+   "setor": "FRAUDE",
+   "frase": "\"golpe do pix\"",
+   "n_antigo": 31,
+   "n_recente": 70,
+   "n_recente_6m": 14,
+   "n_anterior_6m": 56,
+   "mult_6m": 0.25,
+   "multiplicador": 2.26,
+   "status": "SURGINDO",
+   "guia": {
+    "explicacao": "Vítima é induzida por terceiro (falsa central, link ou perfil clonado) a fazer um PIX ou aprovar transação. Discute-se a responsabilidade do banco pela falha de segurança e pelo monitoramento de transações atípicas. A jurisprudência distingue o 'golpe com falha do banco' (fraude no sistema, conta-fantasma, ausência de alerta) — em regra indenizável — do PIX feito voluntariamente pela própria vítima enganada, onde o êxito é menor e depende de provar falha do serviço.",
+    "documentos": [
+     "Extrato/comprovante do PIX contestado",
+     "Boletim de Ocorrência",
+     "Print das conversas/ligações do golpista",
+     "Reclamação registrada no banco (protocolo)",
+     "Reclamação no BACEN/consumidor.gov (se houver)",
+     "Documento de identidade e comprovante de conta"
+    ],
+    "como_ajuizar": "Ação declaratória de inexistência de débito c/c indenização por danos materiais (devolução do valor) e morais, com pedido de tutela de urgência para bloqueio/devolução via MED (Mecanismo Especial de Devolução do BACEN). Fundamentar na falha do serviço (art. 14 CDC) e no dever de segurança; requerer inversão do ônus da prova. Juntar o protocolo do MED — pedir a devolução ao banco em até 80 dias é requisito prático importante.",
+    "fundamentos": [
+     "CDC art. 14 (responsabilidade objetiva/fortuito interno)",
+     "Súmula 479 STJ (fortuito interno das instituições financeiras)",
+     "Resolução BCB 103/2021 (MED)",
+     "art. 927, § único, CC"
+    ],
+    "valor_referencia": "Dano material = valor transferido; dano moral quando há falha do banco, tipicamente R$ 3.000–10.000."
+   },
+   "processos": [
+    {
+     "n": "0096988-94.2025.8.05.0001",
+     "d": "2025-10-29"
+    },
+    {
+     "n": "0100753-73.2025.8.05.0001",
+     "d": "2025-10-23"
+    },
+    {
+     "n": "0246954-68.2024.8.05.0001",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0006481-74.2024.8.05.0146",
+     "d": "2025-10-14"
+    },
+    {
+     "n": "0108104-97.2025.8.05.0001",
+     "d": "2025-10-13"
+    },
+    {
+     "n": "0045953-95.2025.8.05.0001",
+     "d": "2025-10-07"
+    },
+    {
+     "n": "0002526-60.2025.8.05.0191",
+     "d": "2025-10-07"
+    },
+    {
+     "n": "0000643-42.2025.8.05.0106",
+     "d": "2025-09-29"
+    },
+    {
+     "n": "0000643-42.2025.8.05.0106",
+     "d": "2025-09-29"
+    },
+    {
+     "n": "0156135-85.2024.8.05.0001",
+     "d": "2025-09-25"
+    },
+    {
+     "n": "0001511-56.2025.8.05.0191",
+     "d": "2025-09-18"
+    },
+    {
+     "n": "0039719-97.2025.8.05.0001",
+     "d": "2025-09-15"
+    },
+    {
+     "n": "0000251-86.2025.8.05.0079",
+     "d": "2025-09-12"
+    },
+    {
+     "n": "0001655-53.2025.8.05.0248",
+     "d": "2025-09-09"
+    },
+    {
+     "n": "0059743-49.2025.8.05.0001",
+     "d": "2025-09-04"
+    },
+    {
+     "n": "0059743-49.2025.8.05.0001",
+     "d": "2025-09-04"
+    },
+    {
+     "n": "0038488-26.2024.8.05.0080",
+     "d": "2025-09-02"
+    },
+    {
+     "n": "0038488-26.2024.8.05.0080",
+     "d": "2025-09-02"
+    },
+    {
+     "n": "0001959-62.2024.8.05.0256",
+     "d": "2025-09-01"
+    },
+    {
+     "n": "0001959-62.2024.8.05.0256",
+     "d": "2025-09-01"
+    },
+    {
+     "n": "0000771-66.2025.8.05.0137",
+     "d": "2025-08-20"
+    },
+    {
+     "n": "0051511-82.2024.8.05.0001",
+     "d": "2025-08-20"
+    },
+    {
+     "n": "0006509-71.2024.8.05.0201",
+     "d": "2025-08-20"
+    },
+    {
+     "n": "0007500-85.2025.8.05.0080",
+     "d": "2025-08-18"
+    },
+    {
+     "n": "0000196-35.2025.8.05.0080",
+     "d": "2025-08-18"
+    }
+   ]
+  },
+  {
+   "tese": "Consórcio (desistência)",
+   "setor": "FINANCEIRO",
+   "frase": "\"desistência de consórcio\"",
+   "n_antigo": 4,
+   "n_recente": 11,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 11,
+   "mult_6m": 0.0,
+   "multiplicador": 2.75,
+   "status": "CRESCENDO",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Biometria facial (fraude)",
+   "setor": "FRAUDE",
+   "frase": "\"biometria facial\"",
+   "n_antigo": 1411,
+   "n_recente": 2808,
+   "n_recente_6m": 405,
+   "n_anterior_6m": 2403,
+   "mult_6m": 0.17,
+   "multiplicador": 1.99,
+   "status": "CRESCENDO",
+   "guia": {
+    "explicacao": "Contratação de crédito/conta aprovada por biometria facial que o banco alega ser prova de autoria, mas que foi burlada (foto, deepfake, ou biometria de terceiro). Discute-se se a biometria, isoladamente, comprova que foi o titular quem contratou. Tendência recente por causa da digitalização das contratações.",
+    "documentos": [
+     "Contrato/registro que o banco atribui ao cliente",
+     "B.O.",
+     "Prova de que o cliente não reconhece a operação",
+     "Solicitação administrativa da imagem biométrica usada (o banco costuma não exibir)"
+    ],
+    "como_ajuizar": "Ação declaratória de inexistência do contrato c/c danos morais, exigindo que o banco comprove a autoria (exibição da captura biométrica e do laudo de vivacidade). A ausência dessa prova pesa a favor do consumidor. Tutela para retirar negativação/suspender descontos.",
+    "fundamentos": [
+     "CDC art. 14",
+     "Súmula 479 STJ",
+     "ônus da prova da contratação é do fornecedor (art. 373, II, CPC + art. 6º, VIII, CDC)"
+    ],
+    "valor_referencia": "Dano moral R$ 4.000–10.000; maior se houve negativação indevida."
+   },
+   "processos": [
+    {
+     "n": "0001748-44.2025.8.05.0271",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0155014-85.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0003937-64.2025.8.05.0248",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0173357-32.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0003961-65.2025.8.05.0063",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0178832-66.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0151238-77.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0000960-59.2025.8.05.0229",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0188558-64.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0189912-27.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0005306-96.2025.8.05.0150",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0173093-15.2025.8.05.0001",
+     "d": "2025-12-19"
+    },
+    {
+     "n": "0169978-83.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0005547-49.2024.8.05.0039",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0192618-80.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0166487-68.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0002427-17.2023.8.05.0141",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0001931-80.2025.8.05.0120",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0168911-83.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0001169-64.2025.8.05.0120",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0181272-35.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0186474-90.2025.8.05.0001",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0003176-86.2025.8.05.0004",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0155538-82.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0166520-58.2025.8.05.0001",
+     "d": "2025-12-17"
+    }
+   ]
+  },
+  {
+   "tese": "Negativa de cirurgia reparadora",
+   "setor": "SAUDE",
+   "frase": "\"cirurgia reparadora\"",
+   "n_antigo": 201,
+   "n_recente": 309,
+   "n_recente_6m": 28,
+   "n_anterior_6m": 281,
+   "mult_6m": 0.1,
+   "multiplicador": 1.54,
+   "status": "CRESCENDO",
+   "guia": {
+    "explicacao": "Plano nega cirurgia reparadora alegando finalidade estética — típico na cirurgia pós-bariátrica (retirada de excesso de pele), reconstrução de mama pós-mastectomia, ou correção funcional. A jurisprudência entende que a cirurgia reparadora é continuação do tratamento e tem cobertura obrigatória, não sendo estética.",
+    "documentos": [
+     "Relatório/prescrição do médico assistente indicando a finalidade reparadora",
+     "Negativa da operadora por escrito",
+     "Laudos e exames",
+     "Histórico do tratamento (ex: cirurgia bariátrica prévia)",
+     "Fotos/documentação do quadro clínico"
+    ],
+    "como_ajuizar": "Obrigação de fazer para autorizar/custear a cirurgia c/c danos morais, com tutela de urgência para realização imediata. Fundamentar que a cirurgia reparadora integra o tratamento e não é estética, prevalecendo a indicação do médico assistente sobre a negativa administrativa.",
+    "fundamentos": [
+     "Lei 9.656/98 e Lei 14.454/2022 (rol exemplificativo)",
+     "Súmula 97 TJSP e precedentes STJ (reparadora pós-bariátrica é obrigatória)",
+     "CDC art. 51",
+     "prevalência da prescrição do médico assistente"
+    ],
+    "valor_referencia": "Custeio integral da cirurgia + dano moral R$ 5.000–15.000 (maior em negativa com urgência/sofrimento)."
+   },
+   "processos": [
+    {
+     "n": "0004179-76.2025.8.05.0004",
+     "d": "2025-11-28"
+    },
+    {
+     "n": "0012169-30.2025.8.05.0001",
+     "d": "2025-11-28"
+    },
+    {
+     "n": "0155441-19.2024.8.05.0001",
+     "d": "2025-11-28"
+    },
+    {
+     "n": "0110500-47.2025.8.05.0001",
+     "d": "2025-11-27"
+    },
+    {
+     "n": "0150371-84.2025.8.05.0001",
+     "d": "2025-11-26"
+    },
+    {
+     "n": "0141368-08.2025.8.05.0001",
+     "d": "2025-11-26"
+    },
+    {
+     "n": "0011309-20.2024.8.05.0080",
+     "d": "2025-11-25"
+    },
+    {
+     "n": "0000394-98.2025.8.05.0039",
+     "d": "2025-11-25"
+    },
+    {
+     "n": "0002838-15.2025.8.05.0004",
+     "d": "2025-11-19"
+    },
+    {
+     "n": "0010381-95.2024.8.05.0039",
+     "d": "2025-11-19"
+    },
+    {
+     "n": "0002897-41.2024.8.05.0229",
+     "d": "2025-11-19"
+    },
+    {
+     "n": "0116858-28.2025.8.05.0001",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0001379-16.2025.8.05.0250",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0097833-29.2025.8.05.0001",
+     "d": "2025-11-18"
+    },
+    {
+     "n": "0077572-43.2025.8.05.0001",
+     "d": "2025-11-17"
+    },
+    {
+     "n": "0067546-20.2024.8.05.0001",
+     "d": "2025-11-17"
+    },
+    {
+     "n": "0074353-56.2024.8.05.0001",
+     "d": "2025-11-17"
+    },
+    {
+     "n": "0001744-24.2025.8.05.0039",
+     "d": "2025-11-17"
+    },
+    {
+     "n": "0115136-56.2025.8.05.0001",
+     "d": "2025-11-16"
+    },
+    {
+     "n": "0153416-96.2025.8.05.0001",
+     "d": "2025-11-14"
+    },
+    {
+     "n": "0000878-33.2025.8.05.0001",
+     "d": "2025-11-14"
+    },
+    {
+     "n": "0146823-51.2025.8.05.0001",
+     "d": "2025-11-13"
+    },
+    {
+     "n": "0016969-04.2025.8.05.0001",
+     "d": "2025-11-11"
+    },
+    {
+     "n": "0110945-65.2025.8.05.0001",
+     "d": "2025-11-10"
+    },
+    {
+     "n": "0147623-79.2025.8.05.0001",
+     "d": "2025-11-08"
+    }
+   ]
+  },
+  {
+   "tese": "Conta digital",
+   "setor": "FRAUDE",
+   "frase": "\"conta digital\"",
+   "n_antigo": 379,
+   "n_recente": 562,
+   "n_recente_6m": 74,
+   "n_anterior_6m": 488,
+   "mult_6m": 0.15,
+   "multiplicador": 1.48,
+   "status": "CRESCENDO",
+   "guia": {
+    "explicacao": "Abertura fraudulenta de conta digital em nome da vítima (usada para receber golpes) ou bloqueio/encerramento unilateral de conta legítima. No primeiro caso, dano por uso indevido do CPF; no segundo, discute-se o bloqueio sem justificativa e a retenção de saldo.",
+    "documentos": [
+     "Comprovante da conta/bloqueio",
+     "B.O. (conta aberta por terceiro)",
+     "Notificações do banco",
+     "Comprovante de saldo retido"
+    ],
+    "como_ajuizar": "Conforme o caso: (a) inexistência de relação jurídica c/c danos morais pela conta-fantasma; ou (b) obrigação de fazer para desbloqueio/liberação de saldo c/c danos morais. Tutela de urgência para liberar valores ou remover apontamentos.",
+    "fundamentos": [
+     "CDC art. 14",
+     "Súmula 479 STJ",
+     "boa-fé objetiva (art. 422 CC)"
+    ],
+    "valor_referencia": "Dano moral R$ 3.000–8.000; liberação integral do saldo retido."
+   },
+   "processos": [
+    {
+     "n": "0134516-65.2025.8.05.0001",
+     "d": "2025-12-11"
+    },
+    {
+     "n": "0164347-61.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0166484-16.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0010628-97.2025.8.05.0150",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0159977-39.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0170369-38.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0158932-97.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0162423-15.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0141311-87.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0178713-08.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0057353-09.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0155821-08.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0006419-04.2025.8.05.0080",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0144596-88.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0177629-69.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0155186-27.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0151732-39.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0133235-74.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0167063-61.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0000542-77.2025.8.05.0082",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0001479-47.2025.8.05.0063",
+     "d": "2025-12-07"
+    },
+    {
+     "n": "0161608-18.2025.8.05.0001",
+     "d": "2025-12-07"
+    },
+    {
+     "n": "0130792-53.2025.8.05.0001",
+     "d": "2025-12-07"
+    },
+    {
+     "n": "0156524-36.2025.8.05.0001",
+     "d": "2025-12-07"
+    },
+    {
+     "n": "0146506-53.2025.8.05.0001",
+     "d": "2025-12-06"
+    }
+   ]
+  },
+  {
+   "tese": "Aposta online / bet (bloqueio)",
+   "setor": "APOSTAS",
+   "frase": "\"apostas esportivas\"",
+   "n_antigo": 2,
+   "n_recente": 6,
+   "n_recente_6m": 1,
+   "n_anterior_6m": 5,
+   "mult_6m": 0.2,
+   "multiplicador": 3.0,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Subtipo do tema bets: foco no bloqueio de saldo ou recusa de saque sob alegação de verificação (KYC) ou suspeita de fraude, com retenção prolongada de valores do apostador.",
+    "documentos": [
+     "Print do bloqueio/recusa",
+     "Documentos de verificação já enviados",
+     "Histórico de saque/depósito",
+     "Protocolos de atendimento"
+    ],
+    "como_ajuizar": "Obrigação de fazer para liberar o saldo/saque c/c danos morais, tutela de urgência. Exigir que a plataforma aponte a irregularidade concreta; retenção genérica e indefinida é abusiva.",
+    "fundamentos": [
+     "CDC art. 14 e 51, IV",
+     "Lei 14.790/2023",
+     "vedação ao enriquecimento sem causa (art. 884 CC)"
+    ],
+    "valor_referencia": "Liberação integral; dano moral R$ 2.000–6.000."
+   },
+   "processos": []
+  },
+  {
+   "tese": "PIX (devolução/erro)",
+   "setor": "FRAUDE",
+   "frase": "\"devolução do pix\"",
+   "n_antigo": 2,
+   "n_recente": 5,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 5,
+   "mult_6m": 0.0,
+   "multiplicador": 2.5,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Inteligência artificial / deepfake",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"inteligência artificial\"",
+   "n_antigo": 5,
+   "n_recente": 9,
+   "n_recente_6m": 1,
+   "n_anterior_6m": 8,
+   "mult_6m": 0.12,
+   "multiplicador": 1.8,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Streaming (cobrança)",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"assinatura de streaming\"",
+   "n_antigo": 2,
+   "n_recente": 3,
+   "n_recente_6m": 1,
+   "n_anterior_6m": 2,
+   "mult_6m": 0.5,
+   "multiplicador": 1.5,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Energia solar (fotovoltaica)",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"energia solar\"",
+   "n_antigo": 113,
+   "n_recente": 137,
+   "n_recente_6m": 18,
+   "n_anterior_6m": 119,
+   "mult_6m": 0.15,
+   "multiplicador": 1.21,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Contratos de instalação de energia solar com vício (sistema não gera o prometido, instalação defeituosa, financiamento casado). Tema em ascensão com a popularização fotovoltaica.",
+    "documentos": [
+     "Contrato de compra/instalação",
+     "Proposta com a geração prometida",
+     "Faturas de energia antes/depois",
+     "Laudos/fotos do defeito",
+     "Contrato de financiamento (se houver)"
+    ],
+    "como_ajuizar": "Ação por vício do produto/serviço (art. 18/20 CDC): reexecução, abatimento ou rescisão c/c devolução e danos morais. Se houve financiamento casado, pedir a rescisão do contrato coligado. Tutela conforme urgência.",
+    "fundamentos": [
+     "CDC arts. 18, 20 e 51",
+     "contratos coligados (financiamento)",
+     "publicidade vinculante (art. 30 CDC)"
+    ],
+    "valor_referencia": "Abatimento/rescisão + danos; moral R$ 2.000–8.000 conforme o prejuízo."
+   },
+   "processos": [
+    {
+     "n": "0008951-76.2025.8.05.0103",
+     "d": "2025-11-10"
+    },
+    {
+     "n": "0002303-61.2024.8.05.0153",
+     "d": "2025-11-06"
+    },
+    {
+     "n": "0010360-57.2025.8.05.0113",
+     "d": "2025-11-05"
+    },
+    {
+     "n": "0110472-79.2025.8.05.0001",
+     "d": "2025-11-04"
+    },
+    {
+     "n": "0003717-85.2025.8.05.0274",
+     "d": "2025-10-29"
+    },
+    {
+     "n": "0006388-81.2025.8.05.0080",
+     "d": "2025-10-29"
+    },
+    {
+     "n": "0012731-93.2025.8.05.0080",
+     "d": "2025-10-29"
+    },
+    {
+     "n": "0015250-73.2024.8.05.0113",
+     "d": "2025-10-24"
+    },
+    {
+     "n": "0110472-79.2025.8.05.0001",
+     "d": "2025-10-23"
+    },
+    {
+     "n": "0045934-80.2024.8.05.0080",
+     "d": "2025-10-22"
+    },
+    {
+     "n": "0004420-97.2025.8.05.0150",
+     "d": "2025-10-22"
+    },
+    {
+     "n": "0014596-54.2025.8.05.0080",
+     "d": "2025-10-22"
+    },
+    {
+     "n": "0028183-89.2025.8.05.0001",
+     "d": "2025-10-21"
+    },
+    {
+     "n": "0030013-81.2024.8.05.0080",
+     "d": "2025-10-21"
+    },
+    {
+     "n": "0058060-74.2025.8.05.0001",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0002904-58.2025.8.05.0274",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0001204-06.2025.8.05.0126",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0000430-45.2025.8.05.0103",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0005467-25.2025.8.05.0080",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0007288-64.2025.8.05.0080",
+     "d": "2025-10-15"
+    },
+    {
+     "n": "0000682-13.2025.8.05.0244",
+     "d": "2025-10-14"
+    },
+    {
+     "n": "0002373-94.2025.8.05.0201",
+     "d": "2025-10-14"
+    },
+    {
+     "n": "0019630-10.2025.8.05.0080",
+     "d": "2025-10-14"
+    },
+    {
+     "n": "0025193-19.2024.8.05.0080",
+     "d": "2025-10-14"
+    },
+    {
+     "n": "0012443-76.2025.8.05.0103",
+     "d": "2025-10-10"
+    }
+   ]
+  },
+  {
+   "tese": "Delivery / aplicativo de comida",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"aplicativo de entrega\"",
+   "n_antigo": 22,
+   "n_recente": 23,
+   "n_recente_6m": 2,
+   "n_anterior_6m": 21,
+   "mult_6m": 0.1,
+   "multiplicador": 1.05,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Telemedicina",
+   "setor": "SAUDE",
+   "frase": "\"telemedicina\"",
+   "n_antigo": 6,
+   "n_recente": 6,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 6,
+   "mult_6m": 0.0,
+   "multiplicador": 1.0,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Criptomoeda / pirâmide",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"pirâmide financeira\"",
+   "n_antigo": 6,
+   "n_recente": 6,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 6,
+   "mult_6m": 0.0,
+   "multiplicador": 1.0,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Assinatura recorrente / clube",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"assinatura recorrente\"",
+   "n_antigo": 0,
+   "n_recente": 1,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 1,
+   "mult_6m": 0.0,
+   "multiplicador": 1.0,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Cobrança recorrente de assinatura/clube que o consumidor não contratou, não consegue cancelar, ou continua sendo cobrada após o cancelamento. Inclui 'pegadinhas' de trial que vira cobrança automática.",
+    "documentos": [
+     "Faturas com as cobranças recorrentes",
+     "Pedido de cancelamento e protocolo",
+     "Termos da assinatura",
+     "Prints do fluxo de contratação/trial"
+    ],
+    "como_ajuizar": "Declaratória de inexistência/cessação das cobranças c/c restituição em dobro e danos morais. Atacar a dificuldade de cancelamento (deve ser tão fácil quanto contratar) e a cobrança pós-cancelamento.",
+    "fundamentos": [
+     "CDC art. 42, § único",
+     "CDC art. 51",
+     "Decreto 11.034/2022 (SAC — cancelamento facilitado)"
+    ],
+    "valor_referencia": "Cessação + repetição em dobro; dano moral R$ 1.000–5.000."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Rol exemplificativo (Lei 14.454)",
+   "setor": "SAUDE",
+   "frase": "\"rol exemplificativo\"",
+   "n_antigo": 341,
+   "n_recente": 338,
+   "n_recente_6m": 48,
+   "n_anterior_6m": 290,
+   "mult_6m": 0.17,
+   "multiplicador": 0.99,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Plano de saúde nega cobertura alegando que o procedimento não está no Rol da ANS. Após a Lei 14.454/2022, o Rol é EXEMPLIFICATIVO: havendo prescrição médica e eficácia comprovada, a cobertura é devida mesmo fora do rol. Marco recente com alto êxito.",
+    "documentos": [
+     "Prescrição/relatório médico detalhado",
+     "Negativa da operadora por escrito",
+     "Contrato do plano",
+     "Comprovantes de urgência (se houver)",
+     "Evidência científica/eficácia do tratamento"
+    ],
+    "como_ajuizar": "Obrigação de fazer (autorizar/custear o tratamento) c/c danos morais, com tutela de urgência para cobertura imediata. Fundamentar no caráter exemplificativo do rol e na prescrição médica que se sobrepõe à negativa administrativa.",
+    "fundamentos": [
+     "Lei 9.656/98 alterada pela Lei 14.454/2022",
+     "CDC art. 51 (cláusula abusiva)",
+     "Súmula 102 TJSP (análoga)",
+     "dever de cobertura por prescrição médica"
+    ],
+    "valor_referencia": "Custeio integral do tratamento + dano moral R$ 5.000–15.000 em negativas graves/urgência."
+   },
+   "processos": [
+    {
+     "n": "0026010-92.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0000630-58.2025.8.05.0004",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0028964-68.2025.8.05.0080",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0034944-30.2024.8.05.0080",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0107911-82.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0145307-93.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0005796-82.2024.8.05.0141",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0008791-57.2024.8.05.0274",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0157199-96.2025.8.05.0001",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0002568-80.2025.8.05.0039",
+     "d": "2025-12-08"
+    },
+    {
+     "n": "0004162-34.2025.8.05.0103",
+     "d": "2025-12-05"
+    },
+    {
+     "n": "0006212-31.2025.8.05.0039",
+     "d": "2025-12-05"
+    },
+    {
+     "n": "0001834-06.2025.8.05.0274",
+     "d": "2025-12-04"
+    },
+    {
+     "n": "0001915-02.2025.8.05.0032",
+     "d": "2025-12-03"
+    },
+    {
+     "n": "0000784-68.2025.8.05.0039",
+     "d": "2025-12-02"
+    },
+    {
+     "n": "0225928-14.2024.8.05.0001",
+     "d": "2025-12-02"
+    },
+    {
+     "n": "0001201-51.2025.8.05.0223",
+     "d": "2025-12-02"
+    },
+    {
+     "n": "0012455-60.2025.8.05.0113",
+     "d": "2025-12-02"
+    },
+    {
+     "n": "0009314-33.2025.8.05.0113",
+     "d": "2025-12-01"
+    },
+    {
+     "n": "0083452-16.2025.8.05.0001",
+     "d": "2025-11-30"
+    },
+    {
+     "n": "0024237-12.2025.8.05.0001",
+     "d": "2025-11-30"
+    },
+    {
+     "n": "0001646-07.2025.8.05.0082",
+     "d": "2025-11-28"
+    },
+    {
+     "n": "0003949-73.2025.8.05.0088",
+     "d": "2025-11-28"
+    },
+    {
+     "n": "0158126-62.2025.8.05.0001",
+     "d": "2025-11-27"
+    },
+    {
+     "n": "0108539-71.2025.8.05.0001",
+     "d": "2025-11-26"
+    }
+   ]
+  },
+  {
+   "tese": "Marketplace (responsabilidade)",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"marketplace\"",
+   "n_antigo": 397,
+   "n_recente": 393,
+   "n_recente_6m": 56,
+   "n_anterior_6m": 337,
+   "mult_6m": 0.17,
+   "multiplicador": 0.99,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Rol da ANS",
+   "setor": "SAUDE",
+   "frase": "\"rol da ANS\"",
+   "n_antigo": 822,
+   "n_recente": 737,
+   "n_recente_6m": 91,
+   "n_anterior_6m": 646,
+   "mult_6m": 0.14,
+   "multiplicador": 0.9,
+   "status": "ESTAVEL",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Desconto não autorizado (benefício)",
+   "setor": "FINANCEIRO",
+   "frase": "\"desconto não autorizado\"",
+   "n_antigo": 33,
+   "n_recente": 24,
+   "n_recente_6m": 6,
+   "n_anterior_6m": 18,
+   "mult_6m": 0.33,
+   "multiplicador": 0.73,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Empréstimo consignado ou parcela debitada de aposentadoria/pensão sem contratação válida (RMC de cartão consignado, margem usada sem ciência). Diferencia-se do consignado regular: aqui não há contrato assinado ou houve indução a erro.",
+    "documentos": [
+     "Extrato de consignações (Meu INSS)",
+     "Contrato apontado pelo banco (ou sua ausência)",
+     "Comprovante dos descontos",
+     "B.O. se houve fraude"
+    ],
+    "como_ajuizar": "Declaratória de inexistência/nulidade do contrato c/c devolução em dobro e danos morais, com tutela para suspender descontos. Atacar especialmente a Reserva de Margem Consignável (RMC) vendida como empréstimo comum.",
+    "fundamentos": [
+     "CDC art. 42, § único",
+     "CDC art. 14",
+     "Lei 10.820/2003 (consignação)"
+    ],
+    "valor_referencia": "Suspensão + repetição em dobro; dano moral R$ 3.000–8.000."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Reajuste abusivo (plano de saúde)",
+   "setor": "SAUDE",
+   "frase": "\"reajuste abusivo\"",
+   "n_antigo": 1945,
+   "n_recente": 1422,
+   "n_recente_6m": 155,
+   "n_anterior_6m": 1267,
+   "mult_6m": 0.12,
+   "multiplicador": 0.73,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Aumento da mensalidade do plano acima do autorizado — reajuste anual acima do índice da ANS, reajuste por faixa etária desproporcional, ou reajuste por sinistralidade em plano coletivo sem memória de cálculo. Discute-se a abusividade do percentual e a falta de transparência. Em planos individuais, o teto é o da ANS; por faixa etária, veda-se aumento desproporcional (sobretudo após os 60 anos).",
+    "documentos": [
+     "Contrato do plano",
+     "Boletos/faturas mostrando o valor antes e depois",
+     "Comunicado do reajuste aplicado",
+     "Demonstrativo/memória de cálculo (exigir da operadora)",
+     "Comprovante de idade (reajuste por faixa etária)"
+    ],
+    "como_ajuizar": "Ação revisional de cláusula c/c repetição do indébito e danos morais, com tutela de urgência para limitar o reajuste ao índice devido e impedir a suspensão do plano por inadimplência do valor controvertido. Exigir a memória de cálculo da sinistralidade; a ausência de transparência gera a abusividade.",
+    "fundamentos": [
+     "Lei 9.656/98",
+     "Tema 952 STJ (reajuste por faixa etária: exige previsão contratual e proporcionalidade)",
+     "Estatuto do Idoso art. 15, § 3º",
+     "CDC art. 51, IV e X",
+     "Resoluções ANS de reajuste"
+    ],
+    "valor_referencia": "Limitação do reajuste + restituição do excesso (em dobro quando abusivo); dano moral R$ 2.000–8.000."
+   },
+   "processos": [
+    {
+     "n": "0013873-33.2025.8.05.0113",
+     "d": "2025-12-18"
+    },
+    {
+     "n": "0134278-46.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0144028-72.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0169494-68.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0149043-22.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0182789-75.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0104455-27.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0010767-11.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0087572-05.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0047618-49.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0137186-76.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0000509-02.2024.8.05.0154",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0117358-94.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0153746-93.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0131121-65.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0134278-46.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0159539-13.2025.8.05.0001",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0007591-07.2025.8.05.0039",
+     "d": "2025-12-17"
+    },
+    {
+     "n": "0012505-86.2025.8.05.0113",
+     "d": "2025-12-16"
+    },
+    {
+     "n": "0043374-77.2025.8.05.0001",
+     "d": "2025-12-16"
+    },
+    {
+     "n": "0138909-33.2025.8.05.0001",
+     "d": "2025-12-15"
+    },
+    {
+     "n": "0005896-79.2018.8.05.0001",
+     "d": "2025-12-15"
+    },
+    {
+     "n": "0244124-32.2024.8.05.0001",
+     "d": "2025-12-12"
+    },
+    {
+     "n": "0030223-44.2025.8.05.0001",
+     "d": "2025-12-12"
+    },
+    {
+     "n": "0042048-82.2025.8.05.0001",
+     "d": "2025-12-11"
+    }
+   ]
+  },
+  {
+   "tese": "Superendividamento (Lei 14.181)",
+   "setor": "FINANCEIRO",
+   "frase": "\"superendividamento\"",
+   "n_antigo": 124,
+   "n_recente": 88,
+   "n_recente_6m": 11,
+   "n_anterior_6m": 77,
+   "mult_6m": 0.14,
+   "multiplicador": 0.71,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Consumidor de boa-fé com múltiplas dívidas que comprometem o mínimo existencial pode pedir a repactuação global em juízo. Marco recente (Lei 14.181/2021 alterou o CDC), ainda em consolidação nos Juizados.",
+    "documentos": [
+     "Relação de todas as dívidas e credores",
+     "Comprovantes de renda e despesas essenciais",
+     "Extratos e contratos",
+     "Comprovante do mínimo existencial comprometido"
+    ],
+    "como_ajuizar": "Ação de repactuação de dívidas (art. 104-A CDC) requerendo audiência conciliatória global com todos os credores e plano de pagamento que preserve o mínimo existencial. Alternativa administrativa via núcleos de superendividamento/PROCON.",
+    "fundamentos": [
+     "CDC arts. 54-A a 54-G e 104-A/104-C (Lei 14.181/2021)",
+     "Decreto 11.150/2022 (mínimo existencial)"
+    ],
+    "valor_referencia": "Não é indenizatória — objetivo é o plano de pagamento; danos morais só em abusos específicos."
+   },
+   "processos": [
+    {
+     "n": "0027661-62.2025.8.05.0001",
+     "d": "2025-10-20"
+    },
+    {
+     "n": "0014877-70.2024.8.05.0039",
+     "d": "2025-10-19"
+    },
+    {
+     "n": "0119053-83.2025.8.05.0001",
+     "d": "2025-10-17"
+    },
+    {
+     "n": "0016011-18.2025.8.05.0001",
+     "d": "2025-10-17"
+    },
+    {
+     "n": "0070284-44.2025.8.05.0001",
+     "d": "2025-10-16"
+    },
+    {
+     "n": "0120644-80.2025.8.05.0001",
+     "d": "2025-10-13"
+    },
+    {
+     "n": "0139119-21.2024.8.05.0001",
+     "d": "2025-10-13"
+    },
+    {
+     "n": "0014236-84.2024.8.05.0103",
+     "d": "2025-10-11"
+    },
+    {
+     "n": "0035237-97.2024.8.05.0080",
+     "d": "2025-10-07"
+    },
+    {
+     "n": "0127060-98.2024.8.05.0001",
+     "d": "2025-10-06"
+    },
+    {
+     "n": "0083192-36.2025.8.05.0001",
+     "d": "2025-10-06"
+    },
+    {
+     "n": "0074170-51.2025.8.05.0001",
+     "d": "2025-09-29"
+    },
+    {
+     "n": "0020450-72.2025.8.05.0001",
+     "d": "2025-09-26"
+    },
+    {
+     "n": "0043897-89.2025.8.05.0001",
+     "d": "2025-09-25"
+    },
+    {
+     "n": "0218838-52.2024.8.05.0001",
+     "d": "2025-09-23"
+    },
+    {
+     "n": "0012380-23.2025.8.05.0080",
+     "d": "2025-09-22"
+    },
+    {
+     "n": "0098012-60.2025.8.05.0001",
+     "d": "2025-09-20"
+    },
+    {
+     "n": "0097337-97.2025.8.05.0001",
+     "d": "2025-09-20"
+    },
+    {
+     "n": "0048914-09.2025.8.05.0001",
+     "d": "2025-09-20"
+    },
+    {
+     "n": "0000889-88.2025.8.05.0057",
+     "d": "2025-09-19"
+    },
+    {
+     "n": "0040971-38.2025.8.05.0001",
+     "d": "2025-09-18"
+    },
+    {
+     "n": "0078190-85.2025.8.05.0001",
+     "d": "2025-09-18"
+    },
+    {
+     "n": "0014584-58.2024.8.05.0150",
+     "d": "2025-09-17"
+    },
+    {
+     "n": "0067320-78.2025.8.05.0001",
+     "d": "2025-09-15"
+    },
+    {
+     "n": "0034063-62.2025.8.05.0001",
+     "d": "2025-09-15"
+    }
+   ]
+  },
+  {
+   "tese": "WhatsApp clonado",
+   "setor": "FRAUDE",
+   "frase": "\"whatsapp clonado\"",
+   "n_antigo": 4,
+   "n_recente": 1,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 1,
+   "mult_6m": 0.0,
+   "multiplicador": 0.25,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Golpista clona/assume o WhatsApp e pede dinheiro a contatos, ou usa o número para fraudes bancárias. Contra a operadora/banco discute-se falha de segurança (SIM swap, portabilidade fraudulenta) e transações daí decorrentes.",
+    "documentos": [
+     "B.O.",
+     "Prints das conversas fraudulentas",
+     "Registro na operadora (portabilidade/chip)",
+     "Extratos das transações fraudulentas"
+    ],
+    "como_ajuizar": "Contra a operadora: indenização por falha de segurança na portabilidade/SIM swap. Contra o banco: inexistência das operações fraudulentas. Tutela para restabelecer a linha e suspender débitos.",
+    "fundamentos": [
+     "CDC art. 14",
+     "Súmula 479 STJ (banco)",
+     "dever de segurança das telecom (Anatel)"
+    ],
+    "valor_referencia": "Dano moral R$ 3.000–10.000; devolução dos valores."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Site/loja falsa",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"loja falsa\"",
+   "n_antigo": 0,
+   "n_recente": 0,
+   "n_recente_6m": 0,
+   "n_anterior_6m": 0,
+   "mult_6m": 0.0,
+   "multiplicador": 0.0,
+   "status": "ESTAVEL",
+   "guia": {
+    "explicacao": "Consumidor compra em site/loja virtual falsa (ou clonada) e não recebe o produto nem o estorno. Discute-se a responsabilidade da plataforma de pagamento/marketplace e do banco pelo chargeback.",
+    "documentos": [
+     "Comprovante da compra e do pagamento",
+     "Anúncio/site (prints, URL)",
+     "B.O.",
+     "Tentativas de contato e protocolos",
+     "Pedido de estorno/chargeback"
+    ],
+    "como_ajuizar": "Restituição do valor c/c danos morais contra o vendedor e, quando cabível, o marketplace/intermediador de pagamento (responsabilidade solidária). Tutela para estorno. Pleitear chargeback junto à administradora do cartão.",
+    "fundamentos": [
+     "CDC arts. 14, 18 e 25, § 1º (solidariedade)",
+     "Marco Civil da Internet (provedores)",
+     "boa-fé objetiva"
+    ],
+    "valor_referencia": "Devolução integral + dano moral R$ 1.500–6.000."
+   },
+   "processos": []
+  },
+  {
+   "tese": "Motorista de aplicativo",
+   "setor": "CONSUMO_DIGITAL",
+   "frase": "\"motorista de aplicativo\"",
+   "n_antigo": 272,
+   "n_recente": 169,
+   "n_recente_6m": 22,
+   "n_anterior_6m": 147,
+   "mult_6m": 0.15,
+   "multiplicador": 0.62,
+   "status": "DECLINANDO",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Empréstimo consignado (clássico)",
+   "setor": "FINANCEIRO",
+   "frase": "\"empréstimo consignado\"",
+   "n_antigo": 12544,
+   "n_recente": 6751,
+   "n_recente_6m": 1022,
+   "n_anterior_6m": 5729,
+   "mult_6m": 0.18,
+   "multiplicador": 0.54,
+   "status": "DECLINANDO",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Negativação indevida (clássica)",
+   "setor": "FINANCEIRO",
+   "frase": "\"negativação indevida\"",
+   "n_antigo": 19642,
+   "n_recente": 9696,
+   "n_recente_6m": 1155,
+   "n_anterior_6m": 8541,
+   "mult_6m": 0.14,
+   "multiplicador": 0.49,
+   "status": "DECLINANDO",
+   "guia": null,
+   "processos": []
+  },
+  {
+   "tese": "Golpe do motoboy / cartão",
+   "setor": "FRAUDE",
+   "frase": "\"golpe do motoboy\"",
+   "n_antigo": 267,
+   "n_recente": 113,
+   "n_recente_6m": 6,
+   "n_anterior_6m": 107,
+   "mult_6m": 0.06,
+   "multiplicador": 0.42,
+   "status": "DECLINANDO",
+   "guia": null,
+   "processos": []
+  }
+ ]
+}

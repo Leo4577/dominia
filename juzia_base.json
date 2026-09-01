@@ -1,0 +1,4470 @@
+{
+ "total": 199,
+ "setores": [
+  {
+   "grupo": "FINANCEIRO",
+   "n": 55,
+   "pct_exito": 65,
+   "ic": [
+    52,
+    77
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 55,
+     "pct": 65,
+     "ic": [
+      52,
+      77
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "TRANSACAO_NAO_RECONHECIDA",
+     "n": 15,
+     "pct": 87,
+     "ic": [
+      62,
+      96
+     ]
+    },
+    {
+     "chave": "CONSIGNADO_REGULAR_VALIDO",
+     "n": 12,
+     "pct": 0,
+     "ic": [
+      0,
+      24
+     ]
+    },
+    {
+     "chave": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "n": 10,
+     "pct": 100,
+     "ic": [
+      72,
+      100
+     ]
+    },
+    {
+     "chave": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "n": 7,
+     "pct": 100,
+     "ic": [
+      65,
+      100
+     ]
+    },
+    {
+     "chave": "OUTRO",
+     "n": 5,
+     "pct": 0,
+     "ic": [
+      0,
+      43
+     ]
+    },
+    {
+     "chave": "CONSIGNADO_NAO_CONTRATADO_FRAUDE",
+     "n": 4,
+     "pct": 100,
+     "ic": [
+      51,
+      100
+     ]
+    },
+    {
+     "chave": "NEGATIVACAO_COM_DIVIDA_PREEXISTENTE",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "BRADESCO",
+     "n": 10,
+     "pct": 60,
+     "ic": [
+      31,
+      83
+     ]
+    },
+    {
+     "chave": "BANCO DO BRASIL",
+     "n": 7,
+     "pct": 86,
+     "ic": [
+      49,
+      97
+     ]
+    },
+    {
+     "chave": "ITAU",
+     "n": 5,
+     "pct": 40,
+     "ic": [
+      12,
+      77
+     ]
+    },
+    {
+     "chave": "NUBANK",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "SANTANDER",
+     "n": 3,
+     "pct": 33,
+     "ic": [
+      6,
+      79
+     ]
+    },
+    {
+     "chave": "SEM PARAR",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "C6",
+     "n": 2,
+     "pct": 0,
+     "ic": [
+      0,
+      66
+     ]
+    },
+    {
+     "chave": "AGIBANK",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MERCADO PAGO",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "NAO IDENTIFICADO",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "FACTA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "CAPITAL CONSIG",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MERCANTIL",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "DIGIO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "BANCO PAN",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "DAYCOVAL",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "PARANA BANCO",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "SAFRA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "PAGBANK",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CREDZ",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "BANCO ORIGINAL",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CLIENT CO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "GETNET",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "PICPAY",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "BRADESCO / VISA / AIG (SEGURO)",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "ELIENE SIMONE SILVA OLIVEIRA",
+     "n": 13,
+     "pct": 38,
+     "ic": [
+      18,
+      64
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 8,
+     "pct": 75,
+     "ic": [
+      41,
+      93
+     ]
+    },
+    {
+     "chave": "CLAUDIA VALERIA PANETTA",
+     "n": 5,
+     "pct": 40,
+     "ic": [
+      12,
+      77
+     ]
+    },
+    {
+     "chave": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "n": 4,
+     "pct": 50,
+     "ic": [
+      15,
+      85
+     ]
+    },
+    {
+     "chave": "BENICIO MASCARENHAS NETO",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "MARIA AUXILIADORA SOBRAL LEITE",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA LUCIA COELHO MATOS",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARIAH MEIRELLES DE FONSECA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "IVANA CARVALHO SILVA FERNANDES",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "(n/d)",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 40,
+    "mediana": 4000,
+    "min": 2000,
+    "max": 10000
+   },
+   "fundamentos": [
+    {
+     "f": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "freq": 12
+    },
+    {
+     "f": "falha no sistema de segurança / risco da atividade",
+     "freq": 6
+    },
+    {
+     "f": "litigancia de ma-fe mantida",
+     "freq": 4
+    },
+    {
+     "f": "dano moral não configurado - mero aborrecimento",
+     "freq": 3
+    },
+    {
+     "f": "responsabilidade objetiva art. 14 CDC",
+     "freq": 3
+    },
+    {
+     "f": "Sumula 10 TUJ/TJBA - relacao juridica prescinde de instrumento contratual",
+     "freq": 2
+    }
+   ],
+   "provas": [
+    {
+     "p": "boletim de ocorrência",
+     "freq": 4
+    },
+    {
+     "p": "biometria facial (selfie)",
+     "freq": 2
+    },
+    {
+     "p": "comprovante de transferencia (TED) do valor ao autor",
+     "freq": 2
+    },
+    {
+     "p": "ausencia de comprovacao da contratacao pela re",
+     "freq": 2
+    },
+    {
+     "p": "prova de ligação de canal oficial do banco réu",
+     "freq": 2
+    },
+    {
+     "p": "documentos da contratacao juntados na contestacao",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0025346-18.2025.8.05.0080",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "FACTA",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "banco comprovou a relacao juridica/contratacao (art. 373, II, CPC)",
+     "prova": "documentos da contratacao juntados na contestacao",
+     "valor": null
+    },
+    {
+     "proc": "0001103-04.2025.8.05.0082",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "ITAU",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "refinanciamento contratado digitalmente com biometria facial - contrato valido",
+     "prova": "biometria facial (selfie)",
+     "valor": null
+    },
+    {
+     "proc": "0001964-05.2025.8.05.0271",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SANTANDER",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "autor nao se desincumbiu de prova minima do fato constitutivo",
+     "prova": "comprovacao da relacao juridica pela re",
+     "valor": null
+    },
+    {
+     "proc": "0003469-31.2025.8.05.0271",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "C6",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "banco apresentou CCB assinada e comprovante de TED do credito",
+     "prova": "Cedula de Credito Bancario (CCB) assinada",
+     "valor": null
+    },
+    {
+     "proc": "0011601-96.2025.8.05.0103",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "CAPITAL CONSIG",
+     "micro": "CONSIGNADO_NAO_CONTRATADO_FRAUDE",
+     "resultado": "PARCIAL",
+     "fund": "descontos de consignado nao reconhecidos pelo consumidor",
+     "prova": "contracheque com descontos nao reconhecidos",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0004290-49.2025.8.05.0137",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "MERCANTIL",
+     "micro": "CONSIGNADO_NAO_CONTRATADO_FRAUDE",
+     "resultado": "GANHOU",
+     "fund": "banco nao comprovou contratacao idonea",
+     "prova": "ausencia de contrato valido/assinatura",
+     "valor": 7000.0
+    },
+    {
+     "proc": "0140216-22.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "BANCO DO BRASIL",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "contratacao eletronica via aplicativo mobile comprovada",
+     "prova": "assinatura digital via aplicativo",
+     "valor": null
+    },
+    {
+     "proc": "0006382-28.2025.8.05.0063",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "SANTANDER",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "prova documental suficiente da contratacao e do credito em conta",
+     "prova": "contrato e comprovante de credito em conta de titularidade do autor",
+     "valor": null
+    },
+    {
+     "proc": "0154077-75.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "DIGIO",
+     "micro": "CONSIGNADO_NAO_CONTRATADO_FRAUDE",
+     "resultado": "GANHOU",
+     "fund": "re nao se desincumbiu de comprovar a contratacao (art. 373, II, CPC)",
+     "prova": "ausencia de comprovacao da contratacao pela re",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0132868-50.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "BANCO PAN",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "re comprovou fato impeditivo/modificativo (art. 373, II, CPC)",
+     "prova": "documentos da contratacao",
+     "valor": null
+    },
+    {
+     "proc": "0051507-11.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "DAYCOVAL",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "contratacao digital com biometria facial e assinatura eletronica valida",
+     "prova": "biometria facial (selfie)",
+     "valor": null
+    },
+    {
+     "proc": "0003253-37.2025.8.05.0088",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "AGIBANK",
+     "micro": "CONSIGNADO_NAO_CONTRATADO_FRAUDE",
+     "resultado": "GANHOU",
+     "fund": "consignado nao contratado - inexistencia do debito reconhecida na origem",
+     "prova": "ausencia de comprovacao idonea da contratacao",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0003423-40.2025.8.05.0110",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "C6",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "banco comprovou a contratacao (CCB assinada + TED)",
+     "prova": "Cedula de Credito Bancario assinada",
+     "valor": null
+    },
+    {
+     "proc": "0004121-20.2025.8.05.0248",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "ITAU",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "contrato assinado a rogo, com duas testemunhas e aposicao de digital (art. 595 CC) - valido",
+     "prova": "contrato assinado a rogo com aposicao de digital e duas testemunhas",
+     "valor": null
+    },
+    {
+     "proc": "0179907-43.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "PARANA BANCO",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "seguro prestamista contratado de forma apartada - inexistencia de venda casada (Tema 972 STJ)",
+     "prova": "contrato de seguro em apartado com assinatura digital",
+     "valor": null
+    },
+    {
+     "proc": "0162775-70.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "BRADESCO",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "re comprovou debito em aberto e a relacao juridica (art. 373, II, CPC)",
+     "prova": "documentacao comprobatoria da relacao juridica",
+     "valor": null
+    },
+    {
+     "proc": "0175138-89.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "BRADESCO",
+     "micro": "CONSIGNADO_REGULAR_VALIDO",
+     "resultado": "PERDEU",
+     "fund": "CCB do refinanciamento assinado que faz mencao expressa ao contrato impugnado",
+     "prova": "CCB do refinanciamento assinado + documento de identificacao",
+     "valor": null
+    },
+    {
+     "proc": "0165485-63.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "NUBANK",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PERDEU",
+     "fund": "ausência de prova mínima dos fatos constitutivos (art. 373, I, CPC)",
+     "prova": "autora não comprovou os fatos constitutivos",
+     "valor": null
+    },
+    {
+     "proc": "0002675-78.2025.8.05.0022",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "BRADESCO",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "prova de ligação de canal oficial do banco réu",
+     "valor": null
+    },
+    {
+     "proc": "0024237-66.2025.8.05.0080",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "BANCO DO BRASIL",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva pelo risco da atividade / falha na prestação do serviço",
+     "prova": "compras impugnadas lançadas na fatura do cartão",
+     "valor": null
+    },
+    {
+     "proc": "0153152-79.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "ITAU",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva / falha na prestação do serviço",
+     "prova": "compras impugnadas na fatura do cartão de crédito",
+     "valor": null
+    },
+    {
+     "proc": "0001186-82.2025.8.05.0223",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "BANCO DO BRASIL",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "PARCIAL",
+     "fund": "fortuito interno afasta culpa exclusiva da vítima (Súmula 479 STJ)",
+     "prova": "indução a instalar app de acesso remoto (AnyDesk)",
+     "valor": null
+    },
+    {
+     "proc": "0001521-10.2025.8.05.0027",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "BRADESCO",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "boletim de ocorrência",
+     "valor": null
+    },
+    {
+     "proc": "0006229-41.2025.8.05.0274",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "BRADESCO",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "boletim de ocorrência",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0006194-10.2025.8.05.0039",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "NUBANK",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "transferências PIX no mesmo dia destoantes do padrão",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0003016-82.2025.8.05.0191",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "NUBANK",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "movimentação fraudulenta reconhecida",
+     "valor": null
+    },
+    {
+     "proc": "0094550-95.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "MERCADO PAGO",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "várias transferências em menos de 30 minutos sem autorização",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0125343-17.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "BRADESCO",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PERDEU",
+     "fund": "culpa da vítima / descuido na guarda de dados afasta responsabilidade objetiva",
+     "prova": "banco comprovou uso de cartão físico com chip e senha pessoal",
+     "valor": null
+    },
+    {
+     "proc": "0026121-33.2025.8.05.0080",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "SAFRA",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "boletim de ocorrência",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0011285-83.2025.8.05.0103",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "MERCADO PAGO",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "mensagem via WhatsApp com link fraudulento (phishing)",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0144204-51.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "BANCO DO BRASIL",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "comprovante do PIX de R$34.400 com data/hora e instituição recebedora",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0145192-72.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "BANCO DO BRASIL",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva (art. 14 CDC) - inversão ope legis (art. 14, §3º)",
+     "prova": "ré não comprovou uso de mecanismos pessoais de segurança",
+     "valor": null
+    },
+    {
+     "proc": "0126400-70.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "BANCO DO BRASIL",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva - falha na prestação do serviço (Súmula 479 STJ)",
+     "prova": "telas do banco não demonstram autorização da transferência",
+     "valor": null
+    },
+    {
+     "proc": "0025061-68.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "PAGBANK",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva (art. 14, §3º CDC) - inversão ope legis",
+     "prova": "ré (PagBank) não comprovou legitimidade das transações",
+     "valor": null
+    },
+    {
+     "proc": "0097752-80.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "NUBANK",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "movimentação fraudulenta reconhecida em sentença",
+     "valor": null
+    },
+    {
+     "proc": "0003152-05.2025.8.05.0248",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "AGIBANK",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "boletim de ocorrência",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0004654-26.2025.8.05.0103",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "CREDZ",
+     "micro": "TRANSACAO_NAO_RECONHECIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva (art. 14 CDC) - falha na prestação do serviço",
+     "prova": "contestação das compras e pedido de bloqueio do cartão",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0129891-85.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "BRADESCO",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "PARCIAL",
+     "fund": "fortuito interno afasta culpa exclusiva da vítima (Súmula 479 STJ)",
+     "prova": "prova de ligação de canal oficial do banco réu",
+     "valor": null
+    },
+    {
+     "proc": "0120949-64.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SANTANDER",
+     "micro": "GOLPE_PIX_ENGENHARIA_SOCIAL",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - fortuito interno (Súmula 479 STJ)",
+     "prova": "mensagem/link fraudulento sobre pontos de fidelidade (phishing)",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0159789-46.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "BRADESCO",
+     "micro": "NEGATIVACAO_COM_DIVIDA_PREEXISTENTE",
+     "resultado": "PARCIAL",
+     "fund": "Sumula 385 STJ - negativacao preexistente legitima afasta dano moral",
+     "prova": "certidao com negativacao preexistente (MG-MBE/Brasil Card, 16/12/2024)",
+     "valor": null
+    },
+    {
+     "proc": "0165461-35.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "ITAU",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "PARCIAL",
+     "fund": "non reformatio in pejus (recurso exclusivo do autor)",
+     "prova": "documento assinado de recebimento do cartao (ev. 12.8)",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0101637-05.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SEM PARAR",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva art. 14 CDC",
+     "prova": "ausencia de prova da contratacao/regularidade do debito pela re",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0190065-60.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SEM PARAR",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "negativacao devida - exercicio regular de direito",
+     "prova": "comprovacao da relacao juridica e do inadimplemento pela re",
+     "valor": null
+    },
+    {
+     "proc": "0137300-15.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "BANCO ORIGINAL",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "PARCIAL",
+     "fund": "debito declarado inexistente (re nao comprovou legalidade)",
+     "prova": "ausencia de certidao oficial SPC/Serasa/CDL (extrato nao oficial inidoneo)",
+     "valor": null
+    },
+    {
+     "proc": "0165562-72.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "NAO IDENTIFICADO",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "dano moral in re ipsa",
+     "prova": "re nao juntou contrato; contestacao generica sem prova",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0034967-82.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "ITAU",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "debito existente comprovado - inscricao e exercicio regular de direito",
+     "prova": "solicitacao de cartao, historico de uso, pagamentos e inadimplencia (ev. 10)",
+     "valor": null
+    },
+    {
+     "proc": "0153868-09.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "CLIENT CO",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "PARCIAL",
+     "fund": "debito declarado inexistente (falha na prestacao do servico)",
+     "prova": "certidao do ev. 1 nao e de orgao arquivista oficial",
+     "valor": null
+    },
+    {
+     "proc": "0161133-62.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "BRADESCO",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "debito comprovado - negativacao devida (exercicio regular de direito)",
+     "prova": "documentos da relacao juridica e da divida (ev. 17); autor nao provou pagamento",
+     "valor": null
+    },
+    {
+     "proc": "0147066-92.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "GETNET",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "PARCIAL",
+     "fund": "certidao de plataforma privada (CredNet) nao comprova negativacao",
+     "prova": "certidao CredNet (nao oficial) - inapta a provar inscricao",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0008341-11.2025.8.05.0103",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "BRADESCO",
+     "micro": "NEGATIVACAO_COM_DIVIDA_PREEXISTENTE",
+     "resultado": "GANHOU",
+     "fund": "Sumula 385 STJ afastada - re nao comprovou legitimidade das inscricoes preexistentes",
+     "prova": "consulta a orgaos de credito mostrando anotacoes anteriores (Santander) impugnadas pelo consumidor",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0134823-19.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "PICPAY",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "dano moral in re ipsa - negativacao por divida nao reconhecida",
+     "prova": "revelia; ausencia de prova da contratacao; autora sem outras inscricoes",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0194100-63.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "BANCO DO BRASIL",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva art. 14 CDC",
+     "prova": "ausencia de prova da contratacao pela re; extrato com inscricoes posteriores",
+     "valor": null
+    },
+    {
+     "proc": "0168371-35.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "SEM PARAR",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "dano moral in re ipsa (extrato oficial comprova inscricao)",
+     "prova": "extrato de orgao oficial juntado pelo autor (ev. 1); ausencia de prova do debito pela re",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0185942-19.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "NAO IDENTIFICADO",
+     "micro": "NEGATIVACAO_INDEVIDA_SEM_DIVIDA",
+     "resultado": "GANHOU",
+     "fund": "dano moral in re ipsa - inscricao ilegal",
+     "prova": "comprovante de negativacao valido (ev. 15); ausencia de contrato/cessao de credito",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0047483-37.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": null,
+     "reu": "BRADESCO / VISA / AIG (SEGURO)",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "entendimento pacificado da Turma",
+     "prova": "",
+     "valor": null
+    }
+   ]
+  },
+  {
+   "grupo": "AEREO",
+   "n": 34,
+   "pct_exito": 76,
+   "ic": [
+    60,
+    88
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 34,
+     "pct": 76,
+     "ic": [
+      60,
+      88
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "EXTRAVIO_AVARIA_BAGAGEM",
+     "n": 12,
+     "pct": 100,
+     "ic": [
+      76,
+      100
+     ]
+    },
+    {
+     "chave": "CANCELAMENTO_VOO",
+     "n": 8,
+     "pct": 75,
+     "ic": [
+      41,
+      93
+     ]
+    },
+    {
+     "chave": "ATRASO_MAIOR_4H",
+     "n": 6,
+     "pct": 100,
+     "ic": [
+      61,
+      100
+     ]
+    },
+    {
+     "chave": "ATRASO_MENOR_4H",
+     "n": 6,
+     "pct": 17,
+     "ic": [
+      3,
+      56
+     ]
+    },
+    {
+     "chave": "OVERBOOKING",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "LATAM",
+     "n": 14,
+     "pct": 79,
+     "ic": [
+      52,
+      92
+     ]
+    },
+    {
+     "chave": "GOL",
+     "n": 6,
+     "pct": 50,
+     "ic": [
+      19,
+      81
+     ]
+    },
+    {
+     "chave": "AZUL",
+     "n": 4,
+     "pct": 100,
+     "ic": [
+      51,
+      100
+     ]
+    },
+    {
+     "chave": "AMERICAN",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "AIR EUROPA",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "LATAM/TAM",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "IBERIA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "KANDANGO (RODOVIÁRIO)",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "GONTIJO (RODOVIÁRIO)",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "GOL/LATAM",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "EMIRATES",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "(n/d)",
+     "n": 12,
+     "pct": 100,
+     "ic": [
+      76,
+      100
+     ]
+    },
+    {
+     "chave": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARY ANGELICA SANTOS COELHO",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "MARIA LUCIA COELHO MATOS",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "BENICIO MASCARENHAS NETO",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "IVANA CARVALHO SILVA FERNANDES",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "MARIA AUXILIADORA SOBRAL LEITE",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 71,
+    "mediana": 6000,
+    "min": 2000,
+    "max": 10000
+   },
+   "fundamentos": [
+    {
+     "f": "responsabilidade objetiva",
+     "freq": 5
+    },
+    {
+     "f": "falha na prestação",
+     "freq": 4
+    },
+    {
+     "f": "responsabilidade objetiva art.14 CDC",
+     "freq": 3
+    },
+    {
+     "f": "perda do tempo útil / desvio produtivo",
+     "freq": 2
+    },
+    {
+     "f": "falha na prestação do serviço",
+     "freq": 1
+    },
+    {
+     "f": "precedentes da própria Turma",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "reclamação registrada no aeroporto",
+     "freq": 1
+    },
+    {
+     "p": "comprovação de bens adquiridos em viagem internacional",
+     "freq": 1
+    },
+    {
+     "p": "documentos de objetos inutilizados pelo atraso",
+     "freq": 1
+    },
+    {
+     "p": "RIB - Registro de Irregularidade de Bagagem",
+     "freq": 1
+    },
+    {
+     "p": "itinerário de voo internacional",
+     "freq": 1
+    },
+    {
+     "p": "laudos médico e psicológico",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0000899-57.2025.8.05.0082",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": null,
+     "reu": "GOL",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva art.14 CDC",
+     "prova": "reclamação registrada no aeroporto",
+     "valor": null
+    },
+    {
+     "proc": "0003882-89.2025.8.05.0256",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": null,
+     "reu": "LATAM/TAM",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "Súmula 04 Turma Uniformização TJBA (dano material por outras provas)",
+     "prova": "comprovação de bens adquiridos em viagem internacional",
+     "valor": null
+    },
+    {
+     "proc": "0146754-19.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": null,
+     "reu": "AZUL",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva art.14 CDC",
+     "prova": "documentos de objetos inutilizados pelo atraso",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0023768-63.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": null,
+     "reu": "IBERIA",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade objetiva art.14 CDC",
+     "prova": "",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0011851-32.2025.8.05.0103",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": null,
+     "reu": "LATAM",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva",
+     "prova": "RIB - Registro de Irregularidade de Bagagem",
+     "valor": null
+    },
+    {
+     "proc": "0164065-23.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": null,
+     "reu": "AZUL",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva",
+     "prova": "",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0109671-66.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": null,
+     "reu": "LATAM",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "falha reconhecida administrativamente",
+     "prova": "reconhecimento administrativo da falha pela ré",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0001792-63.2024.8.05.0250",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": null,
+     "reu": "KANDANGO (RODOVIÁRIO)",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "limite tarifário ANTT (Res.1.432/06 art.8)",
+     "prova": "termo de reclamação de bagagem",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0003770-66.2025.8.05.0274",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": null,
+     "reu": "LATAM",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "PARCIAL",
+     "fund": "mero descumprimento contratual não enseja dano moral",
+     "prova": "dano material comprovado",
+     "valor": null
+    },
+    {
+     "proc": "0012173-52.2025.8.05.0103",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": null,
+     "reu": "AZUL",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "falha na prestação",
+     "prova": "",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0004450-08.2025.8.05.0256",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": null,
+     "reu": "LATAM",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "GANHOU",
+     "fund": "falha na prestação",
+     "prova": "PIR/AHL - Property Irregularity Report",
+     "valor": null
+    },
+    {
+     "proc": "0001210-19.2025.8.05.0027",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": null,
+     "reu": "GONTIJO (RODOVIÁRIO)",
+     "micro": "EXTRAVIO_AVARIA_BAGAGEM",
+     "resultado": "PARCIAL",
+     "fund": "limite tarifário ANTT (Res.1.432/06 / Dec.2.521/98 art.74)",
+     "prova": "",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0150684-45.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "LATAM",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "atraso de voo internacional com perda de conexao e pernoite - dano moral in re ipsa",
+     "prova": "comprovacao do atraso, perda de conexao e pernoite",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0157478-82.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "AMERICAN",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "atraso de cerca de 15h ao destino final - fortuito interno - dano moral configurado",
+     "prova": "comprovacao da realocacao em outro voo com 15h de atraso",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0171799-25.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "AMERICAN",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "cancelamento e atraso superior a 48h com overbooking - falha na prestacao do servico",
+     "prova": "comprovacao do atraso superior a 48h e alteracoes unilaterais de voo",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0159685-54.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "LATAM",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "atraso na entrega de bagagem e perda de conexao - voo remarcado para dia subsequente (pernoite) - dano moral configurado",
+     "prova": "comprovacao da perda de conexao e remarcacao para o dia seguinte",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0009966-52.2025.8.05.0274",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "GOL/LATAM",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "atraso de voo com perda dos voos subsequentes - compra de novas passagens - falha na prestacao",
+     "prova": "comprovantes de aquisicao de novas passagens (R$ 13.363,95)",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0003498-09.2025.8.05.0004",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "GOL",
+     "micro": "ATRASO_MAIOR_4H",
+     "resultado": "GANHOU",
+     "fund": "atrasos desproporcionais - ma prestacao do servico - dano moral",
+     "prova": "comprovacao dos atrasos desproporcionais",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0133938-05.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "GOL",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PERDEU",
+     "fund": "atraso inferior a 4h por manutencao nao programada - mero dissabor - dano moral nao configurado",
+     "prova": "ausencia de prova de abalo extrapatrimonial concreto",
+     "valor": null
+    },
+    {
+     "proc": "0165576-56.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "GOL",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PERDEU",
+     "fund": "alteracao e atraso de voo inferior a 4h - art. 3 Res. 141/2010 ANAC - inexistencia de dano moral in re ipsa",
+     "prova": "ausencia de comprovacao do prejuizo extrapatrimonial",
+     "valor": null
+    },
+    {
+     "proc": "0037728-86.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "LATAM",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PERDEU",
+     "fund": "atraso de 1h30 (inferior a 4h) - mero dissabor - improcedencia",
+     "prova": "print de agendamento de corrida considerado insuficiente",
+     "valor": null
+    },
+    {
+     "proc": "0014780-38.2025.8.05.0103",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "LATAM",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PERDEU",
+     "fund": "atraso inferior a 4h - ofensa a direito de personalidade nao demonstrada - improcedencia",
+     "prova": "ausencia de prova de dano concreto",
+     "valor": null
+    },
+    {
+     "proc": "0129960-20.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "EMIRATES",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PERDEU",
+     "fund": "atraso de 2h (inferior a 4h) que culminou na perda de trem - improcedencia",
+     "prova": "ausencia de prova individualizada do dano / standards probatorios nao atendidos",
+     "valor": null
+    },
+    {
+     "proc": "0162346-06.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "LATAM",
+     "micro": "ATRASO_MENOR_4H",
+     "resultado": "PARCIAL",
+     "fund": "atraso superior a 2h e inferior a 4h - art. 8 Res. 400/2016 ANAC - dano moral afastado",
+     "prova": "comprovante do gasto material (R$ 305,00)",
+     "valor": null
+    },
+    {
+     "proc": "0010645-36.2025.8.05.0150",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "LATAM",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento de voo com atraso superior a 10h - falha na prestacao - art. 14 CDC - responsabilidade objetiva",
+     "prova": "comprovacao do cancelamento e atraso superior a 10h",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0025286-45.2025.8.05.0080",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "LATAM",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento e atraso superior a 12h - falha na prestacao - art. 14 CDC",
+     "prova": "comprovacao do cancelamento e atraso superior a 12h",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0042283-49.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "AIR EUROPA",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "PERDEU",
+     "fund": "cancelamento por greve dos controladores de trafego aereo da Franca - excludente do nexo de causalidade",
+     "prova": "comprovacao da greve (forca maior) e da realocacao do passageiro",
+     "valor": null
+    },
+    {
+     "proc": "0163807-13.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "AIR EUROPA",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento de voo internacional sem remarcacao/assistencia adequada - passageira e 3 criancas desamparadas - dano moral",
+     "prova": "comprovacao do cancelamento e ausencia de assistencia/reacomodacao",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0019158-09.2025.8.05.0080",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "AZUL",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento de voo com repercussao significativa no horario de chegada - art. 14 CDC - dano moral",
+     "prova": "comprovacao do cancelamento e do impacto no destino contratado",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0178160-58.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "GOL",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "PERDEU",
+     "fund": "lastro probatorio insuficiente para comprovar a ma prestacao alegada - inexistencia de ato ilicito - improcedencia",
+     "prova": "ausencia de prova dos fatos constitutivos do direito do autor",
+     "valor": null
+    },
+    {
+     "proc": "0003344-57.2025.8.05.0079",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "LATAM",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento de voo sem previo aviso - descumprimento do art. 2 Res. 556/2020 ANAC - dano moral",
+     "prova": "comprovacao do cancelamento sem previa comunicacao",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0000243-35.2025.8.05.0039",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "GOL",
+     "micro": "CANCELAMENTO_VOO",
+     "resultado": "GANHOU",
+     "fund": "cancelamento e alteracao de voo sem comunicacao previa - mudanca das condicoes contratadas - dano moral",
+     "prova": "comprovacao do cancelamento/alteracao",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0148098-35.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "LATAM",
+     "micro": "OVERBOOKING",
+     "resultado": "GANHOU",
+     "fund": "overbooking - defeito na prestacao do servico - chegada ao destino com 27h de atraso",
+     "prova": "comprovacao do overbooking e do atraso de 27h",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0060050-03.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "LATAM",
+     "micro": "OVERBOOKING",
+     "resultado": "PERDEU",
+     "fund": "adiantamento de voo em 1h - contexto que nao configura dano moral",
+     "prova": "ausencia de prova do overbooking e dos danos materiais (notas/recibos)",
+     "valor": null
+    }
+   ]
+  },
+  {
+   "grupo": "COELBA",
+   "n": 31,
+   "pct_exito": 87,
+   "ic": [
+    71,
+    95
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 17,
+     "pct": 94,
+     "ic": [
+      73,
+      99
+     ]
+    },
+    "JUSTICA_COMUM": {
+     "n": 14,
+     "pct": 79,
+     "ic": [
+      52,
+      92
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "RECUPERACAO_CONSUMO_TOI",
+     "n": 16,
+     "pct": 94,
+     "ic": [
+      72,
+      99
+     ]
+    },
+    {
+     "chave": "DANO_ELETRICO",
+     "n": 6,
+     "pct": 100,
+     "ic": [
+      61,
+      100
+     ]
+    },
+    {
+     "chave": "CORTE_DEBITO_RECUPERACAO",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "FATURA_EXCESSIVA",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "CORTE_INDEVIDO",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "COELBA",
+     "n": 31,
+     "pct": 87,
+     "ic": [
+      71,
+      95
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA DE FATIMA SILVA CARVALHO",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "CLAUDIA VALERIA PANETTA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA AUXILIADORA SOBRAL LEITE",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA LUCIA COELHO MATOS",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ANDREA PAULA MATOS RODRIGUES DE MIRANDA",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "IVANA CARVALHO SILVA FERNANDES",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CYNTHIA MARIA PINA RESENDE",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "JOSE ALFREDO CERQUEIRA DA SILVA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "FRANCISCO DE OLIVEIRA BISPO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MARIELZA BRANDAO FRANCO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ROSITA FALCAO DE ALMEIDA MAIA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "PAULO CESAR BANDEIRA DE MELO JORGE",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "JOSE JORGE LOPES BARRETO DA SILVA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 39,
+    "mediana": 4000,
+    "min": 2000,
+    "max": 20000
+   },
+   "fundamentos": [
+    {
+     "f": "Tema 699 STJ e Res. 1.000/2021 ANEEL: ausência de notificação prévia = inobservância do contraditório",
+     "freq": 2
+    },
+    {
+     "f": "ausência dos documentos probatórios do procedimento administrativo",
+     "freq": 2
+    },
+    {
+     "f": "TOI/refaturamento unilateral sem contraditório = débito inexigível",
+     "freq": 1
+    },
+    {
+     "f": "responsabilidade objetiva da concessionária",
+     "freq": 1
+    },
+    {
+     "f": "desídia na solução administrativa (perda do tempo útil) gera dano moral",
+     "freq": 1
+    },
+    {
+     "f": "débito apurado unilateralmente e contestado = ofensa ao contraditório",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "ausência de provas da notificação prévia do consumidor",
+     "freq": 3
+    },
+    {
+     "p": "ausência de apresentação dos documentos do procedimento administrativo",
+     "freq": 2
+    },
+    {
+     "p": "cobrança de recuperação apurada unilateralmente",
+     "freq": 1
+    },
+    {
+     "p": "ausência de comprovação de contraditório/perícia idônea",
+     "freq": 1
+    },
+    {
+     "p": "TOI não assinado pela consumidora",
+     "freq": 1
+    },
+    {
+     "p": "apuração unilateral pela concessionária",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0082641-56.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "GANHOU",
+     "fund": "TOI/refaturamento unilateral sem contraditório = débito inexigível",
+     "prova": "cobrança de recuperação apurada unilateralmente",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0085803-59.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "GANHOU",
+     "fund": "débito apurado unilateralmente e contestado = ofensa ao contraditório",
+     "prova": "TOI não assinado pela consumidora",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0000488-82.2025.8.05.0027",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "cobrança de recuperação sem notificação prévia nem perícia acompanhada = nula",
+     "prova": "ausência de notificação prévia do consumidor",
+     "valor": null
+    },
+    {
+     "proc": "0002211-88.2021.8.05.0250",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "COELBA",
+     "micro": "FATURA_EXCESSIVA",
+     "resultado": "GANHOU",
+     "fund": "cobrança que destoa da média de consumo, não comprovado consumo real",
+     "prova": "TOI/apuração unilateral pela concessionária",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0077068-37.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "procedimento apuratório sem contraditório e ampla defesa = ilegalidade da cobrança",
+     "prova": "laudo de inspeção unilateral (nº 4404490952) não comprovado",
+     "valor": null
+    },
+    {
+     "proc": "0052557-72.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "cobrança após TOI sem notificação = nulidade do procedimento administrativo",
+     "prova": "ausência de notificação do consumidor",
+     "valor": null
+    },
+    {
+     "proc": "0134481-08.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "COELBA",
+     "micro": "FATURA_EXCESSIVA",
+     "resultado": "GANHOU",
+     "fund": "faturas destoam do consumo médio e regularidade não comprovada pela concessionária",
+     "prova": "ausência de laudo de órgão oficial/perícia independente",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0008050-64.2025.8.05.0150",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "TOI declarado nulo e fatura de recuperação inexigível (R$ 6.159,87)",
+     "prova": "ausência de provas do procedimento apuratório",
+     "valor": null
+    },
+    {
+     "proc": "0000932-76.2025.8.05.0137",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "Tema 699 STJ e Res. 414/2010 ANEEL: ausência de notificação prévia = inobservância do contraditório",
+     "prova": "ausência de provas da notificação prévia do consumidor",
+     "valor": null
+    },
+    {
+     "proc": "0008152-05.2025.8.05.0080",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "procedimento apuratório unilateral e irregular, TOI não juntado",
+     "prova": "Termo de Ocorrência e Inspeção (TOI) não juntado aos autos",
+     "valor": null
+    },
+    {
+     "proc": "0013689-79.2025.8.05.0080",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PERDEU",
+     "fund": "procedimento de apuração observou o devido processo legal e o contraditório",
+     "prova": "notificação prévia do consumidor comprovada",
+     "valor": null
+    },
+    {
+     "proc": "0001882-69.2025.8.05.0110",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "Tema 699 STJ e Res. 1.000/2021 ANEEL: apuração sem contraditório = cobrança ilegal",
+     "prova": "ausência de notificação prévia para inspeção/defesa",
+     "valor": null
+    },
+    {
+     "proc": "0002538-30.2025.8.05.0141",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "GANHOU",
+     "fund": "Tema 699 STJ: procedimento administrativo viola contraditório e ampla defesa",
+     "prova": "TOI sem assinatura da parte autora",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0125773-66.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "Tema 699 STJ e Res. 1.000/2021 ANEEL: ausência de notificação prévia = inobservância do contraditório",
+     "prova": "ausência de provas da notificação prévia do consumidor",
+     "valor": null
+    },
+    {
+     "proc": "0002019-02.2025.8.05.0191",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "Tema 699 STJ: imposição unilateral de débito sem contraditório é abusiva",
+     "prova": "ausência de comprovação de notificação após o TOI",
+     "valor": null
+    },
+    {
+     "proc": "0000466-02.2023.8.05.0154",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "PARCIAL",
+     "fund": "Tema 699 STJ e Res. 1.000/2021 ANEEL: ausência de notificação prévia = inobservância do contraditório",
+     "prova": "ausência de provas da notificação prévia do consumidor",
+     "valor": null
+    },
+    {
+     "proc": "0013336-39.2025.8.05.0080",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "GANHOU",
+     "fund": "fraude no medidor não pode ser presumida; ônus da prova da concessionária",
+     "prova": "ausência de prova inequívoca de fraude/adulteração no medidor",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0155492-26.2007.8.05.0001",
+     "turma": "PRIMEIRA CAMARA CÍVEL",
+     "relator": "CYNTHIA MARIA PINA RESENDE",
+     "reu": "COELBA",
+     "micro": "FATURA_EXCESSIVA",
+     "resultado": "PERDEU",
+     "fund": "Enquadramento no Grupo A / tarifa binômia legítimo: transformador com potência >112,5 kVA impede enquadramento no Grupo B",
+     "prova": "Prova pericial sobre potência do transformador (150 kVA)",
+     "valor": null
+    },
+    {
+     "proc": "8013279-93.2023.8.05.0001",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "CORTE_DEBITO_RECUPERACAO",
+     "resultado": "GANHOU",
+     "fund": "Recuperação de consumo exige procedimento administrativo regular; nula a apuração unilateral com fotos e elementos genéricos sem contraditório ou perícia metrológica",
+     "prova": "Nulidade do TOI por ausência de perícia metrológica",
+     "valor": 5000.0
+    },
+    {
+     "proc": "8000152-51.2020.8.05.0209",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "ANDREA PAULA MATOS RODRIGUES DE MIRANDA",
+     "reu": "COELBA",
+     "micro": "CORTE_INDEVIDO",
+     "resultado": "PERDEU",
+     "fund": "Inovação recursal: alteração do marco temporal do evento é vedada em grau recursal",
+     "prova": "Ausência de protocolos/registros da interrupção alegada",
+     "valor": null
+    },
+    {
+     "proc": "8135821-45.2025.8.05.0001",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "ANDREA PAULA MATOS RODRIGUES DE MIRANDA",
+     "reu": "COELBA",
+     "micro": "RECUPERACAO_CONSUMO_TOI",
+     "resultado": "GANHOU",
+     "fund": "TOI nulo: imóvel desocupado à época, sem prova de que acompanhante representava a consumidora - prova unilateral",
+     "prova": "Nulidade do TOI (prova unilateral, imóvel desocupado)",
+     "valor": 5000.0
+    },
+    {
+     "proc": "8089764-03.2024.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MARIA DE FATIMA SILVA CARVALHO",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade objetiva da concessionária (art. 37, §6º CF; art. 14 CDC) - teoria do risco administrativo",
+     "prova": "Relatório técnico da TK Elevator atestando queima por oscilação de tensão",
+     "valor": null
+    },
+    {
+     "proc": "8176415-72.2023.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MARIA DE FATIMA SILVA CARVALHO",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade civil objetiva da concessionária por danos elétricos (queda/oscilação)",
+     "prova": "Comprovação do dano e nexo causal; indenizações securitárias pagas (R$ 10.518,96)",
+     "valor": null
+    },
+    {
+     "proc": "8052320-72.2020.8.05.0001",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "JOSE ALFREDO CERQUEIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "CORTE_DEBITO_RECUPERACAO",
+     "resultado": "PERDEU",
+     "fund": "Revelia da concessionária gera apenas presunção relativa, não afasta ônus do autor de prova mínima dos fatos constitutivos",
+     "prova": "Insuficiência probatória do autor (sem documentos da cobrança impugnada)",
+     "valor": null
+    },
+    {
+     "proc": "8105047-71.2021.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MARIA DE FATIMA SILVA CARVALHO",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade objetiva da concessionária por oscilação de tensão na rede",
+     "prova": "Comprovação do dano por oscilação de tensão na rede da segurada",
+     "valor": null
+    },
+    {
+     "proc": "8006030-40.2022.8.05.0191",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "FRANCISCO DE OLIVEIRA BISPO",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Contestação intempestiva atrai efeitos plenos da revelia",
+     "prova": "Formulário de vistoria da própria distribuidora comprovando nexo causal",
+     "valor": 20000.0
+    },
+    {
+     "proc": "8122789-41.2023.8.05.0001",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "MARIELZA BRANDAO FRANCO",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade objetiva (art. 37, §6º CF; art. 14 CDC) por danos em equipamentos por oscilação na rede",
+     "prova": "Laudos técnicos idôneos do dano elétrico",
+     "valor": null
+    },
+    {
+     "proc": "0522323-36.2014.8.05.0001",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "COELBA",
+     "micro": "CORTE_DEBITO_RECUPERACAO",
+     "resultado": "GANHOU",
+     "fund": "TOI produzido unilateralmente e sem assinatura da consumidora não tem presunção absoluta de veracidade",
+     "prova": "TOI sem assinatura da consumidora",
+     "valor": 4000.0
+    },
+    {
+     "proc": "8042084-56.2023.8.05.0001",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "ROSITA FALCAO DE ALMEIDA MAIA",
+     "reu": "COELBA",
+     "micro": "CORTE_DEBITO_RECUPERACAO",
+     "resultado": "GANHOU",
+     "fund": "TOI elaborado unilateralmente sem contraditório/assinatura é inválido - presunção apenas relativa",
+     "prova": "TOI unilateral sem assinatura",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8001413-04.2025.8.05.0265",
+     "turma": "PRIMEIRA CAMARA CÍVEL",
+     "relator": "PAULO CESAR BANDEIRA DE MELO JORGE",
+     "reu": "COELBA",
+     "micro": "CORTE_INDEVIDO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade objetiva (art. 37, §6º CF; art. 14 CDC) por demora injustificada na ligação de energia após regularização pela consumidora",
+     "prova": "Comprovação de que a autora sanou irregularidades e notificou formalmente a COELBA (30/12/2024)",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0520139-68.2018.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "JOSE JORGE LOPES BARRETO DA SILVA",
+     "reu": "COELBA",
+     "micro": "DANO_ELETRICO",
+     "resultado": "GANHOU",
+     "fund": "Responsabilidade objetiva da concessionária (art. 37, §6º CF)",
+     "prova": "Ausência de prova, pela COELBA, de regularidade da rede / excludente de responsabilidade",
+     "valor": null
+    }
+   ]
+  },
+  {
+   "grupo": "SAUDE",
+   "n": 30,
+   "pct_exito": 93,
+   "ic": [
+    79,
+    98
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 12,
+     "pct": 83,
+     "ic": [
+      55,
+      95
+     ]
+    },
+    "JUSTICA_COMUM": {
+     "n": 18,
+     "pct": 100,
+     "ic": [
+      82,
+      100
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "n": 15,
+     "pct": 100,
+     "ic": [
+      80,
+      100
+     ]
+    },
+    {
+     "chave": "OUTRO",
+     "n": 5,
+     "pct": 80,
+     "ic": [
+      38,
+      96
+     ]
+    },
+    {
+     "chave": "NEGATIVA_MEDICAMENTO",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "HOME_CARE",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ROL_ANS",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "NEGATIVA_EXAME",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "SULAMERICA",
+     "n": 9,
+     "pct": 100,
+     "ic": [
+      70,
+      100
+     ]
+    },
+    {
+     "chave": "UNIMED",
+     "n": 9,
+     "pct": 100,
+     "ic": [
+      70,
+      100
+     ]
+    },
+    {
+     "chave": "BRADESCO SAUDE",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "HAPVIDA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "PLANSERV",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "AMIL",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "PROMEDICA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "AMPLA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ATITUDE SAUDE",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "GEAP",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "RICARDO REGIS DOURADO",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "MARIELZA BRANDAO FRANCO",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "MARIAH MEIRELLES DE FONSECA",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "PAULO ALBERTO NUNES CHENAUD",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MAURICIO KERTZMAN SZPORER",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "JOSE ALFREDO CERQUEIRA DA SILVA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "LUCIANA CARINHANHA SETUBAL",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ELIENE SIMONE SILVA OLIVEIRA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ANTONIO MARON AGLE FILHO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MARIA DE FATIMA SILVA CARVALHO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "RAIMUNDO NONATO BORGES BRAGA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CARLA RODRIGUES DE ARAUJO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "IVANA CARVALHO SILVA FERNANDES",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MARY ANGELICA SANTOS COELHO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 63,
+    "mediana": 10000,
+    "min": 4000,
+    "max": 15000
+   },
+   "fundamentos": [
+    {
+     "f": "Prevalência da prescrição do médico assistente",
+     "freq": 2
+    },
+    {
+     "f": "Dano moral configurado",
+     "freq": 2
+    },
+    {
+     "f": "patologia nao excluida: escolha do tratamento e da alcada medica",
+     "freq": 2
+    },
+    {
+     "f": "violacao da boa-fe (arts. 46 e 54, §4º, CDC)",
+     "freq": 2
+    },
+    {
+     "f": "Insuficiência de rede credenciada no município de residência",
+     "freq": 1
+    },
+    {
+     "f": "Dever de reembolso integral das despesas médico-hospitalares",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "prescrição médica",
+     "freq": 2
+    },
+    {
+     "p": "prescrição médica de tratamento multidisciplinar",
+     "freq": 2
+    },
+    {
+     "p": "prescrição do médico assistente",
+     "freq": 2
+    },
+    {
+     "p": "ausência de hospital credenciado no município (atendimento oferecido a 40km)",
+     "freq": 1
+    },
+    {
+     "p": "relatório/prescrição do médico assistente",
+     "freq": 1
+    },
+    {
+     "p": "previsão no rol da ANS (RN 424/2017, RN 465/2021)",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "8024216-63.2026.8.05.0000",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "AMIL",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Insuficiência de rede credenciada no município de residência",
+     "prova": "prescrição médica",
+     "valor": null
+    },
+    {
+     "proc": "8149251-35.2023.8.05.0001",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "MARIELZA BRANDAO FRANCO",
+     "reu": "BRADESCO SAUDE",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Procedimento (reconstrução de maxila) previsto no rol da ANS - custeio obrigatório",
+     "prova": "relatório/prescrição do médico assistente",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8059135-80.2023.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "PAULO ALBERTO NUNES CHENAUD",
+     "reu": "PROMEDICA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Natureza reparadora e funcional (não estética) das cirurgias pós-bariátricas",
+     "prova": "relatório do cirurgião plástico assistente",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8101466-77.2023.8.05.0001",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "RICARDO REGIS DOURADO",
+     "reu": "SULAMERICA",
+     "micro": "HOME_CARE",
+     "resultado": "GANHOU",
+     "fund": "Abusividade da negativa de home care e fornecimento de insumos/medicamentos",
+     "prova": "prescrição médica de tratamento domiciliar e insumos",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8052119-10.2025.8.05.0000",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "RICARDO REGIS DOURADO",
+     "reu": "SULAMERICA",
+     "micro": "ROL_ANS",
+     "resultado": "GANHOU",
+     "fund": "Rol da ANS exemplificativo (Lei 14.454/2022)",
+     "prova": "prescrição médica de tratamento multidisciplinar",
+     "valor": null
+    },
+    {
+     "proc": "0385319-88.2013.8.05.0001",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "RICARDO REGIS DOURADO",
+     "reu": "HAPVIDA",
+     "micro": "NEGATIVA_MEDICAMENTO",
+     "resultado": "GANHOU",
+     "fund": "Cobertura obrigatória de medicamento anti-VEGF (Lucentis) prescrito",
+     "prova": "prescrição médica",
+     "valor": 7000.0
+    },
+    {
+     "proc": "8001212-19.2025.8.05.0004",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "ANTONIO MARON AGLE FILHO",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Recusa abusiva de procedimento médico prescrito",
+     "prova": "prescrição do médico assistente",
+     "valor": 5000.0
+    },
+    {
+     "proc": "8039082-76.2026.8.05.0000",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "MARIELZA BRANDAO FRANCO",
+     "reu": "SULAMERICA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Incidência do CDC em contrato anterior à Lei 9.656/98 e não adaptado",
+     "prova": "prescrição médica de prostatectomia radical robótica",
+     "valor": null
+    },
+    {
+     "proc": "8162866-58.2024.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "PAULO ALBERTO NUNES CHENAUD",
+     "reu": "AMPLA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "Abusividade do cancelamento unilateral do contrato durante tratamento oncológico",
+     "prova": "comprovação de tratamento oncológico em curso",
+     "valor": 15000.0
+    },
+    {
+     "proc": "8206870-49.2025.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MAURICIO KERTZMAN SZPORER",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Prevalência da prescrição médica em contexto neoplásico",
+     "prova": "prescrição médica do material cirúrgico",
+     "valor": 15000.0
+    },
+    {
+     "proc": "8015841-73.2026.8.05.0000",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "JOSE ALFREDO CERQUEIRA DA SILVA",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Incidência do CDC mesmo em plano não regulamentado (Súmula 608 STJ)",
+     "prova": "prescrição médica de cirurgia de urgência",
+     "valor": null
+    },
+    {
+     "proc": "8160742-68.2025.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MAURICIO KERTZMAN SZPORER",
+     "reu": "SULAMERICA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Prevalência da prescrição do médico assistente sobre junta médica da operadora",
+     "prova": "prescrição do médico assistente",
+     "valor": null
+    },
+    {
+     "proc": "8034796-89.2025.8.05.0000",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "RICARDO REGIS DOURADO",
+     "reu": "SULAMERICA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "Emergência (risco de suicídio) afasta prazo de carência",
+     "prova": "prescrição médica de internação psiquiátrica emergencial",
+     "valor": null
+    },
+    {
+     "proc": "8065449-74.2025.8.05.0000",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "RICARDO REGIS DOURADO",
+     "reu": "SULAMERICA",
+     "micro": "ROL_ANS",
+     "resultado": "GANHOU",
+     "fund": "Rol da ANS de caráter exemplificativo",
+     "prova": "prescrição médica de tratamento multidisciplinar",
+     "valor": null
+    },
+    {
+     "proc": "8096156-56.2024.8.05.0001",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "MARIA DE FATIMA SILVA CARVALHO",
+     "reu": "HAPVIDA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Demora de 7 meses / negativa tácita configura falha na prestação do serviço",
+     "prova": "decurso do prazo regulatório da ANS",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8007586-17.2025.8.05.0080",
+     "turma": "QUARTA CAMARA CÍVEL",
+     "relator": "JOSE ALFREDO CERQUEIRA DA SILVA",
+     "reu": "UNIMED",
+     "micro": "HOME_CARE",
+     "resultado": "GANHOU",
+     "fund": "Abusividade da negativa de fisioterapia neurofuncional domiciliar",
+     "prova": "prescrição de fisioterapia neurofuncional domiciliar",
+     "valor": 15000.0
+    },
+    {
+     "proc": "8001210-29.2022.8.05.0271",
+     "turma": "SEGUNDA CAMARA CÍVEL",
+     "relator": "RAIMUNDO NONATO BORGES BRAGA",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Prevalência da prescrição do médico assistente",
+     "prova": "prescrição médica dos procedimentos e materiais",
+     "valor": 10000.0
+    },
+    {
+     "proc": "8007056-13.2025.8.05.0080",
+     "turma": "TERCEIRA CAMARA CÍVEL",
+     "relator": "MARIELZA BRANDAO FRANCO",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_EXAME",
+     "resultado": "GANHOU",
+     "fund": "Cobertura de exame (PET-CT) indispensável ao tratamento oncológico",
+     "prova": "prescrição de PET-CT",
+     "valor": 15000.0
+    },
+    {
+     "proc": "8000737-81.2023.8.05.0053",
+     "turma": "SEXTA TURMA RECURSAL",
+     "relator": "LUCIANA CARINHANHA SETUBAL",
+     "reu": "SULAMERICA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "negativa abusiva - prevalece indicacao do medico assistente/junta medica",
+     "prova": "relatorio/prescricao do medico assistente",
+     "valor": null
+    },
+    {
+     "proc": "8049311-63.2024.8.05.0001",
+     "turma": "SEXTA TURMA RECURSAL",
+     "relator": "CARLA RODRIGUES DE ARAUJO",
+     "reu": "PLANSERV",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "cirurgia reparadora pos perda ponderal nao e procedimento meramente estetico",
+     "prova": "recomendacao/relatorio do medico assistente",
+     "valor": null
+    },
+    {
+     "proc": "8093687-71.2023.8.05.0001",
+     "turma": "SEXTA TURMA RECURSAL",
+     "relator": "LUCIANA CARINHANHA SETUBAL",
+     "reu": "PLANSERV",
+     "micro": "NEGATIVA_MEDICAMENTO",
+     "resultado": "GANHOU",
+     "fund": "negativa abusiva de tratamento em curso (anti-VEGF/DMRI)",
+     "prova": "relatorio medico comprovando piora da acuidade visual e risco de cegueira",
+     "valor": null
+    },
+    {
+     "proc": "0025108-96.2025.8.05.0080",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "BRADESCO SAUDE",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "reembolso realizado conforme previsao contratual",
+     "prova": "ausencia de prova de solicitacao administrativa/rede credenciada (onus do autor nao satisfeito)",
+     "valor": null
+    },
+    {
+     "proc": "0109101-80.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "cláusula de exclusao interpretada restritivamente",
+     "prova": "requisicao/prescricao do medico assistente (vasectomia)",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0078848-12.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_EXAME",
+     "resultado": "GANHOU",
+     "fund": "negativa de custeio de exame (PET-CT) e abusiva",
+     "prova": "prescricao/solicitacao medica do exame PET-CT",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0016934-98.2025.8.05.0080",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "ATITUDE SAUDE",
+     "micro": "NEGATIVA_MEDICAMENTO",
+     "resultado": "PERDEU",
+     "fund": "nao houve negativa de cobertura - paciente encaminhado a rede credenciada",
+     "prova": "conversas/registros demonstrando orientacao e encaminhamento a rede credenciada",
+     "valor": null
+    },
+    {
+     "proc": "0010597-24.2025.8.05.0103",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "UNIMED",
+     "micro": "NEGATIVA_MEDICAMENTO",
+     "resultado": "GANHOU",
+     "fund": "rol da ANS e meramente exemplificativo (precedentes STJ)",
+     "prova": "prescricao medica oncologica (Lenalidomida/Revlimid + dexametasona)",
+     "valor": 10000.0
+    },
+    {
+     "proc": "0167474-07.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "BRADESCO SAUDE",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "recusa imotivada do plano - descabida diante do relatorio medico",
+     "prova": "relatorio medico (reconstrucao mamaria com simetrizacao)",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0148972-20.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "GEAP",
+     "micro": "OUTRO",
+     "resultado": "PARCIAL",
+     "fund": "negativa de tratamento multidisciplinar (menor) e abusiva",
+     "prova": "relatorios medicos indicando tratamento multidisciplinar",
+     "valor": null
+    },
+    {
+     "proc": "0154383-44.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "SULAMERICA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "recusa injustificada - terapias (psicopedagogia/psicomotricidade) de menor",
+     "prova": "relatorio medico e comprovacao de tratamento em curso em clinica credenciada",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0161754-59.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SULAMERICA",
+     "micro": "NEGATIVA_PROCEDIMENTO_CIRURGIA",
+     "resultado": "GANHOU",
+     "fund": "Sumula 609 STJ - negativa por doenca preexistente e ilicita sem exame previo/ma-fe",
+     "prova": "contratacao digital sem exames medicos previos/pericia",
+     "valor": 6000.0
+    }
+   ]
+  },
+  {
+   "grupo": "ECOMMERCE",
+   "n": 20,
+   "pct_exito": 55,
+   "ic": [
+    34,
+    74
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 20,
+     "pct": 55,
+     "ic": [
+      34,
+      74
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "PRODUTO_VICIO_DEFEITO",
+     "n": 12,
+     "pct": 58,
+     "ic": [
+      32,
+      81
+     ]
+    },
+    {
+     "chave": "COMPRA_NAO_ENTREGUE_SITE",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "ATRASO_ENTREGA",
+     "n": 3,
+     "pct": 0,
+     "ic": [
+      0,
+      56
+     ]
+    },
+    {
+     "chave": "GARANTIA_ASSISTENCIA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "NAO_ENTREGA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "MERCADO LIVRE",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "SAMSUNG",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "NIKE",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CDC JEQUIE",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MARQUES VEICULOS",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MAGAZINE LUIZA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ADIDAS",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "APPLE",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "COCA COLA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MSJ ALIMENTOS",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "BAJAJ",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ZEITO",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "HONDA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MERCADO PAGO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "NETSHOES",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MIRASOL",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "MADERACO",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    },
+    {
+     "chave": "IFOOD",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "MARIA AUXILIADORA SOBRAL LEITE",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "MARIAH MEIRELLES DE FONSECA",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "MARIA LUCIA COELHO MATOS",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "MARY ANGELICA SANTOS COELHO",
+     "n": 2,
+     "pct": 0,
+     "ic": [
+      0,
+      66
+     ]
+    },
+    {
+     "chave": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 2,
+     "pct": 0,
+     "ic": [
+      0,
+      66
+     ]
+    },
+    {
+     "chave": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "ELIENE SIMONE SILVA OLIVEIRA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "CLAUDIA VALERIA PANETTA",
+     "n": 1,
+     "pct": 0,
+     "ic": [
+      0,
+      79
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 25,
+    "mediana": 3000,
+    "min": 2000,
+    "max": 8000
+   },
+   "fundamentos": [
+    {
+     "f": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "freq": 6
+    },
+    {
+     "f": "dano moral nao configurado",
+     "freq": 2
+    },
+    {
+     "f": "marketplace - responsabilidade de todos da cadeia de consumo",
+     "freq": 2
+    },
+    {
+     "f": "mero aborrecimento nao enseja dano moral - exclusao",
+     "freq": 2
+    },
+    {
+     "f": "teoria da vida util do bem duravel - art. 26 §3 CDC",
+     "freq": 1
+    },
+    {
+     "f": "onus da prova do fornecedor - art. 6 VIII CDC",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "ausencia de nexo causal entre trinco preexistente e green line",
+     "freq": 1
+    },
+    {
+     "p": "comprovacao do surgimento das linhas verticais na tela",
+     "freq": 1
+    },
+    {
+     "p": "comprovacao da compra pelo site e do vicio oculto do tenis",
+     "freq": 1
+    },
+    {
+     "p": "tentativas de resolucao com re e fabricante sem sucesso",
+     "freq": 1
+    },
+    {
+     "p": "ausencia de prova da negativa de troca ou reparo do aparelho",
+     "freq": 1
+    },
+    {
+     "p": "documentos nao demonstram os defeitos mecanicos do veiculo Ford Fiesta",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0013190-79.2025.8.05.0150",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "SAMSUNG",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PARCIAL",
+     "fund": "teoria da vida util do bem duravel - art. 26 §3 CDC",
+     "prova": "ausencia de nexo causal entre trinco preexistente e green line",
+     "valor": null
+    },
+    {
+     "proc": "0164354-53.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "NIKE",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "GANHOU",
+     "fund": "descumprimento do dever de entregar produto adequado - art. 18 CDC",
+     "prova": "comprovacao da compra pelo site e do vicio oculto do tenis",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0003286-62.2025.8.05.0141",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "CDC JEQUIE",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "ausencia de prova da negativa de troca ou reparo do aparelho",
+     "valor": null
+    },
+    {
+     "proc": "0003229-14.2025.8.05.0248",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "MARQUES VEICULOS",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "documentos nao demonstram os defeitos mecanicos do veiculo Ford Fiesta",
+     "valor": null
+    },
+    {
+     "proc": "0005061-38.2025.8.05.0004",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "MAGAZINE LUIZA",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva e solidaria - falha na prestacao do servico",
+     "prova": "vicio no notebook manifestado dentro da garantia e ausencia de reparo pela re",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0111846-33.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "ADIDAS",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "ausencia de prova minima do vicio do tenis",
+     "valor": null
+    },
+    {
+     "proc": "0009432-11.2025.8.05.0080",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARIA VIRGINIA ANDRADE DE FREITAS CRUZ",
+     "reu": "APPLE",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "GANHOU",
+     "fund": "falha na prestacao do servico / vicio do produto - art. 14 CDC",
+     "prova": "consumidor buscou solucao administrativa sem exito",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0162934-13.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "COCA COLA",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "GANHOU",
+     "fund": "fato do produto - alimento improprio para consumo",
+     "prova": "corpo estranho presente no alimento comercializado",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0010172-64.2025.8.05.0113",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "MSJ ALIMENTOS",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "ausencia de prova de que o alimento estava fora da validade",
+     "valor": null
+    },
+    {
+     "proc": "0028764-07.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "BAJAJ",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "GANHOU",
+     "fund": "responsabilidade objetiva - vicio do produto logo apos a compra",
+     "prova": "constatacao de vicio na motocicleta nova nao solucionado",
+     "valor": 8000.0
+    },
+    {
+     "proc": "0000150-84.2025.8.05.0229",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA LUCIA COELHO MATOS",
+     "reu": "ZEITO",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "nao demonstrada a falha na substituicao da bateria apos vicio",
+     "valor": null
+    },
+    {
+     "proc": "0036317-96.2024.8.05.0080",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "CLAUDIA VALERIA PANETTA",
+     "reu": "HONDA",
+     "micro": "GARANTIA_ASSISTENCIA",
+     "resultado": "PERDEU",
+     "fund": "reparo realizado dentro do prazo legal - ausencia de falha no servico",
+     "prova": "vicios da motocicleta sanados com reparos dentro da garantia",
+     "valor": null
+    },
+    {
+     "proc": "0155663-50.2025.8.05.0001",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "MERCADO PAGO",
+     "micro": "COMPRA_NAO_ENTREGUE_SITE",
+     "resultado": "PARCIAL",
+     "fund": "falha na prestacao dos servicos - art. 14 CDC",
+     "prova": "compra pela internet, produto (refrigerador) nao entregue e ausencia de reembolso",
+     "valor": null
+    },
+    {
+     "proc": "0004812-56.2025.8.05.0079",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "NETSHOES",
+     "micro": "ATRASO_ENTREGA",
+     "resultado": "PERDEU",
+     "fund": "atraso infimo na entrega - mero aborrecimento",
+     "prova": "bem entregue com atraso infimo; ausencia de violacao a direito de personalidade",
+     "valor": null
+    },
+    {
+     "proc": "0015078-64.2024.8.05.0103",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "MIRASOL",
+     "micro": "ATRASO_ENTREGA",
+     "resultado": "PERDEU",
+     "fund": "onus da prova do fato constitutivo - art. 373 I CPC",
+     "prova": "produto entregue; ausencia de prova do alegado atraso",
+     "valor": null
+    },
+    {
+     "proc": "0000783-58.2025.8.05.0112",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "MADERACO",
+     "micro": "ATRASO_ENTREGA",
+     "resultado": "PERDEU",
+     "fund": "re comprovou fato impeditivo/modificativo - art. 373 II CPC",
+     "prova": "provas corroboram a tese defensiva quanto ao prazo de entrega",
+     "valor": null
+    },
+    {
+     "proc": "0012070-45.2025.8.05.0103",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "IFOOD",
+     "micro": "NAO_ENTREGA",
+     "resultado": "PARCIAL",
+     "fund": "falha na prestacao dos servicos - responsabilidade solidaria da cadeia de consumo",
+     "prova": "pedido recebido de forma incompleta/inviavel para consumo; reembolso do valor",
+     "valor": null
+    },
+    {
+     "proc": "0003103-83.2025.8.05.0079",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "ISABELA KRUSCHEWSKY PEDREIRA DA SILVA",
+     "reu": "MERCADO LIVRE",
+     "micro": "COMPRA_NAO_ENTREGUE_SITE",
+     "resultado": "PARCIAL",
+     "fund": "responsabilidade solidaria de toda a cadeia de consumo",
+     "prova": "compra da maquina de salgado no site e produto nao entregue",
+     "valor": null
+    },
+    {
+     "proc": "0004103-69.2025.8.05.0063",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "MERCADO LIVRE",
+     "micro": "PRODUTO_VICIO_DEFEITO",
+     "resultado": "PARCIAL",
+     "fund": "marketplace - responsabilidade de todos da cadeia de consumo",
+     "prova": "vicio do produto adquirido via marketplace",
+     "valor": null
+    },
+    {
+     "proc": "0001984-15.2024.8.05.0082",
+     "turma": "SEGUNDA TURMA RECURSAL",
+     "relator": "MARIA AUXILIADORA SOBRAL LEITE",
+     "reu": "MERCADO LIVRE",
+     "micro": "COMPRA_NAO_ENTREGUE_SITE",
+     "resultado": "PARCIAL",
+     "fund": "marketplace - responsabilidade de todos da cadeia de consumo",
+     "prova": "comprovacao do pagamento e do nao recebimento do produto",
+     "valor": null
+    }
+   ]
+  },
+  {
+   "grupo": "EMBASA",
+   "n": 18,
+   "pct_exito": 89,
+   "ic": [
+    67,
+    97
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 18,
+     "pct": 89,
+     "ic": [
+      67,
+      97
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "COBRANCA_ESTIMATIVA",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "CORTE_AGUA_DEBITO_PRETERITO",
+     "n": 5,
+     "pct": 100,
+     "ic": [
+      57,
+      100
+     ]
+    },
+    {
+     "chave": "OUTRO",
+     "n": 4,
+     "pct": 75,
+     "ic": [
+      30,
+      95
+     ]
+    },
+    {
+     "chave": "CORTE_AGUA_DEBITO_ATUAL",
+     "n": 3,
+     "pct": 67,
+     "ic": [
+      21,
+      94
+     ]
+    },
+    {
+     "chave": "ESGOTO_DANO_REPARACAO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "EMBASA",
+     "n": 18,
+     "pct": 89,
+     "ic": [
+      67,
+      97
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "ELIENE SIMONE SILVA OLIVEIRA",
+     "n": 6,
+     "pct": 83,
+     "ic": [
+      44,
+      97
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 6,
+     "pct": 100,
+     "ic": [
+      61,
+      100
+     ]
+    },
+    {
+     "chave": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "MARIAH MEIRELLES DE FONSECA",
+     "n": 2,
+     "pct": 100,
+     "ic": [
+      34,
+      100
+     ]
+    },
+    {
+     "chave": "MARY ANGELICA SANTOS COELHO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 89,
+    "mediana": 3500,
+    "min": 1000,
+    "max": 6000
+   },
+   "fundamentos": [
+    {
+     "f": "suspensao do abastecimento por extenso lapso temporal, sem notificacao pessoal e expressa, e conduta abusiva",
+     "freq": 2
+    },
+    {
+     "f": "re nao demonstrou fato modificativo, extintivo ou impeditivo do direito do autor (art. 373, II, CPC)",
+     "freq": 2
+    },
+    {
+     "f": "corte em sexta-feira viola a Lei 14.015/2020 (art. 6, §4, Lei 8.987/95), independentemente da existencia de divida",
+     "freq": 1
+    },
+    {
+     "f": "ausencia de prova de notificacao previa efetiva (tela sistemica CNOT e prova unilateral insuficiente)",
+     "freq": 1
+    },
+    {
+     "f": "falha no dever de informacao: informado que 'nao havia ordem de corte' enquanto o servico ja estava suspenso",
+     "freq": 1
+    },
+    {
+     "f": "desabastecimento continuo de agua por dias configura falha na prestacao de servico essencial",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "protocolos de reclamacao",
+     "freq": 2
+    },
+    {
+     "p": "ausencia de notificacao pessoal do corte",
+     "freq": 2
+    },
+    {
+     "p": "video do tecnico confirmando a suspensao",
+     "freq": 1
+    },
+    {
+     "p": "comprovante de pagamento via PIX imediato",
+     "freq": 1
+    },
+    {
+     "p": "atestado medico da filha menor com Influenza A",
+     "freq": 1
+    },
+    {
+     "p": "ausencia de AR assinado / protocolo de entrega da notificacao",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0003927-93.2025.8.05.0256",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_ATUAL",
+     "resultado": "GANHOU",
+     "fund": "corte em sexta-feira viola a Lei 14.015/2020 (art. 6, §4, Lei 8.987/95), independentemente da existencia de divida",
+     "prova": "video do tecnico confirmando a suspensao",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0168804-39.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "desabastecimento continuo de agua por dias configura falha na prestacao de servico essencial",
+     "prova": "avisos do condominio sobre falta de agua",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0023456-44.2025.8.05.0080",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_ATUAL",
+     "resultado": "GANHOU",
+     "fund": "suspensao do fornecimento sem previa e formal comunicacao ao consumidor e ilicita, independentemente da existencia de debito",
+     "prova": "faturas dos meses anteriores sem notificacao de suspensao",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0009231-79.2024.8.05.0039",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "COBRANCA_ESTIMATIVA",
+     "resultado": "GANHOU",
+     "fund": "fatura em valor que destoa da media de consumo, sem comprovacao da regularidade da medicao, e cobranca indevida",
+     "prova": "historico de consumo/faturas anteriores (media R$930-950 vs R$2.401 e R$2.202)",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0009972-85.2025.8.05.0039",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "EMBASA",
+     "micro": "COBRANCA_ESTIMATIVA",
+     "resultado": "GANHOU",
+     "fund": "contas que destoam da media de consumo caracterizam prestacao defeituosa de servico (Sumula 30 da Turma de Uniformizacao)",
+     "prova": "historico de consumo indicado na inicial",
+     "valor": 1500.0
+    },
+    {
+     "proc": "0160929-18.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "EMBASA",
+     "micro": "OUTRO",
+     "resultado": "PERDEU",
+     "fund": "autor nao comprovou o fato constitutivo do seu direito (art. 373, I, CPC) - abalo pessoal nao demonstrado",
+     "prova": "ausencia de prova do abalo moral pessoal",
+     "valor": null
+    },
+    {
+     "proc": "0166267-70.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "EMBASA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "suspensao do abastecimento por extenso lapso temporal, sem notificacao pessoal e expressa, e conduta abusiva",
+     "prova": "prova documental do desabastecimento juntada pelo autor",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0144675-67.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_PRETERITO",
+     "resultado": "GANHOU",
+     "fund": "divida de agua tem natureza pessoal (propter personam), nao propter rem, nao acompanhando o imovel",
+     "prova": "documentacao de aquisicao/posse do imovel pelo autor",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0002354-57.2025.8.05.0082",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_ATUAL",
+     "resultado": "PERDEU",
+     "fund": "fraude no pagamento (boleto/PIX para 'Payflex Checkout Ltda', terceiro) sem prova de sofisticacao configura culpa exclusiva da vitima (art. 14, §3, II, CDC)",
+     "prova": "comprovante de transferencia a terceiro (Payflex) em vez da Embasa",
+     "valor": null
+    },
+    {
+     "proc": "0002090-23.2025.8.05.0120",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_PRETERITO",
+     "resultado": "GANHOU",
+     "fund": "debito de abril/2025 ja estava quitado (11/06) - inexistencia de inadimplencia atual no corte de agosto (art. 6, §3, II, Lei 8.987/95)",
+     "prova": "historico de pagamento (juntado pela propria re) provando quitacao do debito pretereito",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0045625-68.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "COBRANCA_ESTIMATIVA",
+     "resultado": "GANHOU",
+     "fund": "cobranca de fatura em valor incompativel com a media historica do contrato e prestacao defeituosa (EE 5aTR-BA-15)",
+     "prova": "media historica do contrato vs faturas de jan/fev/mar 2025",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0001470-53.2025.8.05.0106",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "COBRANCA_ESTIMATIVA",
+     "resultado": "GANHOU",
+     "fund": "fatura com consumo muito acima da media historica sem prova de higidez do hidrometro e cobranca abusiva",
+     "prova": "historico de consumo (media 20m3 vs 30m3 e 47m3 impugnados)",
+     "valor": 6000.0
+    },
+    {
+     "proc": "0013136-60.2025.8.05.0103",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "COBRANCA_ESTIMATIVA",
+     "resultado": "GANHOU",
+     "fund": "fatura que destoa da media de consumo (31m3 vs 5-7m3) sem prova da regularidade da medicao e indevida",
+     "prova": "historico de consumo (5m3 e 7m3 nos meses anteriores vs 31m3 impugnado)",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0104523-74.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "MARIAH MEIRELLES DE FONSECA",
+     "reu": "EMBASA",
+     "micro": "OUTRO",
+     "resultado": "GANHOU",
+     "fund": "suspensao do abastecimento por extenso lapso temporal, sem notificacao pessoal e expressa, e conduta abusiva",
+     "prova": "prova documental e depoimentos do desabastecimento",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0005706-83.2025.8.05.0256",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "EMBASA",
+     "micro": "ESGOTO_DANO_REPARACAO",
+     "resultado": "GANHOU",
+     "fund": "entupimento/transbordamento da rede de esgoto e responsabilidade da concessionaria (obrigacao de reparar; art. 22 CDC, art. 37 §6 CF)",
+     "prova": "fotos do esgoto transbordando na rua e dentro da residencia",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0189331-12.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "ROSALVO AUGUSTO VIEIRA DA SILVA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_PRETERITO",
+     "resultado": "GANHOU",
+     "fund": "corte realizado com o consumidor adimplente (faturas quitadas no momento do corte) e ilicito",
+     "prova": "comprovantes de quitacao das faturas anteriores ao corte",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0004477-37.2025.8.05.0079",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARTHA CAVALCANTI SILVA DE OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_PRETERITO",
+     "resultado": "GANHOU",
+     "fund": "divida de agua e obrigacao propter personam (do efetivo usuario), nao propter rem",
+     "prova": "comprovacao de aquisicao do imovel pelo autor",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0157558-46.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "EMBASA",
+     "micro": "CORTE_AGUA_DEBITO_PRETERITO",
+     "resultado": "GANHOU",
+     "fund": "obrigacao de pagar agua/esgoto tem natureza pessoal, nao se vincula ao imovel (jurisprudencia STJ)",
+     "prova": "comprovacao da relacao locaticia e titularidade anterior em nome de terceiro",
+     "valor": 1000.0
+    }
+   ]
+  },
+  {
+   "grupo": "TELECOM",
+   "n": 11,
+   "pct_exito": 82,
+   "ic": [
+    52,
+    95
+   ],
+   "por_foro": {
+    "JUIZADO": {
+     "n": 11,
+     "pct": 82,
+     "ic": [
+      52,
+      95
+     ]
+    }
+   },
+   "micro_teses": [
+    {
+     "chave": "COBRANCA_INDEVIDA",
+     "n": 5,
+     "pct": 80,
+     "ic": [
+      38,
+      96
+     ]
+    },
+    {
+     "chave": "SERVICO_NAO_CONTRATADO",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    },
+    {
+     "chave": "INTERNET_SINAL_FALHA",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "NEGATIVACAO_TELECOM",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "reus": [
+    {
+     "chave": "TIM",
+     "n": 8,
+     "pct": 75,
+     "ic": [
+      41,
+      93
+     ]
+    },
+    {
+     "chave": "VIVO",
+     "n": 3,
+     "pct": 100,
+     "ic": [
+      44,
+      100
+     ]
+    }
+   ],
+   "relatores": [
+    {
+     "chave": "ELIENE SIMONE SILVA OLIVEIRA",
+     "n": 5,
+     "pct": 80,
+     "ic": [
+      38,
+      96
+     ]
+    },
+    {
+     "chave": "MARY ANGELICA SANTOS COELHO",
+     "n": 2,
+     "pct": 50,
+     "ic": [
+      9,
+      91
+     ]
+    },
+    {
+     "chave": "IVANA CARVALHO SILVA FERNANDES",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "BENICIO MASCARENHAS NETO",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    },
+    {
+     "chave": "ANA LUCIA FERREIRA MATOS",
+     "n": 1,
+     "pct": 100,
+     "ic": [
+      21,
+      100
+     ]
+    }
+   ],
+   "dano_moral": {
+    "pct": 64,
+    "mediana": 3000,
+    "min": 2000,
+    "max": 5000
+   },
+   "fundamentos": [
+    {
+     "f": "Art. 14 CDC - responsabilidade objetiva",
+     "freq": 2
+    },
+    {
+     "f": "Art. 14 CDC - responsabilidade objetiva por falha na prestacao",
+     "freq": 1
+    },
+    {
+     "f": "Art. 373, II CPC - onus da re nao cumprido",
+     "freq": 1
+    },
+    {
+     "f": "Servico/antecipacao de credito nao solicitada e indevida",
+     "freq": 1
+    },
+    {
+     "f": "Cobranca indevida de streaming (Netflix/Apple Music/Globoplay) embutido em fatura de telefonia",
+     "freq": 1
+    },
+    {
+     "f": "Re nao comprovou contratacao valida dos servicos (art. 373, II CPC)",
+     "freq": 1
+    }
+   ],
+   "provas": [
+    {
+     "p": "Videos e comprovante da recarga de R$15,00 no mesmo dia da antecipacao nao solicitada",
+     "freq": 1
+    },
+    {
+     "p": "SMS da re e solicitacoes administrativas sem resposta efetiva",
+     "freq": 1
+    },
+    {
+     "p": "Re nao trouxe gravacao/protocolo de solicitacao do servico",
+     "freq": 1
+    },
+    {
+     "p": "Ausencia de gravacao, contrato assinado ou aceite eletronico da autora",
+     "freq": 1
+    },
+    {
+     "p": "Faturas de julho/agosto 2025 com cobranca de servicos adicionais",
+     "freq": 1
+    },
+    {
+     "p": "Extratos de trafego/uso (voz e dados) juntados pela re demonstram uso regular no periodo",
+     "freq": 1
+    }
+   ],
+   "precedentes": [
+    {
+     "proc": "0001767-55.2025.8.05.0043",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "IVANA CARVALHO SILVA FERNANDES",
+     "reu": "VIVO",
+     "micro": "SERVICO_NAO_CONTRATADO",
+     "resultado": "GANHOU",
+     "fund": "Art. 14 CDC - responsabilidade objetiva por falha na prestacao",
+     "prova": "Videos e comprovante da recarga de R$15,00 no mesmo dia da antecipacao nao solicitada",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0012118-04.2025.8.05.0103",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "VIVO",
+     "micro": "SERVICO_NAO_CONTRATADO",
+     "resultado": "PARCIAL",
+     "fund": "Cobranca indevida de streaming (Netflix/Apple Music/Globoplay) embutido em fatura de telefonia",
+     "prova": "Ausencia de gravacao, contrato assinado ou aceite eletronico da autora",
+     "valor": null
+    },
+    {
+     "proc": "0003523-39.2025.8.05.0063",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "TIM",
+     "micro": "INTERNET_SINAL_FALHA",
+     "resultado": "PERDEU",
+     "fund": "Causa madura - julgamento do merito (art. 1.013 par.3 CPC) apos anular extincao",
+     "prova": "Extratos de trafego/uso (voz e dados) juntados pela re demonstram uso regular no periodo",
+     "valor": null
+    },
+    {
+     "proc": "0151821-62.2025.8.05.0001",
+     "turma": "PRIMEIRA TURMA RECURSAL",
+     "relator": "NICIA OLGA ANDRADE DE SOUZA DANTAS",
+     "reu": "TIM",
+     "micro": "COBRANCA_INDEVIDA",
+     "resultado": "GANHOU",
+     "fund": "Mudanca de valor do plano antes de 12 meses viola Resolucao 632/2014 ANATEL",
+     "prova": "Autora comprovou mudanca do valor do plano antes dos 12 meses",
+     "valor": 2000.0
+    },
+    {
+     "proc": "0004657-84.2025.8.05.0004",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "TIM",
+     "micro": "NEGATIVACAO_TELECOM",
+     "resultado": "GANHOU",
+     "fund": "Declaracao de inexistencia de divida de plano de telefonia + retirada do SPC/SERASA",
+     "prova": "Mensagens reiteradas de cobrancas infundadas juntadas na inicial",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0010672-19.2025.8.05.0150",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "TIM",
+     "micro": "COBRANCA_INDEVIDA",
+     "resultado": "GANHOU",
+     "fund": "Cobranca do \"Pacote Europa\" por 10 meses apos solicitacao expressa de cancelamento",
+     "prova": "Protocolo de cancelamento (2025551587488)",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0004709-03.2025.8.05.0256",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "TIM",
+     "micro": "COBRANCA_INDEVIDA",
+     "resultado": "GANHOU",
+     "fund": "Alteracao unilateral do plano sem comunicacao previa (Resolucao 632/2014 ANATEL)",
+     "prova": "Re nao comprovou comunicacao previa da mudanca do plano",
+     "valor": 3000.0
+    },
+    {
+     "proc": "0119903-40.2025.8.05.0001",
+     "turma": "TERCEIRA TURMA RECURSAL",
+     "relator": "BENICIO MASCARENHAS NETO",
+     "reu": "TIM",
+     "micro": "SERVICO_NAO_CONTRATADO",
+     "resultado": "GANHOU",
+     "fund": "Inclusao de servicos nao contratados e majoracao do plano sem justificativa",
+     "prova": "Autora comprovou a majoracao e a cobranca por servico nao contratado",
+     "valor": 5000.0
+    },
+    {
+     "proc": "0106952-14.2025.8.05.0001",
+     "turma": "QUARTA TURMA RECURSAL",
+     "relator": "MARY ANGELICA SANTOS COELHO",
+     "reu": "TIM",
+     "micro": "COBRANCA_INDEVIDA",
+     "resultado": "PERDEU",
+     "fund": "Resolucao 632/2014 ANATEL (art. 52) autoriza alteracao de plano com comunicacao previa",
+     "prova": "Re (TIM) comprovou a comunicacao previa da alteracao do plano",
+     "valor": null
+    },
+    {
+     "proc": "0127855-70.2025.8.05.0001",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ELIENE SIMONE SILVA OLIVEIRA",
+     "reu": "TIM",
+     "micro": "INTERNET_SINAL_FALHA",
+     "resultado": "GANHOU",
+     "fund": "Falha na prestacao - indisponibilidade/instabilidade de internet e telefonia (art. 14 CDC)",
+     "prova": "Documentos da inicial comprovando indisponibilidade e reiteradas quedas",
+     "valor": 4000.0
+    },
+    {
+     "proc": "0010324-43.2025.8.05.0039",
+     "turma": "QUINTA TURMA RECURSAL",
+     "relator": "ANA LUCIA FERREIRA MATOS",
+     "reu": "VIVO",
+     "micro": "COBRANCA_INDEVIDA",
+     "resultado": "PARCIAL",
+     "fund": "Alteracao unilateral do plano nao solicitada - restituicao dos valores devida",
+     "prova": "Re nao comprovou solicitacao da alteracao do plano pelo consumidor",
+     "valor": null
+    }
+   ]
+  }
+ ]
+}

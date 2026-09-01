@@ -1,0 +1,162 @@
+{
+ "total": 54554,
+ "gerado_em": "2026-08-20",
+ "setores": [
+  {
+   "setor": "FINANCEIRO",
+   "n": 33049,
+   "pct_fav_sinal": 38,
+   "dano_moral_mediana": 4000
+  },
+  {
+   "setor": "FRAUDE",
+   "n": 7543,
+   "pct_fav_sinal": 37,
+   "dano_moral_mediana": 4000
+  },
+  {
+   "setor": "AEREO",
+   "n": 6301,
+   "pct_fav_sinal": 53,
+   "dano_moral_mediana": 5000
+  },
+  {
+   "setor": "SAUDE",
+   "n": 4066,
+   "pct_fav_sinal": 54,
+   "dano_moral_mediana": 5000
+  },
+  {
+   "setor": "ECOMMERCE",
+   "n": 1050,
+   "pct_fav_sinal": 42,
+   "dano_moral_mediana": 3000
+  },
+  {
+   "setor": "COELBA",
+   "n": 821,
+   "pct_fav_sinal": 61,
+   "dano_moral_mediana": 4000
+  },
+  {
+   "setor": "EMBASA",
+   "n": 619,
+   "pct_fav_sinal": 66,
+   "dano_moral_mediana": 4000
+  },
+  {
+   "setor": "TELECOM",
+   "n": 614,
+   "pct_fav_sinal": 31,
+   "dano_moral_mediana": 3500
+  },
+  {
+   "setor": "CONSUMO",
+   "n": 491,
+   "pct_fav_sinal": 44,
+   "dano_moral_mediana": 4000
+  }
+ ],
+ "reus": [
+  {
+   "reu": "BRADESCO",
+   "n": 6137,
+   "pct_fav_sinal": 44
+  },
+  {
+   "reu": "BANCO DO BRASIL",
+   "n": 2242,
+   "pct_fav_sinal": 40
+  },
+  {
+   "reu": "ITAU",
+   "n": 2189,
+   "pct_fav_sinal": 34
+  },
+  {
+   "reu": "GOL",
+   "n": 1820,
+   "pct_fav_sinal": 53
+  },
+  {
+   "reu": "SULAMERICA",
+   "n": 1640,
+   "pct_fav_sinal": 57
+  },
+  {
+   "reu": "BRADESCO SAUDE",
+   "n": 1565,
+   "pct_fav_sinal": 62
+  },
+  {
+   "reu": "BMG",
+   "n": 1520,
+   "pct_fav_sinal": 32
+  },
+  {
+   "reu": "SANTANDER",
+   "n": 1509,
+   "pct_fav_sinal": 35
+  },
+  {
+   "reu": "UNIMED",
+   "n": 1506,
+   "pct_fav_sinal": 58
+  },
+  {
+   "reu": "COELBA",
+   "n": 1491,
+   "pct_fav_sinal": 56
+  },
+  {
+   "reu": "LATAM",
+   "n": 1468,
+   "pct_fav_sinal": 57
+  },
+  {
+   "reu": "BANCO PAN",
+   "n": 1454,
+   "pct_fav_sinal": 32
+  },
+  {
+   "reu": "AZUL",
+   "n": 1360,
+   "pct_fav_sinal": 57
+  },
+  {
+   "reu": "NUBANK",
+   "n": 1008,
+   "pct_fav_sinal": 44
+  },
+  {
+   "reu": "EMBASA",
+   "n": 999,
+   "pct_fav_sinal": 59
+  },
+  {
+   "reu": "AGIBANK",
+   "n": 933,
+   "pct_fav_sinal": 38
+  },
+  {
+   "reu": "FACTA",
+   "n": 782,
+   "pct_fav_sinal": 27
+  },
+  {
+   "reu": "CREFISA",
+   "n": 766,
+   "pct_fav_sinal": 39
+  },
+  {
+   "reu": "MERCADO PAGO",
+   "n": 717,
+   "pct_fav_sinal": 42
+  },
+  {
+   "reu": "C6",
+   "n": 613,
+   "pct_fav_sinal": 32
+  }
+ ]
+}

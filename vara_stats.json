@@ -1,0 +1,4039 @@
+{
+ "fonte": "Varas de Consumo (1º grau, DJEN) e Turmas Recursais (2º grau). Duração: ano do nº CNJ x dataJulgamento.",
+ "obs": "1º grau por VARA (Salvador tem ~20). 2º grau por RELATOR, distinguindo acórdão colegiado x decisão monocrática.",
+ "varas_1grau": [
+  {
+   "comarca": "Alagoinhas",
+   "vara": "1ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 52,
+   "pct_proc": 54,
+   "pct_improc": 46,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 51.3,
+   "casos_com_data": 43,
+   "juizes": [],
+   "ex": [
+    "8000785-32.2019.8.05.0004",
+    "0501975-46.2018.8.05.0004",
+    "0504116-38.2018.8.05.0004",
+    "8005576-39.2022.8.05.0004",
+    "0000108-90.2009.8.05.0004",
+    "0503434-20.2017.8.05.0004"
+   ]
+  },
+  {
+   "comarca": "Alagoinhas",
+   "vara": "3ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 51,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 51.9,
+   "casos_com_data": 45,
+   "juizes": [
+    "Arnaldo Freire Franco",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8009361-77.2020.8.05.0004",
+    "8000445-88.2019.8.05.0004",
+    "8000818-22.2019.8.05.0004",
+    "0302438-11.2014.8.05.0004",
+    "8011173-57.2020.8.05.0004",
+    "0006927-38.2012.8.05.0004"
+   ]
+  },
+  {
+   "comarca": "Alagoinhas",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 24,
+   "pct_proc": 46,
+   "pct_improc": 54,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 23.8,
+   "casos_com_data": 24,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "0005888-11.2009.8.05.0004",
+    "8017372-27.2022.8.05.0004",
+    "8000843-59.2024.8.05.0004",
+    "0502002-97.2016.8.05.0004",
+    "8002222-35.2024.8.05.0004",
+    "8002507-28.2024.8.05.0004"
+   ]
+  },
+  {
+   "comarca": "Barreiras",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 44,
+   "pct_proc": 50,
+   "pct_improc": 50,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 51.2,
+   "casos_com_data": 39,
+   "juizes": [],
+   "ex": [
+    "8006734-41.2023.8.05.0022",
+    "8001555-68.2019.8.05.0022",
+    "0501570-24.2016.8.05.0022",
+    "8002656-43.2019.8.05.0022",
+    "0000180-57.2008.8.05.0022",
+    "8001238-70.2019.8.05.0022"
+   ]
+  },
+  {
+   "comarca": "Barreiras",
+   "vara": "1ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 17,
+   "pct_proc": 82,
+   "pct_improc": 18,
+   "dano_moral_mediana": 11337,
+   "meses_mediana": 41.0,
+   "casos_com_data": 16,
+   "juizes": [],
+   "ex": [
+    "0305925-32.2014.8.05.0022",
+    "8009823-09.2022.8.05.0022",
+    "0501287-69.2014.8.05.0022",
+    "8000760-62.2019.8.05.0022",
+    "0500504-72.2017.8.05.0022",
+    "8002989-87.2022.8.05.0022"
+   ]
+  },
+  {
+   "comarca": "Camaçari",
+   "vara": "1ª Vara Dos Feitos De Relação De Consumo, Civeis, Comerciais E Reg. Publicos",
+   "n_merito": 80,
+   "pct_proc": 16,
+   "pct_improc": 84,
+   "dano_moral_mediana": null,
+   "meses_mediana": 28.0,
+   "casos_com_data": 86,
+   "juizes": [
+    "Marina Rodamilans De Paiva Lopes Da Silva"
+   ],
+   "ex": [
+    "8007454-93.2019.8.05.0039",
+    "8031192-42.2021.8.05.0039",
+    "8051896-76.2021.8.05.0039",
+    "8013042-76.2022.8.05.0039",
+    "8039150-79.2021.8.05.0039",
+    "8005567-40.2020.8.05.0039"
+   ]
+  },
+  {
+   "comarca": "Camaçari",
+   "vara": "2ª Vara Dos Feitos De Relação De Consumo, Cíveis E Acidente De Trabalho",
+   "n_merito": 42,
+   "pct_proc": 43,
+   "pct_improc": 57,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 15.9,
+   "casos_com_data": 33,
+   "juizes": [
+    "Íris Cristina Pita Seixas Teixeira"
+   ],
+   "ex": [
+    "8004351-05.2024.8.05.0039",
+    "8006130-63.2022.8.05.0039",
+    "0501294-10.2014.8.05.0039",
+    "0304024-46.2012.8.05.0039",
+    "8002173-88.2021.8.05.0039",
+    "0503142-90.2018.8.05.0039"
+   ]
+  },
+  {
+   "comarca": "Campo Formoso",
+   "vara": "Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais De Campo Formoso",
+   "n_merito": 24,
+   "pct_proc": 0,
+   "pct_improc": 100,
+   "dano_moral_mediana": null,
+   "meses_mediana": null,
+   "casos_com_data": 0,
+   "juizes": [],
+   "ex": [
+    "8001390-51.2025.8.05.0041",
+    "8001391-36.2025.8.05.0041",
+    "8001393-06.2025.8.05.0041",
+    "8001381-89.2025.8.05.0041",
+    "8001383-59.2025.8.05.0041",
+    "8001382-74.2025.8.05.0041"
+   ]
+  },
+  {
+   "comarca": "Canavieiras",
+   "vara": "Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 83,
+   "pct_proc": 40,
+   "pct_improc": 60,
+   "dano_moral_mediana": 15000,
+   "meses_mediana": 17.8,
+   "casos_com_data": 89,
+   "juizes": [],
+   "ex": [
+    "8000536-90.2021.8.05.0043",
+    "8000678-94.2021.8.05.0043",
+    "8000620-91.2021.8.05.0043",
+    "8000681-49.2021.8.05.0043",
+    "8000559-36.2021.8.05.0043",
+    "8000246-75.2021.8.05.0043"
+   ]
+  },
+  {
+   "comarca": "Capim Grosso",
+   "vara": "Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 203,
+   "pct_proc": 42,
+   "pct_improc": 58,
+   "dano_moral_mediana": 4000,
+   "meses_mediana": 5.5,
+   "casos_com_data": 233,
+   "juizes": [],
+   "ex": [
+    "8003943-18.2023.8.05.0049",
+    "8003939-78.2023.8.05.0049",
+    "8003936-26.2023.8.05.0049",
+    "8003937-11.2023.8.05.0049",
+    "8002289-93.2023.8.05.0049",
+    "8001889-45.2024.8.05.0049"
+   ]
+  },
+  {
+   "comarca": "Capim Grosso",
+   "vara": "Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais De Capim Grosso",
+   "n_merito": 147,
+   "pct_proc": 66,
+   "pct_improc": 34,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 3.2,
+   "casos_com_data": 183,
+   "juizes": [],
+   "ex": [
+    "8001723-76.2025.8.05.0049",
+    "8003518-20.2025.8.05.0049",
+    "8003517-35.2025.8.05.0049",
+    "8003525-12.2025.8.05.0049",
+    "8003703-58.2025.8.05.0049",
+    "8002791-61.2025.8.05.0049"
+   ]
+  },
+  {
+   "comarca": "Comarca De Camaçari",
+   "vara": "1ª Vara Dos Feitos De Rel. De Consumo, Civeis, Comerciais E Reg. Publicos Da Comarca De Camaçari",
+   "n_merito": 164,
+   "pct_proc": 21,
+   "pct_improc": 79,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 15.9,
+   "casos_com_data": 168,
+   "juizes": [
+    "Marina Rodamilans De Paiva Lopes Da Silva",
+    "Maria Cristina Ladeia De Souza"
+   ],
+   "ex": [
+    "0501130-45.2014.8.05.0039",
+    "0501870-03.2014.8.05.0039",
+    "0518420-56.2015.8.05.0001",
+    "8003204-07.2025.8.05.0039",
+    "8001942-32.2019.8.05.0039",
+    "0301011-63.2017.8.05.0039"
+   ]
+  },
+  {
+   "comarca": "Comarca De Euclides Da Cunha",
+   "vara": "2ª V Dos Feitos Rel A Relações De Consumo, Cível, Com, Fam E Suc, Fazenda Pública Da Comarca De Euclides Da Cunha",
+   "n_merito": 126,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 19.2,
+   "casos_com_data": 111,
+   "juizes": [
+    "Dione Cerqueira Silva"
+   ],
+   "ex": [
+    "8000146-10.2024.8.05.0078",
+    "8001003-27.2022.8.05.0078",
+    "8002520-33.2023.8.05.0078",
+    "8002855-52.2023.8.05.0078",
+    "8002899-71.2023.8.05.0078",
+    "8001201-93.2024.8.05.0078"
+   ]
+  },
+  {
+   "comarca": "Cotegipe",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Cotegipe",
+   "n_merito": 41,
+   "pct_proc": 78,
+   "pct_improc": 22,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 49.2,
+   "casos_com_data": 41,
+   "juizes": [],
+   "ex": [
+    "0000110-12.2016.8.05.0070",
+    "8000199-20.2021.8.05.0070",
+    "8000219-40.2023.8.05.0070",
+    "8000451-91.2019.8.05.0070",
+    "8000242-93.2017.8.05.0070",
+    "8000037-88.2022.8.05.0070"
+   ]
+  },
+  {
+   "comarca": "Cruz Das Almas",
+   "vara": "Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 129,
+   "pct_proc": 79,
+   "pct_improc": 21,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 18.6,
+   "casos_com_data": 132,
+   "juizes": [],
+   "ex": [
+    "8000156-77.2021.8.05.0072",
+    "8002451-82.2024.8.05.0072",
+    "8001246-96.2016.8.05.0072",
+    "8000733-84.2023.8.05.0072",
+    "8000050-13.2024.8.05.0072",
+    "8006658-32.2021.8.05.0072"
+   ]
+  },
+  {
+   "comarca": "Dias D'Ávila",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Dias D'Ávila",
+   "n_merito": 1354,
+   "pct_proc": 81,
+   "pct_improc": 19,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 6.8,
+   "casos_com_data": 1152,
+   "juizes": [
+    "Alianne Katherine Vasques Santos"
+   ],
+   "ex": [
+    "8001187-24.2024.8.05.0074",
+    "8006784-71.2024.8.05.0074",
+    "8004683-95.2023.8.05.0074",
+    "8001981-50.2021.8.05.0074",
+    "8006064-07.2024.8.05.0074",
+    "8003681-56.2024.8.05.0074"
+   ]
+  },
+  {
+   "comarca": "Dias Dávila",
+   "vara": "Vara Cível",
+   "n_merito": 17,
+   "pct_proc": 94,
+   "pct_improc": 6,
+   "dano_moral_mediana": null,
+   "meses_mediana": 6.8,
+   "casos_com_data": 20,
+   "juizes": [],
+   "ex": [
+    "8004580-54.2024.8.05.0074",
+    "8005112-28.2024.8.05.0074",
+    "8004764-10.2024.8.05.0074",
+    "8004455-86.2024.8.05.0074",
+    "8004581-39.2024.8.05.0074",
+    "8001167-33.2024.8.05.0074"
+   ]
+  },
+  {
+   "comarca": "Euclides Da Cunha",
+   "vara": "2ª Vara De Relação De Consumo, Cível, Comercial E Fazenda Pública",
+   "n_merito": 92,
+   "pct_proc": 71,
+   "pct_improc": 29,
+   "dano_moral_mediana": 4000,
+   "meses_mediana": 12.3,
+   "casos_com_data": 90,
+   "juizes": [
+    "Dione Cerqueira Silva"
+   ],
+   "ex": [
+    "8001327-51.2021.8.05.0078",
+    "8002323-15.2022.8.05.0078",
+    "8002942-42.2022.8.05.0078",
+    "8002963-18.2022.8.05.0078",
+    "8002340-51.2022.8.05.0078",
+    "8001120-81.2023.8.05.0078"
+   ]
+  },
+  {
+   "comarca": "Fazenda Pública De Salvador",
+   "vara": "3ª V Da Fazenda Pública De Salvador",
+   "n_merito": 91,
+   "pct_proc": 96,
+   "pct_improc": 4,
+   "dano_moral_mediana": 83330,
+   "meses_mediana": 24.6,
+   "casos_com_data": 92,
+   "juizes": [
+    "Suélvia Dos Santos Reis Nemi"
+   ],
+   "ex": [
+    "0141858-31.2005.8.05.0001",
+    "8031343-20.2024.8.05.0001",
+    "8114732-05.2021.8.05.0001",
+    "8123907-23.2021.8.05.0001",
+    "8025110-41.2023.8.05.0001",
+    "8055156-13.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Fazenda Pública De Salvador",
+   "vara": "15ª V Da Fazenda Pública De Salvador",
+   "n_merito": 52,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 37.0,
+   "casos_com_data": 41,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "0362271-03.2013.8.05.0001",
+    "8156600-89.2023.8.05.0001",
+    "8143260-44.2024.8.05.0001",
+    "8037814-52.2024.8.05.0001",
+    "8042428-32.2026.8.05.0001",
+    "8173262-31.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Fazenda Pública De Salvador",
+   "vara": "20ª V Da Fazenda Pública De Salvador",
+   "n_merito": 51,
+   "pct_proc": 96,
+   "pct_improc": 4,
+   "dano_moral_mediana": 15000,
+   "meses_mediana": 37.1,
+   "casos_com_data": 43,
+   "juizes": [
+    "João Paulo Guimarães Neto",
+    "Rafael Siqueira Montoro"
+   ],
+   "ex": [
+    "8243004-75.2025.8.05.0001",
+    "8132548-58.2025.8.05.0001",
+    "8046336-44.2019.8.05.0001",
+    "8135906-65.2024.8.05.0001",
+    "8004088-24.2023.8.05.0001",
+    "8000875-10.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Fazenda Pública De Salvador",
+   "vara": "6ª V Da Fazenda Pública De Salvador",
+   "n_merito": 15,
+   "pct_proc": 73,
+   "pct_improc": 27,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 90.2,
+   "casos_com_data": 4,
+   "juizes": [],
+   "ex": [
+    "0176117-23.2003.8.05.0001",
+    "8023370-82.2022.8.05.0001",
+    "0504692-16.2013.8.05.0001",
+    "0557849-59.2017.8.05.0001",
+    "0329961-41.2013.8.05.0001",
+    "8031979-25.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Feira De Santana",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Feira De Santana",
+   "n_merito": 563,
+   "pct_proc": 61,
+   "pct_improc": 39,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 25.8,
+   "casos_com_data": 576,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Adriana Pastorele Da Silva Quirino Couto",
+    "Presidente Alberto Raimundo Gomes Dos Santos"
+   ],
+   "ex": [
+    "8029810-17.2023.8.05.0080",
+    "8010498-55.2023.8.05.0080",
+    "8019086-51.2023.8.05.0080",
+    "8001908-31.2019.8.05.0080",
+    "8018301-89.2023.8.05.0080",
+    "8023521-68.2023.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feira De Santana",
+   "vara": "3ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 247,
+   "pct_proc": 56,
+   "pct_improc": 44,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 15.9,
+   "casos_com_data": 278,
+   "juizes": [],
+   "ex": [
+    "0003319-32.2011.8.05.0080",
+    "8022379-29.2023.8.05.0080",
+    "8007299-30.2020.8.05.0080",
+    "8012969-15.2021.8.05.0080",
+    "0509798-71.2017.8.05.0080",
+    "8023929-30.2021.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feira De Santana",
+   "vara": "5ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 158,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 27.1,
+   "casos_com_data": 161,
+   "juizes": [],
+   "ex": [
+    "8015666-38.2023.8.05.0080",
+    "8023085-46.2022.8.05.0080",
+    "8032875-54.2022.8.05.0080",
+    "8035504-98.2022.8.05.0080",
+    "8013658-25.2022.8.05.0080",
+    "8032917-06.2022.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feira De Santana",
+   "vara": "2ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 94,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 27.8,
+   "casos_com_data": 98,
+   "juizes": [],
+   "ex": [
+    "8015020-28.2023.8.05.0080",
+    "8000474-36.2021.8.05.0080",
+    "8010668-95.2021.8.05.0080",
+    "8021268-44.2022.8.05.0080",
+    "8025953-94.2022.8.05.0080",
+    "8008507-78.2022.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feira De Santana",
+   "vara": "7ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 22,
+   "pct_proc": 68,
+   "pct_improc": 32,
+   "dano_moral_mediana": null,
+   "meses_mediana": 31.2,
+   "casos_com_data": 25,
+   "juizes": [],
+   "ex": [
+    "8008468-86.2019.8.05.0080",
+    "8014189-14.2022.8.05.0080",
+    "8035508-38.2022.8.05.0080",
+    "8016741-49.2022.8.05.0080",
+    "8015929-41.2021.8.05.0080",
+    "0510044-67.2017.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feitos De Rel De Cons. Cível E Comerciais De Feira De Santana",
+   "vara": "5ª V De Feitos De Rel De Cons. Cível E Comerciais De Feira De Santana",
+   "n_merito": 63,
+   "pct_proc": 76,
+   "pct_improc": 24,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 12.7,
+   "casos_com_data": 69,
+   "juizes": [],
+   "ex": [
+    "8031523-56.2025.8.05.0080",
+    "8030120-52.2025.8.05.0080",
+    "8035228-96.2024.8.05.0080",
+    "8023277-71.2025.8.05.0080",
+    "8021303-33.2024.8.05.0080",
+    "8005561-02.2023.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feitos De Rel De Cons. Cível E Comerciais De Feira De Santana",
+   "vara": "2ª V De Feitos De Rel De Cons. Cível E Comerciais De Feira De Santana",
+   "n_merito": 41,
+   "pct_proc": 83,
+   "pct_improc": 17,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 22.8,
+   "casos_com_data": 42,
+   "juizes": [],
+   "ex": [
+    "8013190-56.2025.8.05.0080",
+    "8032732-60.2025.8.05.0080",
+    "8036157-32.2024.8.05.0080",
+    "8013079-09.2024.8.05.0080",
+    "8000155-29.2025.8.05.0080",
+    "8002263-65.2024.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Feitos De Rel. De Cons. Cível E Comerciais De Feira De Santana",
+   "vara": "7ª V De Feitos De Rel. De Cons. Cível E Comerciais De Feira De Santana",
+   "n_merito": 25,
+   "pct_proc": 68,
+   "pct_improc": 32,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 23.8,
+   "casos_com_data": 26,
+   "juizes": [],
+   "ex": [
+    "8006042-91.2025.8.05.0080",
+    "8022907-97.2022.8.05.0080",
+    "8000742-85.2024.8.05.0080",
+    "8001070-78.2025.8.05.0080",
+    "8029618-16.2025.8.05.0080",
+    "8004518-59.2025.8.05.0080"
+   ]
+  },
+  {
+   "comarca": "Formosa Do Rio Preto",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Formosa Do Rio Preto",
+   "n_merito": 150,
+   "pct_proc": 58,
+   "pct_improc": 42,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 7.1,
+   "casos_com_data": 149,
+   "juizes": [
+    "Oclei Alves Da Silva",
+    "Mariana Mendes Pereira",
+    "Cícero Dantas Bisneto"
+   ],
+   "ex": [
+    "8000486-42.2024.8.05.0081",
+    "8000117-14.2025.8.05.0081",
+    "8000174-71.2021.8.05.0081",
+    "8000108-57.2022.8.05.0081",
+    "8001729-21.2024.8.05.0081",
+    "8000622-73.2023.8.05.0081"
+   ]
+  },
+  {
+   "comarca": "Guanambi",
+   "vara": "2ª V Dos Feitos Relativos As Relações De Consumo, Cíveis , Comerciais, Consumidor E Fazenda Pública De Guanambi",
+   "n_merito": 95,
+   "pct_proc": 34,
+   "pct_improc": 66,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 30.5,
+   "casos_com_data": 126,
+   "juizes": [
+    "Adriana Silveira Bastos",
+    "Ruy José Amaral Adães Júnior"
+   ],
+   "ex": [
+    "8003660-38.2024.8.05.0088",
+    "8001385-58.2020.8.05.0088",
+    "8006069-84.2024.8.05.0088",
+    "8002347-47.2021.8.05.0088",
+    "0000437-44.2009.8.05.0088",
+    "8001294-26.2024.8.05.0088"
+   ]
+  },
+  {
+   "comarca": "Guanambi",
+   "vara": "1ª Vara Dos Feitos Relativos As Relações De Consumo, Cíveis , Comerciais, Consumidor E Registros Públicos De Guanambi",
+   "n_merito": 39,
+   "pct_proc": 67,
+   "pct_improc": 33,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 43.9,
+   "casos_com_data": 2,
+   "juizes": [
+    "Guilherme Lopes Athayde"
+   ],
+   "ex": [
+    "8003147-36.2025.8.05.0088",
+    "0500839-53.2018.8.05.0088",
+    "0500602-58.2014.8.05.0088",
+    "0500659-76.2014.8.05.0088",
+    "0300609-97.2015.8.05.0088",
+    "0300929-50.2015.8.05.0088"
+   ]
+  },
+  {
+   "comarca": "Guanambi",
+   "vara": "2ª Vara Dos Feitos Rel. Às Relações De Consumo, Cíveis, Comerciais E Fazenda Pública",
+   "n_merito": 32,
+   "pct_proc": 62,
+   "pct_improc": 38,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 16.8,
+   "casos_com_data": 42,
+   "juizes": [
+    "Adriana Silveira Bastos"
+   ],
+   "ex": [
+    "8001592-18.2024.8.05.0088",
+    "8003473-64.2023.8.05.0088",
+    "8003472-79.2023.8.05.0088",
+    "8003474-49.2023.8.05.0088",
+    "0001881-73.2013.8.05.0088",
+    "8001818-23.2024.8.05.0088"
+   ]
+  },
+  {
+   "comarca": "Ibirapuã",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Ibirapuã",
+   "n_merito": 28,
+   "pct_proc": 82,
+   "pct_improc": 18,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 40.2,
+   "casos_com_data": 25,
+   "juizes": [
+    "Johnaton Martins De Souza"
+   ],
+   "ex": [
+    "8000454-97.2021.8.05.0095",
+    "8000082-90.2017.8.05.0095",
+    "8000119-39.2025.8.05.0095",
+    "8000133-91.2023.8.05.0095",
+    "8000205-54.2018.8.05.0095",
+    "8000340-90.2023.8.05.0095"
+   ]
+  },
+  {
+   "comarca": "Igaporã",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Igaporã",
+   "n_merito": 75,
+   "pct_proc": 84,
+   "pct_improc": 16,
+   "dano_moral_mediana": 4500,
+   "meses_mediana": 13.1,
+   "casos_com_data": 78,
+   "juizes": [
+    "Edson Nascimento Campos",
+    "Ba Edson Nascimento Campos"
+   ],
+   "ex": [
+    "8000078-93.2021.8.05.0101",
+    "8000265-67.2022.8.05.0101",
+    "0000297-24.2016.8.05.0101",
+    "8000442-60.2024.8.05.0101",
+    "8000054-60.2024.8.05.0101",
+    "8000323-36.2023.8.05.0101"
+   ]
+  },
+  {
+   "comarca": "Ilhéus",
+   "vara": "4ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 127,
+   "pct_proc": 6,
+   "pct_improc": 94,
+   "dano_moral_mediana": 30000,
+   "meses_mediana": 8.6,
+   "casos_com_data": 185,
+   "juizes": [
+    "Antonio Lopes Filho"
+   ],
+   "ex": [
+    "8001824-19.2023.8.05.0103",
+    "8009145-42.2022.8.05.0103",
+    "8002288-14.2021.8.05.0103",
+    "8003188-26.2023.8.05.0103",
+    "8009444-19.2022.8.05.0103",
+    "8007682-31.2023.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Ilhéus",
+   "vara": "3ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 72,
+   "pct_proc": 64,
+   "pct_improc": 36,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 19.6,
+   "casos_com_data": 73,
+   "juizes": [],
+   "ex": [
+    "8001279-46.2023.8.05.0103",
+    "8005789-39.2022.8.05.0103",
+    "8004468-03.2021.8.05.0103",
+    "8002204-42.2023.8.05.0103",
+    "8005856-04.2022.8.05.0103",
+    "8009317-18.2021.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Ilhéus",
+   "vara": "2ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 62,
+   "pct_proc": 61,
+   "pct_improc": 39,
+   "dano_moral_mediana": 4900,
+   "meses_mediana": 20.4,
+   "casos_com_data": 63,
+   "juizes": [],
+   "ex": [
+    "8008960-38.2021.8.05.0103",
+    "8006662-73.2021.8.05.0103",
+    "8009598-37.2022.8.05.0103",
+    "8003812-80.2020.8.05.0103",
+    "8002048-54.2023.8.05.0103",
+    "8009505-40.2023.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Ilhéus",
+   "vara": "1ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 23,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 30.5,
+   "casos_com_data": 24,
+   "juizes": [],
+   "ex": [
+    "0303119-72.2014.8.05.0103",
+    "8000918-68.2019.8.05.0103",
+    "8003551-52.2019.8.05.0103",
+    "8010705-48.2024.8.05.0103",
+    "8004458-22.2022.8.05.0103",
+    "8008816-30.2022.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Inhambupe",
+   "vara": "V Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais De Inhambupe",
+   "n_merito": 69,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 38.7,
+   "casos_com_data": 58,
+   "juizes": [
+    "George Barboza Cordeiro",
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "João Celso Peixoto Targino Filho"
+   ],
+   "ex": [
+    "8000339-20.2019.8.05.0104",
+    "0000448-88.2010.8.05.0104",
+    "8000307-73.2023.8.05.0104",
+    "8000658-51.2020.8.05.0104",
+    "8000826-82.2022.8.05.0104",
+    "8000510-40.2020.8.05.0104"
+   ]
+  },
+  {
+   "comarca": "Irecê",
+   "vara": "2ª V Dos Feitos Rel A Relações De Consumo, Cível, Com, Fam, Sucess, Órf E Int De Irecê",
+   "n_merito": 127,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 10.3,
+   "casos_com_data": 127,
+   "juizes": [],
+   "ex": [
+    "8000718-64.2024.8.05.0110",
+    "8004942-45.2024.8.05.0110",
+    "8006291-83.2024.8.05.0110",
+    "8002407-12.2025.8.05.0110",
+    "8002347-39.2025.8.05.0110",
+    "8005600-69.2024.8.05.0110"
+   ]
+  },
+  {
+   "comarca": "Irecê",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais, Família, Sucessões, Órfãos E Interditos",
+   "n_merito": 27,
+   "pct_proc": 70,
+   "pct_improc": 30,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 15.5,
+   "casos_com_data": 31,
+   "juizes": [],
+   "ex": [
+    "8000486-86.2023.8.05.0110",
+    "8000261-32.2024.8.05.0110",
+    "8001309-26.2024.8.05.0110",
+    "8002341-66.2024.8.05.0110",
+    "8005226-87.2023.8.05.0110",
+    "8001895-63.2024.8.05.0110"
+   ]
+  },
+  {
+   "comarca": "Irecê",
+   "vara": "3ª V Dos Feitos Rel Às Relações De Consumo, Cíveis, Comerciais E Faz. Pública De Irecê",
+   "n_merito": 20,
+   "pct_proc": 80,
+   "pct_improc": 20,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 60.6,
+   "casos_com_data": 21,
+   "juizes": [],
+   "ex": [
+    "8002849-75.2025.8.05.0110",
+    "8000818-97.2016.8.05.0110",
+    "8001444-19.2016.8.05.0110",
+    "8001713-19.2020.8.05.0110",
+    "8001220-47.2017.8.05.0110",
+    "8000049-65.2017.8.05.0236"
+   ]
+  },
+  {
+   "comarca": "Itabuna",
+   "vara": "4ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Registros Públicos",
+   "n_merito": 58,
+   "pct_proc": 60,
+   "pct_improc": 40,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 7.4,
+   "casos_com_data": 58,
+   "juizes": [],
+   "ex": [
+    "8000270-24.2020.8.05.0113",
+    "8003835-88.2023.8.05.0113",
+    "8003750-05.2023.8.05.0113",
+    "8007991-56.2022.8.05.0113",
+    "8004578-98.2023.8.05.0113",
+    "8003774-33.2023.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Itabuna",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Fazenda Pública",
+   "n_merito": 55,
+   "pct_proc": 56,
+   "pct_improc": 44,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 27.7,
+   "casos_com_data": 51,
+   "juizes": [],
+   "ex": [
+    "8004083-59.2020.8.05.0113",
+    "8007993-26.2022.8.05.0113",
+    "8001718-95.2021.8.05.0113",
+    "8008284-89.2023.8.05.0113",
+    "8003463-42.2023.8.05.0113",
+    "8005353-84.2021.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Itabuna",
+   "vara": "3ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Acidentes Do Trabalho",
+   "n_merito": 41,
+   "pct_proc": 68,
+   "pct_improc": 32,
+   "dano_moral_mediana": 7000,
+   "meses_mediana": 8.4,
+   "casos_com_data": 42,
+   "juizes": [],
+   "ex": [
+    "8003258-13.2023.8.05.0113",
+    "8003189-78.2023.8.05.0113",
+    "8002602-56.2023.8.05.0113",
+    "8008667-04.2022.8.05.0113",
+    "8002455-30.2023.8.05.0113",
+    "8004028-06.2023.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Jacobina",
+   "vara": "3ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 75,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 27.6,
+   "casos_com_data": 72,
+   "juizes": [
+    "Marley Cunha Medeiros"
+   ],
+   "ex": [
+    "8000739-95.2020.8.05.0137",
+    "0003709-88.2012.8.05.0137",
+    "8003904-82.2022.8.05.0137",
+    "8002396-04.2022.8.05.0137",
+    "0500653-14.2017.8.05.0137",
+    "8002838-67.2022.8.05.0137"
+   ]
+  },
+  {
+   "comarca": "Jequié",
+   "vara": "1ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Acidentes Do Trabalho",
+   "n_merito": 31,
+   "pct_proc": 61,
+   "pct_improc": 39,
+   "dano_moral_mediana": 6500,
+   "meses_mediana": 53.1,
+   "casos_com_data": 25,
+   "juizes": [],
+   "ex": [
+    "0501794-22.2018.8.05.0141",
+    "0500781-61.2013.8.05.0141",
+    "8001151-48.2019.8.05.0141",
+    "8003202-95.2020.8.05.0141",
+    "8005977-15.2022.8.05.0141",
+    "8001593-77.2020.8.05.0141"
+   ]
+  },
+  {
+   "comarca": "Jeremoabo",
+   "vara": "V Dos Feitos Relativos Às Relações De Consumo, Cível, Comercial, Fazenda Pública E Registros Públicos De Jeremoabo",
+   "n_merito": 298,
+   "pct_proc": 72,
+   "pct_improc": 28,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 16.7,
+   "casos_com_data": 267,
+   "juizes": [
+    "George Barboza Cordeiro",
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Paulo Eduardo De Menezes Moreira"
+   ],
+   "ex": [
+    "8000133-76.2025.8.05.0142",
+    "8003432-95.2024.8.05.0142",
+    "8000283-57.2025.8.05.0142",
+    "8001144-77.2024.8.05.0142",
+    "8000542-86.2024.8.05.0142",
+    "8001440-02.2024.8.05.0142"
+   ]
+  },
+  {
+   "comarca": "João Dourado",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De João Dourado",
+   "n_merito": 420,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 8.8,
+   "casos_com_data": 442,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8002840-42.2024.8.05.0145",
+    "8002641-20.2024.8.05.0145",
+    "8000811-63.2017.8.05.0145",
+    "8001514-81.2023.8.05.0145",
+    "8001639-15.2024.8.05.0145",
+    "8002131-41.2023.8.05.0145"
+   ]
+  },
+  {
+   "comarca": "Juazeiro",
+   "vara": "2ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 44,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 17.6,
+   "casos_com_data": 46,
+   "juizes": [],
+   "ex": [
+    "8006940-08.2022.8.05.0146",
+    "8012747-72.2023.8.05.0146",
+    "8008103-23.2022.8.05.0146",
+    "8008001-98.2022.8.05.0146",
+    "8004319-67.2024.8.05.0146",
+    "8012656-79.2023.8.05.0146"
+   ]
+  },
+  {
+   "comarca": "Juazeiro",
+   "vara": "1ª Vara De Feitos Relativos Às Relações De Consumo, Comerciais, Cíveis E Registros Públicos",
+   "n_merito": 28,
+   "pct_proc": 39,
+   "pct_improc": 61,
+   "dano_moral_mediana": 15000,
+   "meses_mediana": 29.8,
+   "casos_com_data": 29,
+   "juizes": [],
+   "ex": [
+    "8013466-54.2023.8.05.0146",
+    "8012067-87.2023.8.05.0146",
+    "0501874-68.2018.8.05.0146",
+    "0501348-04.2018.8.05.0146",
+    "8004521-83.2020.8.05.0146",
+    "0501502-22.2018.8.05.0146"
+   ]
+  },
+  {
+   "comarca": "Lauro De Freitas",
+   "vara": "1ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais E Registro Público De Lauro De Freitas",
+   "n_merito": 500,
+   "pct_proc": 71,
+   "pct_improc": 29,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 23.3,
+   "casos_com_data": 484,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8004866-03.2021.8.05.0150",
+    "8001883-31.2021.8.05.0150",
+    "8009289-31.2022.8.05.0001",
+    "8020935-42.2023.8.05.0150",
+    "8021458-54.2023.8.05.0150",
+    "8003510-07.2020.8.05.0150"
+   ]
+  },
+  {
+   "comarca": "Lauro De Freitas",
+   "vara": "1ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais E Registro Público",
+   "n_merito": 223,
+   "pct_proc": 52,
+   "pct_improc": 48,
+   "dano_moral_mediana": 9000,
+   "meses_mediana": 36.7,
+   "casos_com_data": 213,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8000113-08.2018.8.05.0150",
+    "8004231-56.2020.8.05.0150",
+    "0502139-97.2014.8.05.0150",
+    "0000346-35.2004.8.05.0150",
+    "0503267-21.2015.8.05.0150",
+    "0003065-14.2009.8.05.0150"
+   ]
+  },
+  {
+   "comarca": "Luís Eduardo Magalhães",
+   "vara": "Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 150,
+   "pct_proc": 77,
+   "pct_improc": 23,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 19.9,
+   "casos_com_data": 148,
+   "juizes": [],
+   "ex": [
+    "8001150-53.2021.8.05.0154",
+    "8001732-19.2022.8.05.0154",
+    "8001519-13.2022.8.05.0154",
+    "8001797-14.2022.8.05.0154",
+    "8007569-89.2021.8.05.0154",
+    "8001342-49.2022.8.05.0154"
+   ]
+  },
+  {
+   "comarca": "Luís Eduardo Magalhães",
+   "vara": "1ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Registros Públicos",
+   "n_merito": 39,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 11126,
+   "meses_mediana": 32.4,
+   "casos_com_data": 39,
+   "juizes": [],
+   "ex": [
+    "8002951-04.2021.8.05.0154",
+    "8001221-50.2024.8.05.0154",
+    "8003375-85.2017.8.05.0154",
+    "0004524-29.2015.8.05.0154",
+    "8003883-55.2022.8.05.0154",
+    "8002581-88.2022.8.05.0154"
+   ]
+  },
+  {
+   "comarca": "Luís Eduardo Magalhães",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 23,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 15000,
+   "meses_mediana": 100.5,
+   "casos_com_data": 23,
+   "juizes": [],
+   "ex": [
+    "8002243-90.2017.8.05.0154",
+    "8002969-98.2016.8.05.0154",
+    "8003755-35.2022.8.05.0154",
+    "8003376-02.2019.8.05.0154",
+    "8002168-85.2016.8.05.0154",
+    "8001252-12.2020.8.05.0154"
+   ]
+  },
+  {
+   "comarca": "Paulo Afonso",
+   "vara": "1ª V Dos Feitos Rel A Relações De Consumo, Cível, Com, Reg Pub E Fazenda De Paulo Afonso",
+   "n_merito": 131,
+   "pct_proc": 50,
+   "pct_improc": 50,
+   "dano_moral_mediana": 20000,
+   "meses_mediana": 32.1,
+   "casos_com_data": 127,
+   "juizes": [],
+   "ex": [
+    "8001049-02.2021.8.05.0191",
+    "8002468-52.2024.8.05.0191",
+    "8002847-08.2015.8.05.0191",
+    "8004484-13.2023.8.05.0191",
+    "8005758-46.2022.8.05.0191",
+    "8005434-22.2023.8.05.0191"
+   ]
+  },
+  {
+   "comarca": "Porto Seguro",
+   "vara": "1ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 270,
+   "pct_proc": 54,
+   "pct_improc": 46,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 17.4,
+   "casos_com_data": 665,
+   "juizes": [
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Carlos Alexandre Pelhe Gimenez"
+   ],
+   "ex": [
+    "8003445-87.2019.8.05.0201",
+    "0502163-30.2018.8.05.0201",
+    "8003235-94.2023.8.05.0201",
+    "0005534-06.2011.8.05.0201",
+    "8005510-50.2022.8.05.0201",
+    "8001171-19.2020.8.05.0201"
+   ]
+  },
+  {
+   "comarca": "Porto Seguro",
+   "vara": "V Dos Feitos De Rel De Cons. Civel E Comerciais, Consumidor E Registros Públicos De Porto Seguro",
+   "n_merito": 38,
+   "pct_proc": 79,
+   "pct_improc": 21,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 15.1,
+   "casos_com_data": 41,
+   "juizes": [],
+   "ex": [
+    "0500171-68.2017.8.05.0201",
+    "8009980-22.2025.8.05.0201",
+    "8000980-66.2023.8.05.0201",
+    "8001954-35.2025.8.05.0201",
+    "8000471-67.2025.8.05.0201",
+    "8007243-46.2025.8.05.0201"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Com. De Itabela",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Com. De Itabela",
+   "n_merito": 52,
+   "pct_proc": 77,
+   "pct_improc": 23,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 1.6,
+   "casos_com_data": 28,
+   "juizes": [],
+   "ex": [
+    "8001297-38.2026.8.05.0111",
+    "8001370-10.2026.8.05.0111",
+    "8001012-45.2026.8.05.0111",
+    "8001682-20.2025.8.05.0111",
+    "8000847-95.2026.8.05.0111",
+    "8000600-17.2026.8.05.0111"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Com. De Itagibá",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Com. De Itagibá",
+   "n_merito": 44,
+   "pct_proc": 23,
+   "pct_improc": 77,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 13.0,
+   "casos_com_data": 44,
+   "juizes": [],
+   "ex": [
+    "8000218-06.2026.8.05.0117",
+    "8001449-05.2025.8.05.0117",
+    "8000647-07.2025.8.05.0117",
+    "8000544-97.2025.8.05.0117",
+    "8001916-81.2025.8.05.0117",
+    "8000105-52.2026.8.05.0117"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Com. Iguai",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Com. Iguai",
+   "n_merito": 17,
+   "pct_proc": 82,
+   "pct_improc": 18,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 46.2,
+   "casos_com_data": 13,
+   "juizes": [],
+   "ex": [
+    "8000191-68.2026.8.05.0102",
+    "8000923-88.2022.8.05.0102",
+    "0000243-28.2010.8.05.0179",
+    "8000582-38.2017.8.05.0102",
+    "8000380-85.2022.8.05.0102",
+    "8000135-45.2020.8.05.0102"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Com. Santa Cruz Cabrália",
+   "vara": "1ª V Dos Feitos De Rel De Cons Civ E Com. Santa Cruz Cabrália",
+   "n_merito": 36,
+   "pct_proc": 81,
+   "pct_improc": 19,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 16.1,
+   "casos_com_data": 30,
+   "juizes": [
+    "Tarcísia De Oliveira Fonseca Elias"
+   ],
+   "ex": [
+    "8002147-90.2025.8.05.0220",
+    "8000372-06.2026.8.05.0220",
+    "8001761-65.2022.8.05.0220",
+    "8001629-03.2025.8.05.0220",
+    "8001158-89.2022.8.05.0220",
+    "8001174-72.2024.8.05.0220"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Antas",
+   "vara": "Vara Dos Feitos De Rel De Cons Civ E Comerciais De Antas",
+   "n_merito": 25,
+   "pct_proc": 72,
+   "pct_improc": 28,
+   "dano_moral_mediana": 2500,
+   "meses_mediana": 1.6,
+   "casos_com_data": 25,
+   "juizes": [],
+   "ex": [
+    "8000426-14.2026.8.05.0012",
+    "8000344-80.2026.8.05.0012",
+    "8000950-45.2025.8.05.0012",
+    "8000090-10.2026.8.05.0012",
+    "8000362-04.2026.8.05.0012",
+    "8000522-29.2026.8.05.0012"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Barreiras",
+   "vara": "2ª V Dos Feitos De Rel De Cons Civ E Comerciais De Barreiras",
+   "n_merito": 15,
+   "pct_proc": 87,
+   "pct_improc": 13,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 36.4,
+   "casos_com_data": 14,
+   "juizes": [],
+   "ex": [
+    "8002949-71.2023.8.05.0022",
+    "8000123-48.2018.8.05.0022",
+    "0501933-11.2016.8.05.0022",
+    "8006928-41.2023.8.05.0022",
+    "8010478-44.2023.8.05.0022",
+    "0301381-35.2013.8.05.0022"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Cruz Das Almas",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Cruz Das Almas",
+   "n_merito": 41,
+   "pct_proc": 90,
+   "pct_improc": 10,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 12.9,
+   "casos_com_data": 40,
+   "juizes": [],
+   "ex": [
+    "8000559-07.2025.8.05.0072",
+    "8000368-59.2025.8.05.0072",
+    "8002967-68.2025.8.05.0072",
+    "8001342-96.2025.8.05.0072",
+    "8000703-93.2016.8.05.0072",
+    "8000012-64.2025.8.05.0072"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Itapicuru",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Itapicuru",
+   "n_merito": 28,
+   "pct_proc": 46,
+   "pct_improc": 54,
+   "dano_moral_mediana": 4000,
+   "meses_mediana": 13.2,
+   "casos_com_data": 30,
+   "juizes": [
+    "Adalberto Lima Borges Filho"
+   ],
+   "ex": [
+    "8001593-46.2025.8.05.0127",
+    "8002160-77.2025.8.05.0127",
+    "8001101-54.2025.8.05.0127",
+    "8000205-74.2026.8.05.0127",
+    "8001642-87.2025.8.05.0127",
+    "8000525-27.2026.8.05.0127"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Ituberá",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Ituberá",
+   "n_merito": 29,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 13.1,
+   "casos_com_data": 28,
+   "juizes": [],
+   "ex": [
+    "8000302-55.2023.8.05.0135",
+    "8000762-71.2025.8.05.0135",
+    "8000309-42.2026.8.05.0135",
+    "8000141-40.2026.8.05.0135",
+    "8000263-53.2026.8.05.0135",
+    "8000469-38.2024.8.05.0135"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Mata De São João",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Mata De São João",
+   "n_merito": 93,
+   "pct_proc": 66,
+   "pct_improc": 34,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 24.4,
+   "casos_com_data": 106,
+   "juizes": [
+    "Pje. Lina Magna Andrade Sena Santos",
+    "Lina Magna Andrade Sena Santos",
+    "Isabella Santos Lago"
+   ],
+   "ex": [
+    "8002481-69.2023.8.05.0164",
+    "8000745-55.2019.8.05.0164",
+    "8001033-32.2021.8.05.0164",
+    "8001319-39.2023.8.05.0164",
+    "8002270-62.2025.8.05.0164",
+    "8002101-46.2023.8.05.0164"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Miguel Calmon",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Miguel Calmon",
+   "n_merito": 55,
+   "pct_proc": 40,
+   "pct_improc": 60,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 10.4,
+   "casos_com_data": 51,
+   "juizes": [],
+   "ex": [
+    "8001108-60.2024.8.05.0166",
+    "8000480-03.2026.8.05.0166",
+    "8000646-35.2026.8.05.0166",
+    "8000293-92.2026.8.05.0166",
+    "8000516-16.2024.8.05.0166",
+    "8000602-50.2025.8.05.0166"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Morro Do Chapéu",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Morro Do Chapéu",
+   "n_merito": 59,
+   "pct_proc": 41,
+   "pct_improc": 59,
+   "dano_moral_mediana": 2000,
+   "meses_mediana": 12.8,
+   "casos_com_data": 64,
+   "juizes": [],
+   "ex": [
+    "8002600-41.2025.8.05.0170",
+    "8002816-36.2024.8.05.0170",
+    "8003163-35.2025.8.05.0170",
+    "8000718-44.2025.8.05.0170",
+    "8002477-43.2025.8.05.0170",
+    "8001059-70.2025.8.05.0170"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Nova Viçosa",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Nova Viçosa",
+   "n_merito": 42,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 4500,
+   "meses_mediana": 23.9,
+   "casos_com_data": 42,
+   "juizes": [
+    "Henrique Carlos Lima Alves Pereira",
+    "Renan Souza Moreira"
+   ],
+   "ex": [
+    "8000060-23.2021.8.05.0182",
+    "8000431-45.2025.8.05.0182",
+    "8000402-63.2023.8.05.0182",
+    "8001232-63.2022.8.05.0182",
+    "8002051-63.2023.8.05.0182",
+    "8001954-29.2024.8.05.0182"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Olindina",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Olindina",
+   "n_merito": 27,
+   "pct_proc": 26,
+   "pct_improc": 74,
+   "dano_moral_mediana": 2000,
+   "meses_mediana": 9.5,
+   "casos_com_data": 24,
+   "juizes": [],
+   "ex": [
+    "8001434-32.2025.8.05.0183",
+    "8001043-43.2026.8.05.0183",
+    "8000636-37.2026.8.05.0183",
+    "8000453-66.2026.8.05.0183",
+    "8000699-62.2026.8.05.0183",
+    "8002527-30.2025.8.05.0183"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Paripiranga",
+   "vara": "Vara Dos Feitos De Rel De Cons Civ E Comerciais De Paripiranga",
+   "n_merito": 21,
+   "pct_proc": 67,
+   "pct_improc": 33,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 1.6,
+   "casos_com_data": 19,
+   "juizes": [],
+   "ex": [
+    "8000857-02.2026.8.05.0189",
+    "8001491-32.2025.8.05.0189",
+    "8000131-28.2026.8.05.0189",
+    "8000121-81.2026.8.05.0189",
+    "8002241-68.2024.8.05.0189",
+    "8002127-95.2025.8.05.0189"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Pojuca",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Pojuca",
+   "n_merito": 33,
+   "pct_proc": 76,
+   "pct_improc": 24,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 11.3,
+   "casos_com_data": 30,
+   "juizes": [],
+   "ex": [
+    "8001393-14.2025.8.05.0200",
+    "8001555-43.2024.8.05.0200",
+    "8001119-84.2024.8.05.0200",
+    "8000176-67.2024.8.05.0200",
+    "8000533-86.2020.8.05.0200",
+    "8001185-64.2024.8.05.0200"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Poções",
+   "vara": "Vara Dos Feitos De Rel De Cons Civ E Comerciais De Poções",
+   "n_merito": 26,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 8.4,
+   "casos_com_data": 24,
+   "juizes": [
+    "Rosalvo Augusto Vieira Da Silva",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8000633-34.2026.8.05.0199",
+    "8004144-74.2025.8.05.0199",
+    "8004267-72.2025.8.05.0199",
+    "8002071-32.2025.8.05.0199",
+    "8000040-39.2025.8.05.0199",
+    "8000072-10.2026.8.05.0199"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Riacho De Santana",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Riacho De Santana",
+   "n_merito": 17,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 12.2,
+   "casos_com_data": 18,
+   "juizes": [],
+   "ex": [
+    "8000346-66.2025.8.05.0212",
+    "8000345-81.2025.8.05.0212",
+    "8001015-22.2025.8.05.0212",
+    "8001251-71.2025.8.05.0212",
+    "8000673-79.2023.8.05.0212",
+    "8000415-35.2024.8.05.0212"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Rio Real",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Rio Real",
+   "n_merito": 16,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 23.5,
+   "casos_com_data": 15,
+   "juizes": [
+    "Euler José Ribeiro Neto"
+   ],
+   "ex": [
+    "8000290-36.2016.8.05.0216",
+    "0000662-58.2015.8.05.0216",
+    "8001576-34.2025.8.05.0216",
+    "8000499-87.2025.8.05.0216",
+    "8001574-35.2023.8.05.0216",
+    "8000038-52.2024.8.05.0216"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Santo Amaro",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Santo Amaro",
+   "n_merito": 61,
+   "pct_proc": 66,
+   "pct_improc": 34,
+   "dano_moral_mediana": 4500,
+   "meses_mediana": 12.6,
+   "casos_com_data": 58,
+   "juizes": [],
+   "ex": [
+    "8000376-87.2024.8.05.0228",
+    "8000541-03.2025.8.05.0228",
+    "8001732-25.2021.8.05.0228",
+    "8000978-78.2024.8.05.0228",
+    "8002560-16.2024.8.05.0228",
+    "8000769-12.2024.8.05.0228"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Sento Sé",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De Sento Sé",
+   "n_merito": 17,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 6.8,
+   "casos_com_data": 14,
+   "juizes": [
+    "Edvanilson De Araújo Lima"
+   ],
+   "ex": [
+    "8000422-54.2026.8.05.0245",
+    "8001687-28.2025.8.05.0245",
+    "8000796-70.2026.8.05.0245",
+    "8000633-27.2025.8.05.0245",
+    "8000807-36.2025.8.05.0245",
+    "8000576-72.2026.8.05.0245"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De São Desidério",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De São Desidério",
+   "n_merito": 16,
+   "pct_proc": 62,
+   "pct_improc": 38,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 33.5,
+   "casos_com_data": 15,
+   "juizes": [
+    "Bianca Pfeffer"
+   ],
+   "ex": [
+    "8000757-52.2025.8.05.0231",
+    "0000890-22.2014.8.05.0231",
+    "8001108-93.2023.8.05.0231",
+    "8000172-44.2018.8.05.0231",
+    "8000529-19.2021.8.05.0231",
+    "8000927-29.2022.8.05.0231"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De São Felipe",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De São Felipe",
+   "n_merito": 31,
+   "pct_proc": 52,
+   "pct_improc": 48,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 11.5,
+   "casos_com_data": 32,
+   "juizes": [
+    "Leandro Florêncio Rocha De Araújo",
+    "Leandro Florencio Rocha De Araujo"
+   ],
+   "ex": [
+    "8000794-10.2024.8.05.0233",
+    "8000863-08.2025.8.05.0233",
+    "8000152-03.2025.8.05.0233",
+    "8000601-58.2025.8.05.0233",
+    "8000757-46.2025.8.05.0233",
+    "8000254-25.2025.8.05.0233"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De São Francisco Do Conde",
+   "vara": "V Dos Feitos De Rel De Cons Civ E Comerciais De São Francisco Do Conde",
+   "n_merito": 49,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 13.2,
+   "casos_com_data": 53,
+   "juizes": [],
+   "ex": [
+    "8001908-07.2026.8.05.0235",
+    "8002144-56.2026.8.05.0235",
+    "8001291-47.2026.8.05.0235",
+    "8002752-88.2025.8.05.0235",
+    "8000289-47.2023.8.05.0235",
+    "8000937-27.2023.8.05.0235"
+   ]
+  },
+  {
+   "comarca": "Rel De Cons Civ E Comerciais De Una",
+   "vara": "Vara Dos Feitos De Rel De Cons Civ E Comerciais De Una",
+   "n_merito": 20,
+   "pct_proc": 85,
+   "pct_improc": 15,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 1.2,
+   "casos_com_data": 20,
+   "juizes": [],
+   "ex": [
+    "8000273-89.2026.8.05.0267",
+    "8000956-68.2022.8.05.0267",
+    "8001071-84.2025.8.05.0267",
+    "8000701-71.2026.8.05.0267",
+    "8000665-29.2026.8.05.0267",
+    "8000430-62.2026.8.05.0267"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Alagoinhas",
+   "vara": "1ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Alagoinhas",
+   "n_merito": 49,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 25.5,
+   "casos_com_data": 49,
+   "juizes": [],
+   "ex": [
+    "0500199-84.2013.8.05.0004",
+    "8004494-07.2021.8.05.0004",
+    "8007082-79.2024.8.05.0004",
+    "8007032-62.2024.8.05.0001",
+    "8000408-85.2024.8.05.0004",
+    "8005852-02.2024.8.05.0004"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Alagoinhas",
+   "vara": "3ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Alagoinhas",
+   "n_merito": 20,
+   "pct_proc": 75,
+   "pct_improc": 25,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 23.5,
+   "casos_com_data": 17,
+   "juizes": [],
+   "ex": [
+    "8000557-47.2025.8.05.0004",
+    "8000970-65.2022.8.05.0004",
+    "0501215-05.2015.8.05.0004",
+    "8006634-72.2025.8.05.0004",
+    "8003603-78.2024.8.05.0004",
+    "8009284-92.2025.8.05.0004"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "vara": "1ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "n_merito": 59,
+   "pct_proc": 73,
+   "pct_improc": 27,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 24.1,
+   "casos_com_data": 56,
+   "juizes": [],
+   "ex": [
+    "8008214-34.2025.8.05.0103",
+    "0502532-27.2018.8.05.0103",
+    "0502531-42.2018.8.05.0103",
+    "0502530-57.2018.8.05.0103",
+    "8004618-13.2023.8.05.0103",
+    "8000352-80.2023.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "vara": "2ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "n_merito": 57,
+   "pct_proc": 79,
+   "pct_improc": 21,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 11.5,
+   "casos_com_data": 54,
+   "juizes": [],
+   "ex": [
+    "8008220-41.2025.8.05.0103",
+    "8001835-77.2025.8.05.0103",
+    "8011428-33.2025.8.05.0103",
+    "8009548-74.2023.8.05.0103",
+    "0500361-05.2015.8.05.0103",
+    "8009095-11.2025.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "vara": "3ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "n_merito": 47,
+   "pct_proc": 72,
+   "pct_improc": 28,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 13.4,
+   "casos_com_data": 49,
+   "juizes": [],
+   "ex": [
+    "8011640-88.2024.8.05.0103",
+    "8006960-26.2025.8.05.0103",
+    "8004677-30.2025.8.05.0103",
+    "8012560-28.2025.8.05.0103",
+    "8006658-94.2025.8.05.0103",
+    "8009504-84.2025.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "vara": "4ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Ilheus",
+   "n_merito": 27,
+   "pct_proc": 19,
+   "pct_improc": 81,
+   "dano_moral_mediana": 20000,
+   "meses_mediana": 9.4,
+   "casos_com_data": 28,
+   "juizes": [
+    "Antonio Lopes Filho"
+   ],
+   "ex": [
+    "8011380-74.2025.8.05.0103",
+    "8013278-25.2025.8.05.0103",
+    "8000131-92.2026.8.05.0103",
+    "8013804-89.2025.8.05.0103",
+    "8014942-91.2025.8.05.0103",
+    "8000582-20.2026.8.05.0103"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Jacobina",
+   "vara": "1ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Jacobina",
+   "n_merito": 57,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 24.8,
+   "casos_com_data": 60,
+   "juizes": [
+    "Thiago Mattos De Matos"
+   ],
+   "ex": [
+    "8002687-33.2024.8.05.0137",
+    "8003415-06.2026.8.05.0137",
+    "8082387-15.2023.8.05.0001",
+    "8000385-94.2025.8.05.0137",
+    "8004880-84.2025.8.05.0137",
+    "8007207-02.2025.8.05.0137"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Civeis E Comerciais De Jacobina",
+   "vara": "3ª V Dos Feitos De Rel. De Cons. Civeis E Comerciais De Jacobina",
+   "n_merito": 23,
+   "pct_proc": 78,
+   "pct_improc": 22,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 12.5,
+   "casos_com_data": 24,
+   "juizes": [
+    "Marley Cunha Medeiros"
+   ],
+   "ex": [
+    "8005532-04.2025.8.05.0137",
+    "0502285-41.2018.8.05.0137",
+    "0501558-53.2016.8.05.0137",
+    "8007241-74.2025.8.05.0137",
+    "8005533-86.2025.8.05.0137",
+    "8001316-97.2025.8.05.0137"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Cíveis Comerciais E Acid. De Trab. De Vitoria Da Conquista",
+   "vara": "5ª V Dos Feitos De Rel. De Cons. Cíveis Comerciais E Acid. De Trab. De Vitoria Da Conquista",
+   "n_merito": 25,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 12.7,
+   "casos_com_data": 24,
+   "juizes": [],
+   "ex": [
+    "8002603-72.2025.8.05.0274",
+    "8008140-88.2021.8.05.0274",
+    "8006952-55.2024.8.05.0274",
+    "8026218-91.2025.8.05.0274",
+    "8005319-77.2022.8.05.0274",
+    "8005484-85.2026.8.05.0274"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Cíveis Comerciais E Acid. Trab. De Itabuna",
+   "vara": "1ª V Dos Feitos De Rel. De Cons. Cíveis Comerciais E Acid. Trab. De Itabuna",
+   "n_merito": 23,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 13.1,
+   "casos_com_data": 24,
+   "juizes": [],
+   "ex": [
+    "8012258-66.2025.8.05.0113",
+    "8012159-96.2025.8.05.0113",
+    "8011418-56.2025.8.05.0113",
+    "8000257-15.2026.8.05.0113",
+    "8009357-62.2024.8.05.0113",
+    "8006475-59.2026.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Cíveis Comerciais E Acid. Trab. De Itabuna",
+   "vara": "3ª V Dos Feitos De Rel. De Cons. Cíveis Comerciais E Acid. Trab. De Itabuna",
+   "n_merito": 18,
+   "pct_proc": 50,
+   "pct_improc": 50,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 1.4,
+   "casos_com_data": 16,
+   "juizes": [],
+   "ex": [
+    "8009056-81.2025.8.05.0113",
+    "8001244-51.2026.8.05.0113",
+    "8003967-43.2026.8.05.0113",
+    "8002272-54.2026.8.05.0113",
+    "8002268-17.2026.8.05.0113",
+    "8012058-59.2025.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Cíveis Comerciais E Reg. Pub. De Itabuna",
+   "vara": "4ª V Dos Feitos De Rel. De Cons. Cíveis Comerciais E Reg. Pub. De Itabuna",
+   "n_merito": 28,
+   "pct_proc": 75,
+   "pct_improc": 25,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 12.3,
+   "casos_com_data": 26,
+   "juizes": [],
+   "ex": [
+    "8009058-51.2025.8.05.0113",
+    "8000505-78.2026.8.05.0113",
+    "8011475-74.2025.8.05.0113",
+    "8010334-20.2025.8.05.0113",
+    "8011399-50.2025.8.05.0113",
+    "0005088-20.2004.8.05.0113"
+   ]
+  },
+  {
+   "comarca": "Rel. De Cons. Cíveis Comerciais E Reg. Pub. De Vitoria Da Conquista",
+   "vara": "4ª V Dos Feitos De Rel. De Cons. Cíveis Comerciais E Reg. Pub. De Vitoria Da Conquista",
+   "n_merito": 35,
+   "pct_proc": 74,
+   "pct_improc": 26,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 22.6,
+   "casos_com_data": 36,
+   "juizes": [],
+   "ex": [
+    "0502934-51.2016.8.05.0274",
+    "8018815-08.2024.8.05.0274",
+    "8000295-63.2025.8.05.0274",
+    "8017075-15.2024.8.05.0274",
+    "8017020-64.2024.8.05.0274",
+    "8004420-45.2023.8.05.0274"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "14ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 2188,
+   "pct_proc": 42,
+   "pct_improc": 58,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 10.9,
+   "casos_com_data": 2983,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8134839-65.2024.8.05.0001",
+    "8047344-80.2024.8.05.0001",
+    "8013067-04.2025.8.05.0001",
+    "0562196-04.2018.8.05.0001",
+    "0561722-33.2018.8.05.0001",
+    "8094183-03.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "13ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1847,
+   "pct_proc": 51,
+   "pct_improc": 49,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 18.5,
+   "casos_com_data": 2280,
+   "juizes": [
+    "Fábio Mello Veiga",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8012834-46.2021.8.05.0001",
+    "8013895-05.2022.8.05.0001",
+    "0514050-68.2014.8.05.0001",
+    "8022767-72.2023.8.05.0001",
+    "8180816-80.2024.8.05.0001",
+    "8022928-82.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "2ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1664,
+   "pct_proc": 58,
+   "pct_improc": 42,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 24.7,
+   "casos_com_data": 1622,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8134453-06.2022.8.05.0001",
+    "8180129-40.2023.8.05.0001",
+    "8147131-53.2022.8.05.0001",
+    "8055695-76.2023.8.05.0001",
+    "8132146-16.2021.8.05.0001",
+    "8087943-66.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "19ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1647,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 19.1,
+   "casos_com_data": 1692,
+   "juizes": [
+    "Antonio Lopes Filho",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8075350-34.2023.8.05.0001",
+    "8126718-82.2023.8.05.0001",
+    "8015199-39.2022.8.05.0001",
+    "8080839-52.2023.8.05.0001",
+    "8004255-75.2022.8.05.0001",
+    "8076977-39.2024.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "3ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1622,
+   "pct_proc": 51,
+   "pct_improc": 49,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 9.4,
+   "casos_com_data": 1506,
+   "juizes": [
+    "Ana Cláudia Silva Mesquita Braid"
+   ],
+   "ex": [
+    "8082052-35.2019.8.05.0001",
+    "8033981-65.2020.8.05.0001",
+    "8132228-47.2021.8.05.0001",
+    "0406043-16.2013.8.05.0001",
+    "8090432-08.2023.8.05.0001",
+    "8003049-21.2025.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "12ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1470,
+   "pct_proc": 65,
+   "pct_improc": 35,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 32.2,
+   "casos_com_data": 1402,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8114574-81.2020.8.05.0001",
+    "0577978-85.2017.8.05.0001",
+    "0519314-61.2017.8.05.0001",
+    "8018894-98.2022.8.05.0001",
+    "0536556-33.2017.8.05.0001",
+    "8142148-74.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "17ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1439,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 11.8,
+   "casos_com_data": 1348,
+   "juizes": [
+    "Isabella Santos Lago",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8071050-34.2020.8.05.0001",
+    "8117970-27.2024.8.05.0001",
+    "8138098-05.2023.8.05.0001",
+    "8104243-06.2021.8.05.0001",
+    "8087245-31.2019.8.05.0001",
+    "0087858-13.2007.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "16ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1392,
+   "pct_proc": 75,
+   "pct_improc": 25,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 7.4,
+   "casos_com_data": 1196,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8171820-93.2024.8.05.0001",
+    "8049036-80.2025.8.05.0001",
+    "8056810-64.2025.8.05.0001",
+    "8147155-13.2024.8.05.0001",
+    "8173639-65.2024.8.05.0001",
+    "8032800-53.2025.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "5ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1328,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 13.9,
+   "casos_com_data": 1360,
+   "juizes": [
+    "Patrícia Didier De Morais Pereira",
+    "Rita De Cássia Ramos De Carvalho",
+    "Patricia Didier De Morais Pereira"
+   ],
+   "ex": [
+    "8037969-55.2024.8.05.0001",
+    "8080879-05.2021.8.05.0001",
+    "8028653-18.2024.8.05.0001",
+    "8099627-80.2024.8.05.0001",
+    "8066286-97.2023.8.05.0001",
+    "8062891-63.2024.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "8ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1328,
+   "pct_proc": 60,
+   "pct_improc": 40,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 13.5,
+   "casos_com_data": 1310,
+   "juizes": [
+    "Joséfison Silva Oliveira",
+    "Manuel Carneiro Bahia De Araújo"
+   ],
+   "ex": [
+    "8077153-57.2020.8.05.0001",
+    "8092089-48.2024.8.05.0001",
+    "8061231-34.2024.8.05.0001",
+    "8060615-59.2024.8.05.0001",
+    "8088815-76.2024.8.05.0001",
+    "8157121-34.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "10ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1284,
+   "pct_proc": 51,
+   "pct_improc": 49,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 20.5,
+   "casos_com_data": 1289,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8117042-47.2022.8.05.0001",
+    "8048790-55.2023.8.05.0001",
+    "8169884-04.2022.8.05.0001",
+    "8140035-50.2023.8.05.0001",
+    "8084163-16.2024.8.05.0001",
+    "8095707-98.2024.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "9ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1276,
+   "pct_proc": 72,
+   "pct_improc": 28,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 22.3,
+   "casos_com_data": 1270,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8074994-39.2023.8.05.0001",
+    "8021399-57.2025.8.05.0001",
+    "8099801-89.2024.8.05.0001",
+    "8053325-90.2024.8.05.0001",
+    "8082389-82.2023.8.05.0001",
+    "8083860-07.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "11ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1251,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 24.4,
+   "casos_com_data": 1338,
+   "juizes": [
+    "Fábio Alexsandro Costa Bastos.",
+    "Glautemberg Bastos De Luna"
+   ],
+   "ex": [
+    "8008446-61.2025.8.05.0001",
+    "8028524-47.2023.8.05.0001",
+    "8134551-20.2024.8.05.0001",
+    "8086476-47.2024.8.05.0001",
+    "8004333-64.2025.8.05.0001",
+    "8121206-21.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "15ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1217,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 12.3,
+   "casos_com_data": 1209,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira",
+    "Carla Carneiro Teixeira Ceará",
+    "Mary Angelica Santos Coelho"
+   ],
+   "ex": [
+    "8095351-06.2024.8.05.0001",
+    "8156605-14.2023.8.05.0001",
+    "8072559-58.2024.8.05.0001",
+    "8146859-93.2021.8.05.0001",
+    "8049525-54.2024.8.05.0001",
+    "8090653-54.2024.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "7ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1192,
+   "pct_proc": 53,
+   "pct_improc": 47,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 23.0,
+   "casos_com_data": 1235,
+   "juizes": [
+    "Fábio Mello Veiga",
+    "Martha Cavalcanti Silva De Oliveira",
+    "Catucha Moreira Gidi"
+   ],
+   "ex": [
+    "8139519-64.2022.8.05.0001",
+    "8014654-95.2024.8.05.0001",
+    "8064663-37.2019.8.05.0001",
+    "8023731-65.2023.8.05.0001",
+    "8117775-76.2023.8.05.0001",
+    "8003748-80.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "18ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 1146,
+   "pct_proc": 42,
+   "pct_improc": 58,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 21.5,
+   "casos_com_data": 1083,
+   "juizes": [
+    "Roberto Wolff",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Daniela Guimarães Andrade Gonzaga"
+   ],
+   "ex": [
+    "8010599-04.2024.8.05.0001",
+    "8043161-71.2021.8.05.0001",
+    "8117815-63.2020.8.05.0001",
+    "8018320-46.2020.8.05.0001",
+    "8132793-74.2022.8.05.0001",
+    "8036855-52.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "20ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 974,
+   "pct_proc": 59,
+   "pct_improc": 41,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 13.8,
+   "casos_com_data": 1037,
+   "juizes": [],
+   "ex": [
+    "8040427-21.2019.8.05.0001",
+    "8071250-02.2024.8.05.0001",
+    "8131100-21.2023.8.05.0001",
+    "8115896-97.2024.8.05.0001",
+    "8055345-88.2023.8.05.0001",
+    "8166365-84.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "6ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 956,
+   "pct_proc": 47,
+   "pct_improc": 53,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 13.6,
+   "casos_com_data": 980,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8071903-04.2024.8.05.0001",
+    "8004309-12.2020.8.05.0001",
+    "8016759-21.2019.8.05.0001",
+    "8038863-65.2023.8.05.0001",
+    "8137179-21.2020.8.05.0001",
+    "8051907-54.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "4ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 908,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 26.5,
+   "casos_com_data": 901,
+   "juizes": [
+    "Ana Lucia Matos De Souza",
+    "Ba Ana Lucia Matos De Souza",
+    "Cpc. P.I.R. Ana Lucia Matos De Souza"
+   ],
+   "ex": [
+    "8159773-24.2023.8.05.0001",
+    "8141631-69.2023.8.05.0001",
+    "8083059-23.2023.8.05.0001",
+    "8075181-13.2024.8.05.0001",
+    "8125081-96.2023.8.05.0001",
+    "8129803-13.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Relações De Consumo Da Comarca De Salvador",
+   "vara": "1ª Vara De Relações De Consumo Da Comarca De Salvador",
+   "n_merito": 822,
+   "pct_proc": 37,
+   "pct_improc": 63,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 30.2,
+   "casos_com_data": 704,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "0571138-93.2016.8.05.0001",
+    "8069164-92.2023.8.05.0001",
+    "8018796-84.2020.8.05.0001",
+    "0088174-84.2011.8.05.0001",
+    "8044505-58.2019.8.05.0001",
+    "8084662-34.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "13ª Vara De Relações De Consumo",
+   "n_merito": 913,
+   "pct_proc": 25,
+   "pct_improc": 75,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 27.3,
+   "casos_com_data": 1448,
+   "juizes": [
+    "Fábio Mello Veiga",
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Thais De Carvalho Kronemberger"
+   ],
+   "ex": [
+    "0329507-95.2012.8.05.0001",
+    "8043248-95.2019.8.05.0001",
+    "8067171-82.2021.8.05.0001",
+    "8068054-29.2021.8.05.0001",
+    "0158869-44.2003.8.05.0001",
+    "8024790-93.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "2ª Vara Do Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "n_merito": 776,
+   "pct_proc": 81,
+   "pct_improc": 19,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 11.2,
+   "casos_com_data": 786,
+   "juizes": [],
+   "ex": [
+    "8112885-31.2022.8.05.0001",
+    "8017686-79.2022.8.05.0001",
+    "8073255-31.2023.8.05.0001",
+    "8011607-84.2022.8.05.0001",
+    "8012136-06.2022.8.05.0001",
+    "8146091-36.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "14ª Vara De Relações De Consumo",
+   "n_merito": 756,
+   "pct_proc": 41,
+   "pct_improc": 59,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 13.3,
+   "casos_com_data": 1554,
+   "juizes": [],
+   "ex": [
+    "8124295-52.2023.8.05.0001",
+    "8118553-80.2022.8.05.0001",
+    "8014188-38.2023.8.05.0001",
+    "8057578-58.2023.8.05.0001",
+    "8075265-82.2022.8.05.0001",
+    "0562735-04.2017.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "4ª Vara De Relações De Consumo",
+   "n_merito": 741,
+   "pct_proc": 43,
+   "pct_improc": 57,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 28.4,
+   "casos_com_data": 746,
+   "juizes": [
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Ba Ana Lucia Matos De Souza",
+    "Bahia Ana Lucia Matos De Souza"
+   ],
+   "ex": [
+    "8085227-32.2022.8.05.0001",
+    "8143021-45.2021.8.05.0001",
+    "8095201-30.2021.8.05.0001",
+    "8070627-74.2020.8.05.0001",
+    "8037430-60.2022.8.05.0001",
+    "0576691-58.2015.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "1ª Vara Do Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "n_merito": 677,
+   "pct_proc": 93,
+   "pct_improc": 7,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 7.7,
+   "casos_com_data": 566,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8101796-11.2022.8.05.0001",
+    "8078254-61.2022.8.05.0001",
+    "8015655-57.2020.8.05.0001",
+    "8078557-41.2023.8.05.0001",
+    "8087640-81.2023.8.05.0001",
+    "8083837-90.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "1ª Vara De Relações De Consumo",
+   "n_merito": 638,
+   "pct_proc": 41,
+   "pct_improc": 59,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 32.7,
+   "casos_com_data": 575,
+   "juizes": [
+    "Teomar Almeida De Oliveira",
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "8083691-20.2021.8.05.0001",
+    "8065623-56.2020.8.05.0001",
+    "8030774-24.2021.8.05.0001",
+    "8026793-16.2023.8.05.0001",
+    "8136943-98.2022.8.05.0001",
+    "8140325-65.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "20ª Vara De Relações De Consumo",
+   "n_merito": 628,
+   "pct_proc": 41,
+   "pct_improc": 59,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 19.0,
+   "casos_com_data": 692,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8048106-38.2020.8.05.0001",
+    "8053335-71.2023.8.05.0001",
+    "8000189-18.2023.8.05.0001",
+    "0339442-52.2018.8.05.0001",
+    "8183278-78.2022.8.05.0001",
+    "8099643-05.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "9ª Vara De Relações De Consumo",
+   "n_merito": 542,
+   "pct_proc": 56,
+   "pct_improc": 44,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 27.9,
+   "casos_com_data": 544,
+   "juizes": [],
+   "ex": [
+    "8021512-21.2019.8.05.0001",
+    "8102968-56.2020.8.05.0001",
+    "8018804-27.2021.8.05.0001",
+    "8104954-45.2020.8.05.0001",
+    "8138342-02.2021.8.05.0001",
+    "8051009-46.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "3ª Vara De Relações De Consumo",
+   "n_merito": 531,
+   "pct_proc": 40,
+   "pct_improc": 60,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 8.3,
+   "casos_com_data": 687,
+   "juizes": [
+    "Ana Cláudia Silva Mesquita Braid"
+   ],
+   "ex": [
+    "8058093-93.2023.8.05.0001",
+    "8076211-54.2022.8.05.0001",
+    "8013454-87.2023.8.05.0001",
+    "8042296-77.2023.8.05.0001",
+    "8083790-87.2021.8.05.0001",
+    "8080779-79.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "17ª Vara De Relações De Consumo",
+   "n_merito": 499,
+   "pct_proc": 60,
+   "pct_improc": 40,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 13.3,
+   "casos_com_data": 487,
+   "juizes": [
+    "Isabella Santos Lago"
+   ],
+   "ex": [
+    "8152787-88.2022.8.05.0001",
+    "8035800-32.2023.8.05.0001",
+    "8043191-38.2023.8.05.0001",
+    "8021581-48.2022.8.05.0001",
+    "8095718-98.2022.8.05.0001",
+    "8105641-17.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "5ª Vara De Relações De Consumo",
+   "n_merito": 485,
+   "pct_proc": 45,
+   "pct_improc": 55,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 17.1,
+   "casos_com_data": 493,
+   "juizes": [
+    "Patrícia Didier De Morais Pereira",
+    "Patrícia Didier De Morais Pereia",
+    "Patricia Didier De Morais Pereira"
+   ],
+   "ex": [
+    "8140008-38.2021.8.05.0001",
+    "8138062-31.2021.8.05.0001",
+    "8041862-59.2021.8.05.0001",
+    "8167909-44.2022.8.05.0001",
+    "8063715-56.2023.8.05.0001",
+    "8019399-55.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "11ª Vara De Relações De Consumo",
+   "n_merito": 473,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 28.5,
+   "casos_com_data": 535,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8010727-58.2023.8.05.0001",
+    "8073822-62.2023.8.05.0001",
+    "0183344-88.2008.8.05.0001",
+    "8099100-65.2023.8.05.0001",
+    "8076565-16.2021.8.05.0001",
+    "8106847-66.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "18ª Vara De Relações De Consumo",
+   "n_merito": 467,
+   "pct_proc": 30,
+   "pct_improc": 70,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 17.3,
+   "casos_com_data": 477,
+   "juizes": [
+    "Roberto Wolff"
+   ],
+   "ex": [
+    "8049977-98.2023.8.05.0001",
+    "8170685-17.2022.8.05.0001",
+    "8073615-97.2022.8.05.0001",
+    "8181127-42.2022.8.05.0001",
+    "8110958-64.2021.8.05.0001",
+    "8178546-54.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "7ª Vara De Relações De Consumo",
+   "n_merito": 452,
+   "pct_proc": 32,
+   "pct_improc": 68,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 20.4,
+   "casos_com_data": 476,
+   "juizes": [
+    "Catucha Moreira Gidi",
+    "Fábio Mello Veiga"
+   ],
+   "ex": [
+    "8048537-38.2021.8.05.0001",
+    "8141044-81.2022.8.05.0001",
+    "8027091-47.2019.8.05.0001",
+    "0027378-64.2010.8.05.0001",
+    "8119745-14.2023.8.05.0001",
+    "8122129-18.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "12ª Vara De Relações De Consumo",
+   "n_merito": 419,
+   "pct_proc": 56,
+   "pct_improc": 44,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 40.0,
+   "casos_com_data": 401,
+   "juizes": [],
+   "ex": [
+    "0564105-86.2015.8.05.0001",
+    "0097756-45.2010.8.05.0001",
+    "0559743-70.2017.8.05.0001",
+    "0111273-20.2010.8.05.0001",
+    "8160089-37.2023.8.05.0001",
+    "8040677-83.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "8ª Vara De Relações De Consumo",
+   "n_merito": 417,
+   "pct_proc": 60,
+   "pct_improc": 40,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 17.8,
+   "casos_com_data": 421,
+   "juizes": [
+    "Joséfison Silva Oliveira",
+    "Daniela Pereira Garrido Pazos"
+   ],
+   "ex": [
+    "8159103-83.2023.8.05.0001",
+    "8110719-60.2021.8.05.0001",
+    "8053584-22.2023.8.05.0001",
+    "8045059-51.2023.8.05.0001",
+    "8114180-69.2023.8.05.0001",
+    "8151556-26.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "10ª Vara De Relações De Consumo",
+   "n_merito": 392,
+   "pct_proc": 36,
+   "pct_improc": 64,
+   "dano_moral_mediana": 6000,
+   "meses_mediana": 19.6,
+   "casos_com_data": 406,
+   "juizes": [],
+   "ex": [
+    "8117001-51.2020.8.05.0001",
+    "8093260-45.2021.8.05.0001",
+    "0555503-04.2018.8.05.0001",
+    "8001273-11.2023.8.05.0080",
+    "8011778-75.2021.8.05.0001",
+    "8171457-77.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "19ª Vara De Relações De Consumo",
+   "n_merito": 363,
+   "pct_proc": 63,
+   "pct_improc": 37,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 20.8,
+   "casos_com_data": 423,
+   "juizes": [],
+   "ex": [
+    "8139608-58.2020.8.05.0001",
+    "8088308-23.2021.8.05.0001",
+    "8006696-63.2021.8.05.0001",
+    "8136751-68.2022.8.05.0001",
+    "8037094-56.2022.8.05.0001",
+    "8132246-68.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "15ª Vara De Relações De Consumo",
+   "n_merito": 354,
+   "pct_proc": 61,
+   "pct_improc": 39,
+   "dano_moral_mediana": 9000,
+   "meses_mediana": 17.2,
+   "casos_com_data": 362,
+   "juizes": [
+    "Martha Cavalcanti Silva De Oliveira",
+    "Carla Carneiro Teixeira Ceará",
+    "Daniela Pereira Garrido Pazos"
+   ],
+   "ex": [
+    "8067608-55.2023.8.05.0001",
+    "8011951-36.2020.8.05.0001",
+    "8056237-94.2023.8.05.0001",
+    "8094273-11.2023.8.05.0001",
+    "8024583-89.2023.8.05.0001",
+    "8007545-64.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "6ª Vara De Relações De Consumo",
+   "n_merito": 317,
+   "pct_proc": 23,
+   "pct_improc": 77,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 16.0,
+   "casos_com_data": 337,
+   "juizes": [],
+   "ex": [
+    "8177197-16.2022.8.05.0001",
+    "8013843-09.2022.8.05.0001",
+    "8126007-14.2022.8.05.0001",
+    "8077153-52.2023.8.05.0001",
+    "8015101-88.2021.8.05.0001",
+    "8123839-73.2021.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "2ª Vara De Relações De Consumo",
+   "n_merito": 312,
+   "pct_proc": 49,
+   "pct_improc": 51,
+   "dano_moral_mediana": 6500,
+   "meses_mediana": 19.3,
+   "casos_com_data": 317,
+   "juizes": [],
+   "ex": [
+    "8012727-31.2023.8.05.0001",
+    "8060845-38.2023.8.05.0001",
+    "8041335-39.2023.8.05.0001",
+    "8053662-50.2022.8.05.0001",
+    "8095944-69.2023.8.05.0001",
+    "8117830-32.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "16ª Vara De Relações De Consumo",
+   "n_merito": 301,
+   "pct_proc": 50,
+   "pct_improc": 50,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 6.8,
+   "casos_com_data": 301,
+   "juizes": [],
+   "ex": [
+    "0506082-45.2018.8.05.0001",
+    "8044337-85.2021.8.05.0001",
+    "8129168-32.2022.8.05.0001",
+    "8007528-28.2023.8.05.0001",
+    "0517187-82.2019.8.05.0001",
+    "8094676-77.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "7ª V Cível E Comercial De Salvador",
+   "n_merito": 44,
+   "pct_proc": 89,
+   "pct_improc": 11,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 36.3,
+   "casos_com_data": 27,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto",
+    "Sirlei Caroline Alves Santos"
+   ],
+   "ex": [
+    "0539564-86.2015.8.05.0001",
+    "8151946-93.2022.8.05.0001",
+    "8040562-91.2023.8.05.0001",
+    "0337484-07.2013.8.05.0001",
+    "0551604-66.2016.8.05.0001",
+    "0543023-96.2015.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "4ª V Cível E Comercial De Salvador",
+   "n_merito": 33,
+   "pct_proc": 91,
+   "pct_improc": 9,
+   "dano_moral_mediana": 7500,
+   "meses_mediana": 23.6,
+   "casos_com_data": 26,
+   "juizes": [
+    "George James Costa Vieira"
+   ],
+   "ex": [
+    "8091300-54.2021.8.05.0001",
+    "8121604-31.2024.8.05.0001",
+    "8218068-83.2025.8.05.0001",
+    "0095460-55.2007.8.05.0001",
+    "0344300-39.2012.8.05.0001",
+    "8100584-52.2022.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "6ª V Cível E Comercial De Salvador",
+   "n_merito": 29,
+   "pct_proc": 86,
+   "pct_improc": 14,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 37.2,
+   "casos_com_data": 23,
+   "juizes": [
+    "Ana Karena Nobre",
+    "Ely Christianne Esperon Lorena",
+    "Martha Cavalcanti Silva De Oliveira"
+   ],
+   "ex": [
+    "0008087-78.2010.8.05.0001",
+    "0565406-34.2016.8.05.0001",
+    "8107478-44.2022.8.05.0001",
+    "0521498-29.2013.8.05.0001",
+    "0504471-62.2015.8.05.0001",
+    "8132062-49.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "3ª V Cível E Comercial De Salvador",
+   "n_merito": 23,
+   "pct_proc": 87,
+   "pct_improc": 13,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 12.9,
+   "casos_com_data": 17,
+   "juizes": [],
+   "ex": [
+    "0515166-46.2013.8.05.0001",
+    "8089987-19.2025.8.05.0001",
+    "0134240-64.2007.8.05.0001",
+    "8139508-64.2024.8.05.0001",
+    "8048739-10.2024.8.05.0001",
+    "8099648-22.2025.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "9ª V Cível E Comercial De Salvador",
+   "n_merito": 22,
+   "pct_proc": 82,
+   "pct_improc": 18,
+   "dano_moral_mediana": 7500,
+   "meses_mediana": 23.1,
+   "casos_com_data": 16,
+   "juizes": [
+    "Ana Karena Nobre"
+   ],
+   "ex": [
+    "0074013-06.2010.8.05.0001",
+    "0518545-87.2016.8.05.0001",
+    "0560693-50.2015.8.05.0001",
+    "0517973-05.2014.8.05.0001",
+    "0023614-27.1997.8.05.0001",
+    "8128481-26.2020.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "10ª V Cível E Comercial De Salvador",
+   "n_merito": 22,
+   "pct_proc": 86,
+   "pct_improc": 14,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 36.5,
+   "casos_com_data": 29,
+   "juizes": [
+    "Sirlei Caroline Alves Santos"
+   ],
+   "ex": [
+    "0015227-32.2010.8.05.0271",
+    "0330793-35.2017.8.05.0001",
+    "0573743-41.2018.8.05.0001",
+    "8182540-90.2022.8.05.0001",
+    "8015698-91.2020.8.05.0001",
+    "8043872-37.2025.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Salvador",
+   "vara": "5ª V Cível E Comercial De Salvador",
+   "n_merito": 17,
+   "pct_proc": 76,
+   "pct_improc": 24,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 13.2,
+   "casos_com_data": 16,
+   "juizes": [],
+   "ex": [
+    "0083768-20.2011.8.05.0001",
+    "8160315-08.2024.8.05.0001",
+    "0552696-16.2015.8.05.0001",
+    "8074833-58.2025.8.05.0001",
+    "8110912-07.2023.8.05.0001",
+    "8062757-65.2026.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Santo Antonio De Jesus",
+   "vara": "1ª V Dos Feitos Relativos Às Relações De Consumo, Cíveis, Comerciais De Santo Antonio De Jesus",
+   "n_merito": 561,
+   "pct_proc": 76,
+   "pct_improc": 24,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 17.6,
+   "casos_com_data": 568,
+   "juizes": [
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8001010-80.2024.8.05.0229",
+    "8003118-53.2022.8.05.0229",
+    "8002996-06.2023.8.05.0229",
+    "8009334-59.2024.8.05.0229",
+    "8153909-05.2023.8.05.0001",
+    "8001455-98.2024.8.05.0229"
+   ]
+  },
+  {
+   "comarca": "Santo Antônio De Jesus",
+   "vara": "2ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 1180,
+   "pct_proc": 2,
+   "pct_improc": 98,
+   "dano_moral_mediana": 20000,
+   "meses_mediana": 64.4,
+   "casos_com_data": 1478,
+   "juizes": [],
+   "ex": [
+    "0501022-86.2018.8.05.0229",
+    "8003297-21.2021.8.05.0229",
+    "0751327-27.2017.8.05.0229",
+    "0501547-10.2014.8.05.0229",
+    "8003492-74.2019.8.05.0229",
+    "0501812-12.2014.8.05.0229"
+   ]
+  },
+  {
+   "comarca": "Santo Antônio De Jesus",
+   "vara": "1ª Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais",
+   "n_merito": 318,
+   "pct_proc": 76,
+   "pct_improc": 24,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 23.4,
+   "casos_com_data": 312,
+   "juizes": [],
+   "ex": [
+    "8003649-76.2021.8.05.0229",
+    "0500673-20.2017.8.05.0229",
+    "8004560-25.2020.8.05.0229",
+    "8003329-89.2022.8.05.0229",
+    "8001754-12.2023.8.05.0229",
+    "8000352-95.2020.8.05.0229"
+   ]
+  },
+  {
+   "comarca": "Simões Filho",
+   "vara": "1ª V Dos Feitos Rel De Consumo, Cíveis, Comerciais E Reg Publicos De Simões Filho",
+   "n_merito": 192,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 37.5,
+   "casos_com_data": 185,
+   "juizes": [
+    "João Celso Peixoto Targino Filho",
+    "Catiusca Barros Vieira Bernardino",
+    "José Ayres De Souza Nascimento Júnior"
+   ],
+   "ex": [
+    "8003973-37.2020.8.05.0250",
+    "0500214-23.2015.8.05.0250",
+    "8006081-68.2022.8.05.0250",
+    "8002740-97.2023.8.05.0250",
+    "8014380-68.2021.8.05.0250",
+    "8012746-37.2021.8.05.0250"
+   ]
+  },
+  {
+   "comarca": "Simões Filho",
+   "vara": "2ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Acidentes Do Trabalho",
+   "n_merito": 56,
+   "pct_proc": 57,
+   "pct_improc": 43,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 31.2,
+   "casos_com_data": 51,
+   "juizes": [],
+   "ex": [
+    "8014084-46.2021.8.05.0250",
+    "8014751-32.2021.8.05.0250",
+    "8014085-31.2021.8.05.0250",
+    "8000141-59.2021.8.05.0250",
+    "0500609-10.2018.8.05.0250",
+    "8002566-88.2023.8.05.0250"
+   ]
+  },
+  {
+   "comarca": "Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "vara": "1ª V Do Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "n_merito": 2141,
+   "pct_proc": 41,
+   "pct_improc": 59,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 10.0,
+   "casos_com_data": 3890,
+   "juizes": [
+    "Marcelo De Oliveira Brandão",
+    "Martha Cavalcanti Silva De Oliveira",
+    "Presidente Maria Do Rosário Passos Da Silva Calixto"
+   ],
+   "ex": [
+    "8119343-93.2024.8.05.0001",
+    "8065386-80.2024.8.05.0001",
+    "8141772-54.2024.8.05.0001",
+    "8043695-73.2025.8.05.0001",
+    "8015621-09.2025.8.05.0001",
+    "8024851-75.2025.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "vara": "2ª V Do Sistema Dos Juizados Especiais Da Fazenda Pública",
+   "n_merito": 1330,
+   "pct_proc": 81,
+   "pct_improc": 19,
+   "dano_moral_mediana": 5500,
+   "meses_mediana": 11.3,
+   "casos_com_data": 1292,
+   "juizes": [
+    "Maria Helena Coppens Motta"
+   ],
+   "ex": [
+    "8024131-16.2022.8.05.0001",
+    "8105595-91.2024.8.05.0001",
+    "8101876-04.2024.8.05.0001",
+    "8005639-68.2025.8.05.0001",
+    "8084779-88.2024.8.05.0001",
+    "8086871-73.2023.8.05.0001"
+   ]
+  },
+  {
+   "comarca": "Trab De Simões Filho",
+   "vara": "2ª V Dos Feitos Relat. Às Rel De Cons, Civeis, Com. E Acidentes De Trab De Simões Filho",
+   "n_merito": 22,
+   "pct_proc": 36,
+   "pct_improc": 64,
+   "dano_moral_mediana": 4000,
+   "meses_mediana": 24.9,
+   "casos_com_data": 23,
+   "juizes": [
+    "José Ayres De Souza Nascimento Júnior"
+   ],
+   "ex": [
+    "8001984-88.2023.8.05.0250",
+    "8001843-98.2025.8.05.0250",
+    "8003673-07.2022.8.05.0250",
+    "8003201-35.2024.8.05.0250",
+    "8003200-50.2024.8.05.0250",
+    "8003251-61.2024.8.05.0250"
+   ]
+  },
+  {
+   "comarca": "Trab E Faz Pub De Paulo Afonso",
+   "vara": "2ª V Dos Feitos Rel A Relação De Consumo, Cível, Comercial, Acidentes De Trab E Faz Pub De Paulo Afonso",
+   "n_merito": 684,
+   "pct_proc": 28,
+   "pct_improc": 72,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 11.3,
+   "casos_com_data": 818,
+   "juizes": [
+    "João Celso Peixoto Targino",
+    "João Celso P. Targino Filho",
+    "João Celso Peixoto Targino Filho"
+   ],
+   "ex": [
+    "8004871-96.2021.8.05.0191",
+    "8004044-61.2016.8.05.0191",
+    "8006386-64.2024.8.05.0191",
+    "8002631-08.2019.8.05.0191",
+    "8001364-69.2017.8.05.0191",
+    "8007491-76.2024.8.05.0191"
+   ]
+  },
+  {
+   "comarca": "Trab. De Vitoria Da Conquista",
+   "vara": "1ª V Dos Feitos De Rel. De Cons. Cíveis, Comerciais E Acid. De Trab. De Vitoria Da Conquista",
+   "n_merito": 38,
+   "pct_proc": 84,
+   "pct_improc": 16,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 23.4,
+   "casos_com_data": 42,
+   "juizes": [],
+   "ex": [
+    "8003098-19.2025.8.05.0274",
+    "8013933-03.2024.8.05.0274",
+    "8012173-87.2022.8.05.0274",
+    "8004165-19.2025.8.05.0274",
+    "8022205-83.2024.8.05.0274",
+    "8012134-22.2024.8.05.0274"
+   ]
+  },
+  {
+   "comarca": "Trab. De Vitoria Da Conquista",
+   "vara": "2ª V Dos Feitos De Rel. De Cons. Cíveis, Comerciais E Acid. De Trab. De Vitoria Da Conquista",
+   "n_merito": 33,
+   "pct_proc": 88,
+   "pct_improc": 12,
+   "dano_moral_mediana": 6500,
+   "meses_mediana": 13.5,
+   "casos_com_data": 40,
+   "juizes": [],
+   "ex": [
+    "0501469-07.2016.8.05.0274",
+    "8007074-34.2025.8.05.0274",
+    "8018768-34.2024.8.05.0274",
+    "8008052-79.2023.8.05.0274",
+    "8011777-47.2021.8.05.0274",
+    "8008620-27.2025.8.05.0274"
+   ]
+  },
+  {
+   "comarca": "Trabalho De Camaçari",
+   "vara": "2ª V Dos Feitos De Rel. De Consumo, Cíveis E Acidente De Trabalho De Camaçari",
+   "n_merito": 259,
+   "pct_proc": 44,
+   "pct_improc": 56,
+   "dano_moral_mediana": 11500,
+   "meses_mediana": 26.1,
+   "casos_com_data": 265,
+   "juizes": [],
+   "ex": [
+    "8009997-93.2024.8.05.0039",
+    "8001933-94.2024.8.05.0039",
+    "8004565-59.2025.8.05.0039",
+    "0502125-24.2015.8.05.0039",
+    "8003768-23.2024.8.05.0038",
+    "8006460-26.2023.8.05.0039"
+   ]
+  },
+  {
+   "comarca": "Trabalho De Camaçari",
+   "vara": "3ª V Dos Feitos De Rel. De Consumo, Cíveis, Comerciais E Acidente De Trabalho De Camaçari",
+   "n_merito": 39,
+   "pct_proc": 26,
+   "pct_improc": 74,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 22.8,
+   "casos_com_data": 38,
+   "juizes": [
+    "Marina Rodamilans De Paiva Lopes Da Silva",
+    "Via Portal. Marina Rodamilans De Paiva Lopes Da Silva",
+    "Via Portal. José Ayres De Souza Nascimento Júnior"
+   ],
+   "ex": [
+    "8001891-45.2024.8.05.0039",
+    "8000481-49.2024.8.05.0039",
+    "8000872-38.2023.8.05.0039",
+    "8011183-54.2024.8.05.0039",
+    "8000740-10.2025.8.05.0039",
+    "8001715-66.2024.8.05.0039"
+   ]
+  },
+  {
+   "comarca": "Trabalho De Catu",
+   "vara": "1ª V Dos Feitos Rel De Consumo, Cíveis, Comerciais E Acidente De Trabalho De Catu",
+   "n_merito": 26,
+   "pct_proc": 35,
+   "pct_improc": 65,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 27.5,
+   "casos_com_data": 13,
+   "juizes": [
+    "Paulo Ramalho Pessoa De Andrade Campos Neto",
+    "Camila Sousa Pinto De Abreu"
+   ],
+   "ex": [
+    "8001239-85.2021.8.05.0054",
+    "8001571-18.2022.8.05.0054",
+    "8001294-65.2023.8.05.0054",
+    "8000163-55.2023.8.05.0054",
+    "0500365-87.2018.8.05.0054",
+    "8000647-70.2023.8.05.0054"
+   ]
+  },
+  {
+   "comarca": "Trabalho E Fazenda Pública Da Comarca De Capim Grosso",
+   "vara": "Vara Dos Feitos Relativos Às Relações De Consumo, Cíveis E Comerciais, Registros Públicos, Acidentes De Trabalho E Fazenda Pública Da Comarca De Capim Grosso",
+   "n_merito": 1470,
+   "pct_proc": 71,
+   "pct_improc": 29,
+   "dano_moral_mediana": 5000,
+   "meses_mediana": 5.4,
+   "casos_com_data": 1419,
+   "juizes": [],
+   "ex": [
+    "8004916-02.2025.8.05.0049",
+    "8001219-70.2025.8.05.0049",
+    "8004114-04.2025.8.05.0049",
+    "8004792-19.2025.8.05.0049",
+    "8004085-51.2025.8.05.0049",
+    "8004901-33.2025.8.05.0049"
+   ]
+  },
+  {
+   "comarca": "Ubaitaba",
+   "vara": "Vara Cível, Juizados Especiais, Interdito, Família, Relações De Consumo, Sucessões E Fazenda Pública",
+   "n_merito": 55,
+   "pct_proc": 71,
+   "pct_improc": 29,
+   "dano_moral_mediana": 3000,
+   "meses_mediana": 17.6,
+   "casos_com_data": 54,
+   "juizes": [
+    "George Barboza Cordeiro"
+   ],
+   "ex": [
+    "8001107-43.2022.8.05.0264",
+    "8001015-31.2023.8.05.0264",
+    "8001381-70.2023.8.05.0264",
+    "8000218-55.2023.8.05.0264",
+    "8000176-40.2022.8.05.0264",
+    "8001282-71.2021.8.05.0264"
+   ]
+  },
+  {
+   "comarca": "Valença",
+   "vara": "1ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Reg. Público",
+   "n_merito": 25,
+   "pct_proc": 72,
+   "pct_improc": 28,
+   "dano_moral_mediana": 10000,
+   "meses_mediana": 31.0,
+   "casos_com_data": 28,
+   "juizes": [],
+   "ex": [
+    "8002216-08.2021.8.05.0271",
+    "8001639-59.2023.8.05.0271",
+    "8001629-20.2020.8.05.0271",
+    "8000527-21.2024.8.05.0271",
+    "8000235-12.2019.8.05.0271",
+    "8000746-34.2024.8.05.0271"
+   ]
+  },
+  {
+   "comarca": "Vitória Da Conquista",
+   "vara": "4ª Vara Dos Feitos De Relações De Consumo, Cíveis, Comerciais E Reg. Público",
+   "n_merito": 239,
+   "pct_proc": 44,
+   "pct_improc": 56,
+   "dano_moral_mediana": 8000,
+   "meses_mediana": 20.4,
+   "casos_com_data": 380,
+   "juizes": [],
+   "ex": [
+    "0508743-51.2018.8.05.0274",
+    "8001053-47.2022.8.05.0274",
+    "8002279-53.2023.8.05.0274",
+    "8014412-64.2022.8.05.0274",
+    "8014417-52.2023.8.05.0274",
+    "8002961-08.2023.8.05.0274"
+   ]
+  }
+ ],
+ "turmas_2grau": [
+  {
+   "turma": "Primeira Turma Recursal",
+   "relator": "Claudia Valeria Panetta",
+   "n": 4797,
+   "pct_fav": 56,
+   "acordao": 1703,
+   "monocratica": 3061,
+   "pct_monocratica": 64,
+   "meses_mediana": 5.1,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0011601-94.2025.8.05.0039",
+    "0165461-35.2025.8.05.0001",
+    "0012828-39.2025.8.05.0001",
+    "0013252-36.2025.8.05.0113",
+    "0203582-06.2023.8.05.0001",
+    "0079498-59.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Primeira Turma Recursal",
+   "relator": "Nicia Olga Andrade De Souza Dantas",
+   "n": 4254,
+   "pct_fav": 10,
+   "acordao": 1308,
+   "monocratica": 2567,
+   "pct_monocratica": 60,
+   "meses_mediana": 5.3,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0168371-35.2025.8.05.0001",
+    "0000510-24.2025.8.05.0001",
+    "0003914-91.2025.8.05.0063",
+    "0203269-11.2024.8.05.0001",
+    "0055895-88.2024.8.05.0001",
+    "0139916-60.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Primeira Turma Recursal",
+   "relator": "Sandra Sousa Do Nascimento Moreno",
+   "n": 3911,
+   "pct_fav": 48,
+   "acordao": 1432,
+   "monocratica": 2429,
+   "pct_monocratica": 62,
+   "meses_mediana": 7.7,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0020799-75.2025.8.05.0001",
+    "0010283-34.2025.8.05.0150",
+    "0002210-98.2024.8.05.0153",
+    "0154832-02.2025.8.05.0001",
+    "0013216-93.2025.8.05.0080",
+    "0059515-74.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Martha Cavalcanti Silva De Oliveira",
+   "n": 4334,
+   "pct_fav": 74,
+   "acordao": 1677,
+   "monocratica": 2641,
+   "pct_monocratica": 61,
+   "meses_mediana": 5.1,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0166487-68.2025.8.05.0001",
+    "0142114-70.2025.8.05.0001",
+    "0029312-32.2025.8.05.0001",
+    "0164051-39.2025.8.05.0001",
+    "0004260-45.2025.8.05.0256",
+    "0082672-76.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Mary Angelica Santos Coelho",
+   "n": 4094,
+   "pct_fav": 66,
+   "acordao": 1280,
+   "monocratica": 2813,
+   "pct_monocratica": 69,
+   "meses_mediana": 5.1,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0019040-33.2025.8.05.0080",
+    "0003002-90.2025.8.05.0032",
+    "0169301-53.2025.8.05.0001",
+    "0011498-87.2025.8.05.0039",
+    "0171375-80.2025.8.05.0001",
+    "0142505-25.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Maria Virginia Andrade De Freitas Cruz",
+   "n": 3754,
+   "pct_fav": 69,
+   "acordao": 748,
+   "monocratica": 2997,
+   "pct_monocratica": 80,
+   "meses_mediana": 5.0,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0013311-69.2025.8.05.0001",
+    "0022971-44.2025.8.05.0080",
+    "0065387-70.2025.8.05.0001",
+    "0176178-09.2025.8.05.0001",
+    "0002488-27.2025.8.05.0004",
+    "0160253-70.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Rosalvo Augusto Vieira Da Silva",
+   "n": 393,
+   "pct_fav": 80,
+   "acordao": 130,
+   "monocratica": 263,
+   "pct_monocratica": 67,
+   "meses_mediana": 6.8,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0206813-07.2024.8.05.0001",
+    "0005138-81.2024.8.05.0004",
+    "0005164-68.2024.8.05.0137",
+    "0004582-92.2024.8.05.0032",
+    "0007468-68.2024.8.05.0063",
+    "0231620-91.2024.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Eliene Simone Silva Oliveira",
+   "n": 137,
+   "pct_fav": 80,
+   "acordao": 29,
+   "monocratica": 108,
+   "pct_monocratica": 79,
+   "meses_mediana": 9.2,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0007270-31.2024.8.05.0063",
+    "0214268-23.2024.8.05.0001",
+    "0159946-53.2024.8.05.0001",
+    "0184170-55.2024.8.05.0001",
+    "0218078-06.2024.8.05.0001",
+    "0004843-13.2024.8.05.0079"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Mariah Meirelles De Fonseca",
+   "n": 103,
+   "pct_fav": 57,
+   "acordao": 27,
+   "monocratica": 73,
+   "pct_monocratica": 71,
+   "meses_mediana": 5.2,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0159097-47.2025.8.05.0001",
+    "0112950-60.2025.8.05.0001",
+    "0219744-42.2024.8.05.0001",
+    "0125969-70.2024.8.05.0001",
+    "0139525-42.2024.8.05.0001",
+    "0152379-34.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quarta Turma Recursal",
+   "relator": "Ana Lucia Ferreira Matos",
+   "n": 52,
+   "pct_fav": 71,
+   "acordao": 11,
+   "monocratica": 39,
+   "pct_monocratica": 75,
+   "meses_mediana": 3.1,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0053222-88.2025.8.05.0001",
+    "0050100-04.2024.8.05.0001",
+    "0132561-33.2024.8.05.0001",
+    "0076150-33.2025.8.05.0001",
+    "0142951-62.2024.8.05.0001",
+    "0050950-24.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Eliene Simone Silva Oliveira",
+   "n": 3032,
+   "pct_fav": 70,
+   "acordao": 2103,
+   "monocratica": 861,
+   "pct_monocratica": 28,
+   "meses_mediana": 5.2,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0008182-40.2025.8.05.0080",
+    "0178832-66.2025.8.05.0001",
+    "0168006-78.2025.8.05.0001",
+    "0025174-76.2025.8.05.0080",
+    "0010508-96.2025.8.05.0039",
+    "0111037-43.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Mariah Meirelles De Fonseca",
+   "n": 2221,
+   "pct_fav": 59,
+   "acordao": 140,
+   "monocratica": 2071,
+   "pct_monocratica": 93,
+   "meses_mediana": 4.8,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0152007-85.2025.8.05.0001",
+    "0153658-55.2025.8.05.0001",
+    "0002733-18.2025.8.05.0043",
+    "0154818-18.2025.8.05.0001",
+    "0011448-19.2025.8.05.0150",
+    "0179658-92.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Rosalvo Augusto Vieira Da Silva",
+   "n": 1444,
+   "pct_fav": 60,
+   "acordao": 580,
+   "monocratica": 860,
+   "pct_monocratica": 60,
+   "meses_mediana": 7.7,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0002135-04.2025.8.05.0063",
+    "0001026-91.2025.8.05.0244",
+    "0001060-30.2025.8.05.0256",
+    "0004640-51.2024.8.05.0079",
+    "0039706-98.2025.8.05.0001",
+    "0000928-23.2025.8.05.0110"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Ana Lucia Ferreira Matos",
+   "n": 1327,
+   "pct_fav": 66,
+   "acordao": 663,
+   "monocratica": 648,
+   "pct_monocratica": 49,
+   "meses_mediana": 4.6,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0005383-75.2025.8.05.0063",
+    "0013560-05.2025.8.05.0103",
+    "0093669-21.2025.8.05.0001",
+    "0165318-46.2025.8.05.0001",
+    "0191856-98.2024.8.05.0001",
+    "0167206-50.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Marcon Roubert Da Silva",
+   "n": 235,
+   "pct_fav": 68,
+   "acordao": 186,
+   "monocratica": 48,
+   "pct_monocratica": 20,
+   "meses_mediana": 3.6,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0206878-02.2024.8.05.0001",
+    "0135799-26.2025.8.05.0001",
+    "0004336-66.2025.8.05.0063",
+    "0015753-62.2025.8.05.0080",
+    "0125686-13.2025.8.05.0001",
+    "0145606-70.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Quinta Turma Recursal",
+   "relator": "Ana Conceicao Barbuda Sanches Guimaraes Ferreira",
+   "n": 92,
+   "pct_fav": 62,
+   "acordao": 46,
+   "monocratica": 46,
+   "pct_monocratica": 50,
+   "meses_mediana": 3.6,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0001051-07.2025.8.05.0244",
+    "0003514-36.2024.8.05.0088",
+    "0054136-89.2024.8.05.0001",
+    "0000028-05.2025.8.05.0057",
+    "0000740-92.2025.8.05.0057",
+    "0197842-04.2022.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Segunda Turma Recursal",
+   "relator": "Maria Auxiliadora Sobral Leite",
+   "n": 3902,
+   "pct_fav": 66,
+   "acordao": 1088,
+   "monocratica": 2654,
+   "pct_monocratica": 68,
+   "meses_mediana": 5.1,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0147014-96.2025.8.05.0001",
+    "0163076-17.2025.8.05.0001",
+    "0173093-15.2025.8.05.0001",
+    "0003948-49.2025.8.05.0004",
+    "0177405-34.2025.8.05.0001",
+    "0044623-63.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Segunda Turma Recursal",
+   "relator": "Isabela Kruschewsky Pedreira Da Silva",
+   "n": 3110,
+   "pct_fav": 62,
+   "acordao": 697,
+   "monocratica": 2208,
+   "pct_monocratica": 71,
+   "meses_mediana": 5.3,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0156867-32.2025.8.05.0001",
+    "0169053-87.2025.8.05.0001",
+    "0145234-24.2025.8.05.0001",
+    "0160749-02.2025.8.05.0001",
+    "0142086-05.2025.8.05.0001",
+    "0001924-25.2025.8.05.0141"
+   ]
+  },
+  {
+   "turma": "Segunda Turma Recursal",
+   "relator": "Maria Lucia Coelho Matos",
+   "n": 2509,
+   "pct_fav": 63,
+   "acordao": 473,
+   "monocratica": 1868,
+   "pct_monocratica": 74,
+   "meses_mediana": 5.4,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0004854-83.2025.8.05.0248",
+    "0157540-25.2025.8.05.0001",
+    "0128948-68.2025.8.05.0001",
+    "0095620-50.2025.8.05.0001",
+    "0134069-77.2025.8.05.0001",
+    "0037612-80.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Segunda Turma Recursal",
+   "relator": "Rosalvo Augusto Vieira Da Silva",
+   "n": 24,
+   "pct_fav": 100,
+   "acordao": 20,
+   "monocratica": 4,
+   "pct_monocratica": 17,
+   "meses_mediana": 26.8,
+   "dano_moral_mediana": null,
+   "ex": [
+    "0143739-76.2024.8.05.0001",
+    "0126751-77.2024.8.05.0001",
+    "0145936-04.2024.8.05.0001",
+    "0124976-90.2025.8.05.0001",
+    "0166160-94.2023.8.05.0001",
+    "0051034-59.2024.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Sexta Turma Recursal",
+   "relator": "Luciana Carinhanha Setubal",
+   "n": 70,
+   "pct_fav": null,
+   "acordao": 0,
+   "monocratica": 0,
+   "pct_monocratica": 0,
+   "meses_mediana": 11.0,
+   "dano_moral_mediana": null,
+   "ex": [
+    "8000629-91.2025.8.05.0276",
+    "8002213-04.2025.8.05.0242",
+    "8000903-48.2025.8.05.0052",
+    "8001175-49.2025.8.05.0276",
+    "8000311-54.2023.8.05.0058",
+    "8000639-53.2023.8.05.0035"
+   ]
+  },
+  {
+   "turma": "Sexta Turma Recursal",
+   "relator": "Leonides Bispo Dos Santos Silva",
+   "n": 46,
+   "pct_fav": null,
+   "acordao": 0,
+   "monocratica": 0,
+   "pct_monocratica": 0,
+   "meses_mediana": 20.1,
+   "dano_moral_mediana": null,
+   "ex": [
+    "8000819-23.2021.8.05.0170",
+    "8000830-91.2023.8.05.0199",
+    "8000967-77.2023.8.05.0036",
+    "8001202-47.2023.8.05.0035",
+    "8000141-91.2024.8.05.0076",
+    "8000303-77.2024.8.05.0176"
+   ]
+  },
+  {
+   "turma": "Sexta Turma Recursal",
+   "relator": "Marcon Roubert Da Silva",
+   "n": 31,
+   "pct_fav": null,
+   "acordao": 0,
+   "monocratica": 0,
+   "pct_monocratica": 0,
+   "meses_mediana": 21.7,
+   "dano_moral_mediana": null,
+   "ex": [
+    "8000171-84.2023.8.05.0166",
+    "8002464-19.2025.8.05.0049",
+    "8006025-10.2024.8.05.0074",
+    "8002338-36.2024.8.05.0038",
+    "8000870-68.2020.8.05.0170",
+    "8003564-76.2024.8.05.0038"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Benicio Mascarenhas Neto",
+   "n": 3674,
+   "pct_fav": 63,
+   "acordao": 2266,
+   "monocratica": 1399,
+   "pct_monocratica": 38,
+   "meses_mediana": 5.2,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0140914-28.2025.8.05.0001",
+    "0107026-68.2025.8.05.0001",
+    "0144676-52.2025.8.05.0001",
+    "0144119-46.2017.8.05.0001",
+    "0073182-30.2025.8.05.0001",
+    "0021723-43.2025.8.05.0080"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Ivana Carvalho Silva Fernandes",
+   "n": 3344,
+   "pct_fav": 64,
+   "acordao": 1338,
+   "monocratica": 1998,
+   "pct_monocratica": 60,
+   "meses_mediana": 5.6,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0040961-91.2025.8.05.0001",
+    "0105282-38.2025.8.05.0001",
+    "0021163-04.2025.8.05.0080",
+    "0120260-20.2025.8.05.0001",
+    "0140633-72.2025.8.05.0001",
+    "0107657-12.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Ana Lucia Ferreira Matos",
+   "n": 1444,
+   "pct_fav": 62,
+   "acordao": 791,
+   "monocratica": 640,
+   "pct_monocratica": 44,
+   "meses_mediana": 8.9,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0002291-89.2025.8.05.0063",
+    "0074256-22.2025.8.05.0001",
+    "0000898-54.2025.8.05.0088",
+    "0001375-61.2024.8.05.0137",
+    "0000358-11.2025.8.05.0248",
+    "0007228-26.2024.8.05.0113"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Rosalvo Augusto Vieira Da Silva",
+   "n": 1306,
+   "pct_fav": 60,
+   "acordao": 551,
+   "monocratica": 749,
+   "pct_monocratica": 57,
+   "meses_mediana": 5.0,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0185942-19.2025.8.05.0001",
+    "0169978-83.2025.8.05.0001",
+    "0011338-20.2025.8.05.0150",
+    "0148049-91.2025.8.05.0001",
+    "0010677-41.2025.8.05.0150",
+    "0134603-21.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Maria Virginia Andrade De Freitas Cruz",
+   "n": 360,
+   "pct_fav": 59,
+   "acordao": 166,
+   "monocratica": 194,
+   "pct_monocratica": 54,
+   "meses_mediana": 3.5,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0001333-27.2025.8.05.0250",
+    "0150525-05.2025.8.05.0001",
+    "0127208-75.2025.8.05.0001",
+    "0115560-98.2025.8.05.0001",
+    "0017052-74.2025.8.05.0080",
+    "0129793-03.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Martha Cavalcanti Silva De Oliveira",
+   "n": 115,
+   "pct_fav": 72,
+   "acordao": 54,
+   "monocratica": 61,
+   "pct_monocratica": 53,
+   "meses_mediana": 2.6,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0041718-76.2024.8.05.0080",
+    "0062908-07.2025.8.05.0001",
+    "0000914-83.2025.8.05.0063",
+    "0030165-41.2025.8.05.0001",
+    "0022458-22.2025.8.05.0001",
+    "0000958-43.2016.8.05.0120"
+   ]
+  },
+  {
+   "turma": "Terceira Turma Recursal",
+   "relator": "Carla Rodrigues De Araujo",
+   "n": 111,
+   "pct_fav": 74,
+   "acordao": 58,
+   "monocratica": 53,
+   "pct_monocratica": 48,
+   "meses_mediana": 14.0,
+   "dano_moral_mediana": 4000,
+   "ex": [
+    "0006412-05.2021.8.05.0063",
+    "0002653-70.2022.8.05.0201",
+    "0001603-13.2021.8.05.0211",
+    "0069468-33.2023.8.05.0001",
+    "0103797-71.2023.8.05.0001",
+    "0192964-36.2022.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Turma Recursal De Admissibilidade",
+   "relator": "Rosalvo Augusto Vieira Da Silva",
+   "n": 33,
+   "pct_fav": 50,
+   "acordao": 8,
+   "monocratica": 23,
+   "pct_monocratica": 70,
+   "meses_mediana": 10.3,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0004339-39.2024.8.05.0230",
+    "0018524-90.2024.8.05.0001",
+    "0005674-04.2024.8.05.0001",
+    "0107425-68.2023.8.05.0001",
+    "0071159-14.2025.8.05.0001",
+    "0036185-39.2024.8.05.0080"
+   ]
+  },
+  {
+   "turma": "Turma Recursal De Admissibilidade",
+   "relator": "Claudia Valeria Panetta",
+   "n": 31,
+   "pct_fav": 67,
+   "acordao": 15,
+   "monocratica": 15,
+   "pct_monocratica": 48,
+   "meses_mediana": 9.7,
+   "dano_moral_mediana": 5000,
+   "ex": [
+    "0123721-34.2024.8.05.0001",
+    "0076194-52.2025.8.05.0001",
+    "0002129-83.2023.8.05.0057",
+    "0099129-28.2021.8.05.0001",
+    "0000780-48.2025.8.05.0001",
+    "0021891-88.2025.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Turma Recursal De Admissibilidade",
+   "relator": "Nicia Olga Andrade De Souza Dantas",
+   "n": 21,
+   "pct_fav": 0,
+   "acordao": 9,
+   "monocratica": 12,
+   "pct_monocratica": 57,
+   "meses_mediana": 5.5,
+   "dano_moral_mediana": null,
+   "ex": [
+    "0096365-30.2025.8.05.0001",
+    "0046293-39.2025.8.05.0001",
+    "0000918-97.2025.8.05.0103",
+    "0086112-80.2025.8.05.0001",
+    "0044519-71.2025.8.05.0001",
+    "0210153-56.2024.8.05.0001"
+   ]
+  },
+  {
+   "turma": "Turma Recursal De Admissibilidade",
+   "relator": "Sandra Sousa Do Nascimento Moreno",
+   "n": 21,
+   "pct_fav": 67,
+   "acordao": 11,
+   "monocratica": 10,
+   "pct_monocratica": 48,
+   "meses_mediana": 12.6,
+   "dano_moral_mediana": null,
+   "ex": [
+    "0049490-02.2025.8.05.0001",
+    "0000353-15.2025.8.05.0110",
+    "0003108-82.2023.8.05.0271",
+    "0004842-94.2023.8.05.0230",
+    "0013217-92.2023.8.05.0001",
+    "0236267-66.2023.8.05.0001"
+   ]
+  }
+ ]
+}

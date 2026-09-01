@@ -1,0 +1,67 @@
+{
+ "fonte": "Datajud/CNJ",
+ "foro": "JUIZADO",
+ "total_processos": 25000,
+ "merito": 9629,
+ "obs": "procedência entre decisões de mérito (219/221 vs 220); acordo excluído (ambíguo); sem íntegra/dano moral",
+ "por_setor": [
+  {
+   "setor": "CONSUMO",
+   "n": 4719,
+   "pct_proc": 84,
+   "n_acordo": 3234
+  },
+  {
+   "setor": "FINANCEIRO",
+   "n": 3814,
+   "pct_proc": 81,
+   "n_acordo": 2148
+  },
+  {
+   "setor": "TELECOM",
+   "n": 421,
+   "pct_proc": 92,
+   "n_acordo": 109
+  },
+  {
+   "setor": "EMBASA",
+   "n": 413,
+   "pct_proc": 72,
+   "n_acordo": 692
+  },
+  {
+   "setor": "COELBA",
+   "n": 213,
+   "pct_proc": 84,
+   "n_acordo": 21
+  },
+  {
+   "setor": "AEREO",
+   "n": 49,
+   "pct_proc": 98,
+   "n_acordo": 39
+  }
+ ],
+ "comarcas": [
+  {
+   "comarca": "Santana",
+   "n": 452,
+   "pct": 92
+  },
+  {
+   "comarca": "Freitas",
+   "n": 378,
+   "pct": 88
+  },
+  {
+   "comarca": "Jesus",
+   "n": 97,
+   "pct": 84
+  },
+  {
+   "comarca": "Teixeira De Freitas",
+   "n": 75,
+   "pct": 91
+  }
+ ]
+}

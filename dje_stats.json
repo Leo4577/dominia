@@ -1,0 +1,1921 @@
+{
+ "total": 67647,
+ "cidades": 137,
+ "n_juizes": 108,
+ "foros": {
+  "VARA_CONSUMO": 59743,
+  "JUIZADO_ESPECIAL": 7147,
+  "OUTRO_1G": 410,
+  "VARA_CIVEL": 347
+ },
+ "juizes": [
+  {
+   "juiz": "Fábio Mello Veiga",
+   "n": 718
+  },
+  {
+   "juiz": "João Celso Peixoto Targino",
+   "n": 185
+  },
+  {
+   "juiz": "Antonio Lopes Filho",
+   "n": 151
+  },
+  {
+   "juiz": "Patrícia Didier De Morais Pereira",
+   "n": 131
+  },
+  {
+   "juiz": "João Celso P. Targino Filho",
+   "n": 128
+  },
+  {
+   "juiz": "Suélvia Dos Santos Reis Nemi",
+   "n": 92
+  },
+  {
+   "juiz": "Marina Rodamilans De Paiva Lopes Da Silva",
+   "n": 64
+  },
+  {
+   "juiz": "Martha Cavalcanti Silva De Oliveira",
+   "n": 62
+  },
+  {
+   "juiz": "Dione Cerqueira Silva",
+   "n": 46
+  },
+  {
+   "juiz": "Paulo Ramalho Pessoa De Andrade Campos Neto",
+   "n": 45
+  },
+  {
+   "juiz": "Presidente Maria Do Rosário Passos Da Silva Calixto",
+   "n": 45
+  },
+  {
+   "juiz": "Rita De Cássia Ramos De Carvalho",
+   "n": 40
+  },
+  {
+   "juiz": "Teomar Almeida De Oliveira",
+   "n": 31
+  },
+  {
+   "juiz": "João Celso Peixoto Targino Filho",
+   "n": 30
+  },
+  {
+   "juiz": "Joséfison Silva Oliveira",
+   "n": 27
+  },
+  {
+   "juiz": "Adriana Silveira Bastos",
+   "n": 25
+  },
+  {
+   "juiz": "Marley Cunha Medeiros",
+   "n": 21
+  },
+  {
+   "juiz": "Adalberto Lima Borges Filho",
+   "n": 21
+  },
+  {
+   "juiz": "Johnaton Martins De Souza",
+   "n": 18
+  },
+  {
+   "juiz": "Ba Ana Lucia Matos De Souza",
+   "n": 17
+  },
+  {
+   "juiz": "Daniela Pereira Garrido Pazos",
+   "n": 17
+  },
+  {
+   "juiz": "Isabella Santos Lago",
+   "n": 17
+  },
+  {
+   "juiz": "Guilherme Lopes Athayde",
+   "n": 15
+  },
+  {
+   "juiz": "George Barboza Cordeiro",
+   "n": 14
+  },
+  {
+   "juiz": "José Goes Silva Filho",
+   "n": 14
+  },
+  {
+   "juiz": "Roberto Wolff",
+   "n": 13
+  },
+  {
+   "juiz": "Edvanilson De Araújo Lima",
+   "n": 13
+  },
+  {
+   "juiz": "Patricia Didier De Morais Pereira",
+   "n": 12
+  },
+  {
+   "juiz": "João Paulo Guimarães Neto",
+   "n": 12
+  },
+  {
+   "juiz": "Marcelo De Oliveira Brandão",
+   "n": 10
+  },
+  {
+   "juiz": "Ana Karena Nobre",
+   "n": 10
+  },
+  {
+   "juiz": "Henrique Carlos Lima Alves Pereira",
+   "n": 10
+  },
+  {
+   "juiz": "Rafael Siqueira Montoro",
+   "n": 9
+  },
+  {
+   "juiz": "Renan Souza Moreira",
+   "n": 8
+  },
+  {
+   "juiz": "Pje. Lina Magna Andrade Sena Santos",
+   "n": 8
+  },
+  {
+   "juiz": "Mariana Mendes Pereira",
+   "n": 7
+  },
+  {
+   "juiz": "José Ayres De Souza Nascimento Júnior",
+   "n": 7
+  },
+  {
+   "juiz": "Carla Carneiro Teixeira Ceará",
+   "n": 6
+  },
+  {
+   "juiz": "Edson Nascimento Campos",
+   "n": 6
+  },
+  {
+   "juiz": "Bianca Pfeffer",
+   "n": 6
+  }
+ ],
+ "por_foro": {
+  "JUIZADO": {
+   "total": 4979,
+   "dano_moral_por_area": [
+    {
+     "setor": "SAUDE",
+     "n_dm": 133,
+     "mediana": 10000,
+     "pct_dm": 5
+    },
+    {
+     "setor": "CONSUMO",
+     "n_dm": 3,
+     "mediana": 5000,
+     "pct_dm": 0
+    },
+    {
+     "setor": "FINANCEIRO",
+     "n_dm": 19,
+     "mediana": 4000,
+     "pct_dm": 5
+    },
+    {
+     "setor": "TELECOM",
+     "n_dm": 1,
+     "mediana": 3000,
+     "pct_dm": 0
+    },
+    {
+     "setor": "COELBA",
+     "n_dm": 4,
+     "mediana": 3000,
+     "pct_dm": 3
+    },
+    {
+     "setor": "FRAUDE",
+     "n_dm": 14,
+     "mediana": 3000,
+     "pct_dm": 61
+    }
+   ],
+   "exito_por_area": [
+    {
+     "setor": "FRAUDE",
+     "n": 23,
+     "pct": 96
+    },
+    {
+     "setor": "TELECOM",
+     "n": 720,
+     "pct": 93
+    },
+    {
+     "setor": "CONSUMO",
+     "n": 1118,
+     "pct": 82
+    },
+    {
+     "setor": "FINANCEIRO",
+     "n": 382,
+     "pct": 68
+    },
+    {
+     "setor": "SAUDE",
+     "n": 2588,
+     "pct": 53
+    },
+    {
+     "setor": "COELBA",
+     "n": 129,
+     "pct": 12
+    }
+   ],
+   "comarcas": [
+    {
+     "comarca": "Salvador",
+     "n": 1465,
+     "pct": 86,
+     "dm": 10000,
+     "pct_dm": 3
+    },
+    {
+     "comarca": "Ubaitaba",
+     "n": 55,
+     "pct": 71,
+     "dm": null,
+     "pct_dm": 25
+    }
+   ],
+   "reus": [
+    {
+     "reu": "PLANSERV",
+     "n": 600,
+     "pct": 82,
+     "dm": 10000
+    },
+    {
+     "reu": "BANCO INTER",
+     "n": 180,
+     "pct": 32,
+     "dm": null
+    },
+    {
+     "reu": "OI",
+     "n": 86,
+     "pct": 69,
+     "dm": 5000
+    },
+    {
+     "reu": "COELBA",
+     "n": 52,
+     "pct": 19,
+     "dm": null
+    },
+    {
+     "reu": "BANCO DO BRASIL",
+     "n": 16,
+     "pct": 0,
+     "dm": null
+    },
+    {
+     "reu": "BRADESCO",
+     "n": 8,
+     "pct": 62,
+     "dm": null
+    },
+    {
+     "reu": "EMBASA",
+     "n": 7,
+     "pct": 14,
+     "dm": null
+    },
+    {
+     "reu": "AZUL",
+     "n": 6,
+     "pct": 50,
+     "dm": null
+    }
+   ],
+   "comparador": {
+    "SAUDE": [
+     {
+      "comarca": "Salvador",
+      "n": 577,
+      "pct": 79,
+      "dm": 10000,
+      "pct_dm": 6
+     }
+    ],
+    "FINANCEIRO": [
+     {
+      "comarca": "Salvador",
+      "n": 87,
+      "pct": 86,
+      "dm": null,
+      "pct_dm": 1
+     },
+     {
+      "comarca": "Ubaitaba",
+      "n": 30,
+      "pct": 57,
+      "dm": 3000,
+      "pct_dm": 27
+     }
+    ],
+    "CONSUMO": [
+     {
+      "comarca": "Salvador",
+      "n": 404,
+      "pct": 95,
+      "dm": null,
+      "pct_dm": 0
+     }
+    ],
+    "TELECOM": [
+     {
+      "comarca": "Salvador",
+      "n": 371,
+      "pct": 88,
+      "dm": null,
+      "pct_dm": 0
+     }
+    ],
+    "COELBA": [
+     {
+      "comarca": "Salvador",
+      "n": 11,
+      "pct": 0,
+      "dm": null,
+      "pct_dm": 0
+     }
+    ],
+    "FRAUDE": [
+     {
+      "comarca": "Salvador",
+      "n": 12,
+      "pct": 92,
+      "dm": null,
+      "pct_dm": 58
+     }
+    ]
+   }
+  },
+  "COMUM": {
+   "total": 51875,
+   "dano_moral_por_area": [
+    {
+     "setor": "CONSUMO",
+     "n_dm": 387,
+     "mediana": 10000,
+     "pct_dm": 25
+    },
+    {
+     "setor": "SAUDE",
+     "n_dm": 4746,
+     "mediana": 8000,
+     "pct_dm": 37
+    },
+    {
+     "setor": "AEREO",
+     "n_dm": 760,
+     "mediana": 6000,
+     "pct_dm": 55
+    },
+    {
+     "setor": "COELBA",
+     "n_dm": 686,
+     "mediana": 5000,
+     "pct_dm": 39
+    },
+    {
+     "setor": "EMBASA",
+     "n_dm": 393,
+     "mediana": 5000,
+     "pct_dm": 36
+    },
+    {
+     "setor": "FINANCEIRO",
+     "n_dm": 7217,
+     "mediana": 5000,
+     "pct_dm": 23
+    },
+    {
+     "setor": "TELECOM",
+     "n_dm": 337,
+     "mediana": 5000,
+     "pct_dm": 23
+    },
+    {
+     "setor": "FRAUDE",
+     "n_dm": 307,
+     "mediana": 5000,
+     "pct_dm": 42
+    },
+    {
+     "setor": "APOSTAS",
+     "n_dm": 9,
+     "mediana": 5000,
+     "pct_dm": 28
+    },
+    {
+     "setor": "ECOMMERCE",
+     "n_dm": 150,
+     "mediana": 4877,
+     "pct_dm": 49
+    }
+   ],
+   "exito_por_area": [
+    {
+     "setor": "AEREO",
+     "n": 1379,
+     "pct": 80
+    },
+    {
+     "setor": "COELBA",
+     "n": 1738,
+     "pct": 77
+    },
+    {
+     "setor": "ECOMMERCE",
+     "n": 307,
+     "pct": 74
+    },
+    {
+     "setor": "SAUDE",
+     "n": 12811,
+     "pct": 65
+    },
+    {
+     "setor": "EMBASA",
+     "n": 1084,
+     "pct": 62
+    },
+    {
+     "setor": "APOSTAS",
+     "n": 32,
+     "pct": 62
+    },
+    {
+     "setor": "FRAUDE",
+     "n": 733,
+     "pct": 61
+    },
+    {
+     "setor": "CONSUMO",
+     "n": 1562,
+     "pct": 56
+    },
+    {
+     "setor": "FINANCEIRO",
+     "n": 30734,
+     "pct": 48
+    },
+    {
+     "setor": "TELECOM",
+     "n": 1495,
+     "pct": 43
+    }
+   ],
+   "comarcas": [
+    {
+     "comarca": "Salvador",
+     "n": 42819,
+     "pct": 46,
+     "dm": 8000,
+     "pct_dm": 23
+    },
+    {
+     "comarca": "Capim Grosso",
+     "n": 2281,
+     "pct": 54,
+     "dm": 5000,
+     "pct_dm": 44
+    },
+    {
+     "comarca": "Santo Antônio de Jesus",
+     "n": 1990,
+     "pct": 13,
+     "dm": 10000,
+     "pct_dm": 7
+    },
+    {
+     "comarca": "Dias D'ávila",
+     "n": 1378,
+     "pct": 79,
+     "dm": 5000,
+     "pct_dm": 49
+    },
+    {
+     "comarca": "Feira de Santana",
+     "n": 1354,
+     "pct": 60,
+     "dm": 10000,
+     "pct_dm": 31
+    },
+    {
+     "comarca": "Porto Seguro",
+     "n": 737,
+     "pct": 20,
+     "dm": null,
+     "pct_dm": 2
+    },
+    {
+     "comarca": "Camaçari",
+     "n": 623,
+     "pct": 30,
+     "dm": 10000,
+     "pct_dm": 16
+    },
+    {
+     "comarca": "Santo Antonio de Jesus",
+     "n": 579,
+     "pct": 74,
+     "dm": 5000,
+     "pct_dm": 43
+    },
+    {
+     "comarca": "João Dourado",
+     "n": 480,
+     "pct": 51,
+     "dm": 5000,
+     "pct_dm": 43
+    },
+    {
+     "comarca": "Vitória da Conquista",
+     "n": 462,
+     "pct": 23,
+     "dm": 8000,
+     "pct_dm": 6
+    },
+    {
+     "comarca": "Ilhéus",
+     "n": 361,
+     "pct": 29,
+     "dm": 10000,
+     "pct_dm": 14
+    },
+    {
+     "comarca": "Lauro de Freitas",
+     "n": 232,
+     "pct": 51,
+     "dm": 9000,
+     "pct_dm": 21
+    },
+    {
+     "comarca": "Euclides da Cunha",
+     "n": 222,
+     "pct": 65,
+     "dm": 5000,
+     "pct_dm": 17
+    },
+    {
+     "comarca": "Itabuna",
+     "n": 220,
+     "pct": 58,
+     "dm": 8000,
+     "pct_dm": 38
+    },
+    {
+     "comarca": "Luís Eduardo Magalhães",
+     "n": 214,
+     "pct": 75,
+     "dm": 10000,
+     "pct_dm": 7
+    },
+    {
+     "comarca": "Alagoinhas",
+     "n": 211,
+     "pct": 53,
+     "dm": 5000,
+     "pct_dm": 32
+    },
+    {
+     "comarca": "Ilheus",
+     "n": 205,
+     "pct": 62,
+     "dm": 5000,
+     "pct_dm": 44
+    },
+    {
+     "comarca": "Cruz das Almas",
+     "n": 180,
+     "pct": 79,
+     "dm": 3000,
+     "pct_dm": 48
+    },
+    {
+     "comarca": "Jacobina",
+     "n": 162,
+     "pct": 60,
+     "dm": 5000,
+     "pct_dm": 44
+    },
+    {
+     "comarca": "Formosa do Rio Preto",
+     "n": 154,
+     "pct": 56,
+     "dm": 5000,
+     "pct_dm": 36
+    },
+    {
+     "comarca": "Vitoria da Conquista",
+     "n": 112,
+     "pct": 75,
+     "dm": 10000,
+     "pct_dm": 50
+    },
+    {
+     "comarca": "Mata de São João",
+     "n": 108,
+     "pct": 56,
+     "dm": 5000,
+     "pct_dm": 38
+    },
+    {
+     "comarca": "Canavieiras",
+     "n": 98,
+     "pct": 39,
+     "dm": 10000,
+     "pct_dm": 23
+    },
+    {
+     "comarca": "Barreiras",
+     "n": 95,
+     "pct": 59,
+     "dm": 5000,
+     "pct_dm": 36
+    },
+    {
+     "comarca": "Simões Filho",
+     "n": 90,
+     "pct": 54,
+     "dm": 5000,
+     "pct_dm": 28
+    },
+    {
+     "comarca": "Igaporã",
+     "n": 79,
+     "pct": 80,
+     "dm": 4500,
+     "pct_dm": 25
+    },
+    {
+     "comarca": "Juazeiro",
+     "n": 75,
+     "pct": 49,
+     "dm": 10000,
+     "pct_dm": 20
+    },
+    {
+     "comarca": "Santo Amaro",
+     "n": 73,
+     "pct": 67,
+     "dm": 4000,
+     "pct_dm": 30
+    },
+    {
+     "comarca": "Inhambupe",
+     "n": 72,
+     "pct": 64,
+     "dm": 5000,
+     "pct_dm": 40
+    },
+    {
+     "comarca": "Morro do Chapéu",
+     "n": 68,
+     "pct": 35,
+     "dm": null,
+     "pct_dm": 10
+    },
+    {
+     "comarca": "Jequié",
+     "n": 64,
+     "pct": 64,
+     "dm": 5000,
+     "pct_dm": 44
+    },
+    {
+     "comarca": "Miguel Calmon",
+     "n": 63,
+     "pct": 41,
+     "dm": 10000,
+     "pct_dm": 32
+    },
+    {
+     "comarca": "Guanambi",
+     "n": 56,
+     "pct": 36,
+     "dm": null,
+     "pct_dm": 11
+    },
+    {
+     "comarca": "São Francisco do Conde",
+     "n": 56,
+     "pct": 57,
+     "dm": 5000,
+     "pct_dm": 39
+    },
+    {
+     "comarca": "Rel de Cons Civ e Com. de Itabela",
+     "n": 53,
+     "pct": 75,
+     "dm": 3000,
+     "pct_dm": 53
+    },
+    {
+     "comarca": "Nova Viçosa",
+     "n": 50,
+     "pct": 74,
+     "dm": 4500,
+     "pct_dm": 40
+    },
+    {
+     "comarca": "Pojuca",
+     "n": 49,
+     "pct": 76,
+     "dm": 5000,
+     "pct_dm": 59
+    },
+    {
+     "comarca": "Rel de Cons Civ e Com. de Itagibá",
+     "n": 44,
+     "pct": 23,
+     "dm": null,
+     "pct_dm": 11
+    },
+    {
+     "comarca": "Cotegipe",
+     "n": 43,
+     "pct": 74,
+     "dm": 8000,
+     "pct_dm": 44
+    },
+    {
+     "comarca": "Senhor do Bonfim",
+     "n": 37,
+     "pct": 16,
+     "dm": null,
+     "pct_dm": 3
+    }
+   ],
+   "reus": [
+    {
+     "reu": "BRADESCO",
+     "n": 5061,
+     "pct": 52,
+     "dm": 5000
+    },
+    {
+     "reu": "OI",
+     "n": 3081,
+     "pct": 50,
+     "dm": 6000
+    },
+    {
+     "reu": "BANCO DO BRASIL",
+     "n": 2906,
+     "pct": 39,
+     "dm": 7000
+    },
+    {
+     "reu": "ITAU",
+     "n": 2681,
+     "pct": 38,
+     "dm": 5000
+    },
+    {
+     "reu": "SANTANDER",
+     "n": 2161,
+     "pct": 35,
+     "dm": 5000
+    },
+    {
+     "reu": "COELBA",
+     "n": 2006,
+     "pct": 72,
+     "dm": 5000
+    },
+    {
+     "reu": "BANCO PAN",
+     "n": 1947,
+     "pct": 41,
+     "dm": 5000
+    },
+    {
+     "reu": "EMBASA",
+     "n": 1757,
+     "pct": 49,
+     "dm": 5000
+    },
+    {
+     "reu": "UNIMED",
+     "n": 1453,
+     "pct": 79,
+     "dm": 10000
+    },
+    {
+     "reu": "BMG",
+     "n": 1149,
+     "pct": 31,
+     "dm": 5000
+    },
+    {
+     "reu": "SULAMERICA",
+     "n": 1097,
+     "pct": 77,
+     "dm": 10000
+    },
+    {
+     "reu": "C6",
+     "n": 796,
+     "pct": 45,
+     "dm": 6000
+    },
+    {
+     "reu": "BRADESCO SAUDE",
+     "n": 751,
+     "pct": 76,
+     "dm": 10000
+    },
+    {
+     "reu": "CREFISA",
+     "n": 738,
+     "pct": 64,
+     "dm": 10000
+    },
+    {
+     "reu": "VIVO",
+     "n": 648,
+     "pct": 52,
+     "dm": 5000
+    },
+    {
+     "reu": "HAPVIDA",
+     "n": 591,
+     "pct": 76,
+     "dm": 10000
+    },
+    {
+     "reu": "AGIBANK",
+     "n": 497,
+     "pct": 52,
+     "dm": 5000
+    },
+    {
+     "reu": "GOL",
+     "n": 487,
+     "pct": 69,
+     "dm": 5000
+    },
+    {
+     "reu": "AZUL",
+     "n": 447,
+     "pct": 69,
+     "dm": 5000
+    },
+    {
+     "reu": "MERCANTIL",
+     "n": 410,
+     "pct": 56,
+     "dm": 8000
+    }
+   ],
+   "comparador": {
+    "COELBA": [
+     {
+      "comarca": "Salvador",
+      "n": 1210,
+      "pct": 71,
+      "dm": 5000,
+      "pct_dm": 35
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 133,
+      "pct": 99,
+      "dm": 5000,
+      "pct_dm": 29
+     },
+     {
+      "comarca": "João Dourado",
+      "n": 71,
+      "pct": 72,
+      "dm": 5000,
+      "pct_dm": 66
+     },
+     {
+      "comarca": "Formosa do Rio Preto",
+      "n": 46,
+      "pct": 76,
+      "dm": 60000,
+      "pct_dm": 54
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 37,
+      "pct": 84,
+      "dm": 12500,
+      "pct_dm": 38
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 36,
+      "pct": 56,
+      "dm": 5000,
+      "pct_dm": 31
+     },
+     {
+      "comarca": "Canavieiras",
+      "n": 26,
+      "pct": 46,
+      "dm": 50000,
+      "pct_dm": 35
+     },
+     {
+      "comarca": "Santo Antonio de Jesus",
+      "n": 23,
+      "pct": 61,
+      "dm": 8000,
+      "pct_dm": 48
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 22,
+      "pct": 32,
+      "dm": null,
+      "pct_dm": 14
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 21,
+      "pct": 81,
+      "dm": null,
+      "pct_dm": 29
+     },
+     {
+      "comarca": "Luís Eduardo Magalhães",
+      "n": 20,
+      "pct": 90,
+      "dm": null,
+      "pct_dm": 5
+     },
+     {
+      "comarca": "Euclides da Cunha",
+      "n": 19,
+      "pct": 89,
+      "dm": null,
+      "pct_dm": 26
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 18,
+      "pct": 72,
+      "dm": 5000,
+      "pct_dm": 50
+     },
+     {
+      "comarca": "Lauro de Freitas",
+      "n": 13,
+      "pct": 77,
+      "dm": null,
+      "pct_dm": 31
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 12,
+      "pct": 75,
+      "dm": null,
+      "pct_dm": 58
+     },
+     {
+      "comarca": "Simões Filho",
+      "n": 9,
+      "pct": 100,
+      "dm": null,
+      "pct_dm": 33
+     },
+     {
+      "comarca": "Inhambupe",
+      "n": 9,
+      "pct": 89,
+      "dm": null,
+      "pct_dm": 44
+     },
+     {
+      "comarca": "Barreiras",
+      "n": 8,
+      "pct": 62,
+      "dm": null,
+      "pct_dm": 50
+     },
+     {
+      "comarca": "Itabuna",
+      "n": 8,
+      "pct": 25,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Porto Seguro",
+      "n": 8,
+      "pct": 25,
+      "dm": null,
+      "pct_dm": 0
+     }
+    ],
+    "EMBASA": [
+     {
+      "comarca": "Salvador",
+      "n": 961,
+      "pct": 57,
+      "dm": 5000,
+      "pct_dm": 33
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 98,
+      "pct": 5,
+      "dm": null,
+      "pct_dm": 3
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 40,
+      "pct": 68,
+      "dm": 4500,
+      "pct_dm": 45
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 31,
+      "pct": 39,
+      "dm": 10000,
+      "pct_dm": 35
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 19,
+      "pct": 79,
+      "dm": null,
+      "pct_dm": 37
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 10,
+      "pct": 50,
+      "dm": null,
+      "pct_dm": 40
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 10,
+      "pct": 90,
+      "dm": null,
+      "pct_dm": 70
+     },
+     {
+      "comarca": "Santo Antonio de Jesus",
+      "n": 10,
+      "pct": 70,
+      "dm": null,
+      "pct_dm": 70
+     }
+    ],
+    "FINANCEIRO": [
+     {
+      "comarca": "Salvador",
+      "n": 25508,
+      "pct": 39,
+      "dm": 7000,
+      "pct_dm": 17
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 2000,
+      "pct": 52,
+      "dm": 5000,
+      "pct_dm": 47
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 666,
+      "pct": 71,
+      "dm": 5000,
+      "pct_dm": 45
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 649,
+      "pct": 54,
+      "dm": 7300,
+      "pct_dm": 24
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 438,
+      "pct": 16,
+      "dm": 5000,
+      "pct_dm": 5
+     },
+     {
+      "comarca": "João Dourado",
+      "n": 322,
+      "pct": 40,
+      "dm": 5000,
+      "pct_dm": 33
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 306,
+      "pct": 43,
+      "dm": 15000,
+      "pct_dm": 18
+     },
+     {
+      "comarca": "Santo Antonio de Jesus",
+      "n": 295,
+      "pct": 70,
+      "dm": 5000,
+      "pct_dm": 33
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 199,
+      "pct": 28,
+      "dm": 10000,
+      "pct_dm": 10
+     },
+     {
+      "comarca": "Porto Seguro",
+      "n": 181,
+      "pct": 34,
+      "dm": null,
+      "pct_dm": 2
+     },
+     {
+      "comarca": "Vitória da Conquista",
+      "n": 170,
+      "pct": 22,
+      "dm": 6000,
+      "pct_dm": 8
+     },
+     {
+      "comarca": "Luís Eduardo Magalhães",
+      "n": 150,
+      "pct": 74,
+      "dm": null,
+      "pct_dm": 5
+     },
+     {
+      "comarca": "Lauro de Freitas",
+      "n": 142,
+      "pct": 39,
+      "dm": 6000,
+      "pct_dm": 14
+     },
+     {
+      "comarca": "Ilheus",
+      "n": 130,
+      "pct": 64,
+      "dm": 5000,
+      "pct_dm": 48
+     },
+     {
+      "comarca": "Alagoinhas",
+      "n": 117,
+      "pct": 52,
+      "dm": 5000,
+      "pct_dm": 30
+     },
+     {
+      "comarca": "Jacobina",
+      "n": 117,
+      "pct": 57,
+      "dm": 5000,
+      "pct_dm": 42
+     },
+     {
+      "comarca": "Itabuna",
+      "n": 116,
+      "pct": 57,
+      "dm": 6500,
+      "pct_dm": 34
+     },
+     {
+      "comarca": "Euclides da Cunha",
+      "n": 103,
+      "pct": 42,
+      "dm": 5000,
+      "pct_dm": 21
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 84,
+      "pct": 85,
+      "dm": 3000,
+      "pct_dm": 54
+     },
+     {
+      "comarca": "Formosa do Rio Preto",
+      "n": 81,
+      "pct": 41,
+      "dm": 5000,
+      "pct_dm": 25
+     },
+     {
+      "comarca": "Mata de São João",
+      "n": 71,
+      "pct": 54,
+      "dm": 5000,
+      "pct_dm": 31
+     },
+     {
+      "comarca": "Morro do Chapéu",
+      "n": 60,
+      "pct": 30,
+      "dm": null,
+      "pct_dm": 12
+     },
+     {
+      "comarca": "Canavieiras",
+      "n": 54,
+      "pct": 28,
+      "dm": null,
+      "pct_dm": 11
+     },
+     {
+      "comarca": "Simões Filho",
+      "n": 52,
+      "pct": 31,
+      "dm": 5000,
+      "pct_dm": 15
+     },
+     {
+      "comarca": "Barreiras",
+      "n": 50,
+      "pct": 50,
+      "dm": 5000,
+      "pct_dm": 28
+     }
+    ],
+    "SAUDE": [
+     {
+      "comarca": "Salvador",
+      "n": 9996,
+      "pct": 62,
+      "dm": 8000,
+      "pct_dm": 35
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 1513,
+      "pct": 5,
+      "dm": 8000,
+      "pct_dm": 4
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 471,
+      "pct": 62,
+      "dm": 10000,
+      "pct_dm": 36
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 317,
+      "pct": 89,
+      "dm": 5000,
+      "pct_dm": 62
+     },
+     {
+      "comarca": "Porto Seguro",
+      "n": 310,
+      "pct": 15,
+      "dm": null,
+      "pct_dm": 2
+     },
+     {
+      "comarca": "Vitória da Conquista",
+      "n": 217,
+      "pct": 24,
+      "dm": null,
+      "pct_dm": 3
+     },
+     {
+      "comarca": "Santo Antonio de Jesus",
+      "n": 205,
+      "pct": 82,
+      "dm": 5000,
+      "pct_dm": 53
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 110,
+      "pct": 66,
+      "dm": 10000,
+      "pct_dm": 44
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 84,
+      "pct": 61,
+      "dm": 5000,
+      "pct_dm": 25
+     },
+     {
+      "comarca": "Itabuna",
+      "n": 72,
+      "pct": 67,
+      "dm": 10000,
+      "pct_dm": 46
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 72,
+      "pct": 28,
+      "dm": 15000,
+      "pct_dm": 14
+     },
+     {
+      "comarca": "Alagoinhas",
+      "n": 71,
+      "pct": 59,
+      "dm": 5000,
+      "pct_dm": 39
+     },
+     {
+      "comarca": "Lauro de Freitas",
+      "n": 47,
+      "pct": 74,
+      "dm": 10000,
+      "pct_dm": 30
+     },
+     {
+      "comarca": "João Dourado",
+      "n": 46,
+      "pct": 78,
+      "dm": 5000,
+      "pct_dm": 61
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 38,
+      "pct": 76,
+      "dm": 5000,
+      "pct_dm": 32
+     },
+     {
+      "comarca": "Ilheus",
+      "n": 38,
+      "pct": 66,
+      "dm": 20000,
+      "pct_dm": 34
+     },
+     {
+      "comarca": "Euclides da Cunha",
+      "n": 34,
+      "pct": 76,
+      "dm": null,
+      "pct_dm": 18
+     },
+     {
+      "comarca": "Vitoria da Conquista",
+      "n": 29,
+      "pct": 83,
+      "dm": 10000,
+      "pct_dm": 55
+     },
+     {
+      "comarca": "Luís Eduardo Magalhães",
+      "n": 26,
+      "pct": 73,
+      "dm": null,
+      "pct_dm": 19
+     },
+     {
+      "comarca": "Guanambi",
+      "n": 25,
+      "pct": 16,
+      "dm": null,
+      "pct_dm": 4
+     },
+     {
+      "comarca": "Jacobina",
+      "n": 23,
+      "pct": 74,
+      "dm": 10000,
+      "pct_dm": 61
+     },
+     {
+      "comarca": "Igaporã",
+      "n": 21,
+      "pct": 81,
+      "dm": null,
+      "pct_dm": 14
+     },
+     {
+      "comarca": "Simões Filho",
+      "n": 20,
+      "pct": 80,
+      "dm": 8000,
+      "pct_dm": 55
+     },
+     {
+      "comarca": "Jequié",
+      "n": 19,
+      "pct": 63,
+      "dm": 10000,
+      "pct_dm": 58
+     },
+     {
+      "comarca": "Barreiras",
+      "n": 18,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 39
+     }
+    ],
+    "CONSUMO": [
+     {
+      "comarca": "Salvador",
+      "n": 2098,
+      "pct": 24,
+      "dm": 10000,
+      "pct_dm": 13
+     },
+     {
+      "comarca": "Porto Seguro",
+      "n": 192,
+      "pct": 5,
+      "dm": null,
+      "pct_dm": 1
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 83,
+      "pct": 88,
+      "dm": null,
+      "pct_dm": 2
+     },
+     {
+      "comarca": "Euclides da Cunha",
+      "n": 55,
+      "pct": 96,
+      "dm": null,
+      "pct_dm": 4
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 47,
+      "pct": 60,
+      "dm": 15000,
+      "pct_dm": 34
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 46,
+      "pct": 74,
+      "dm": 3000,
+      "pct_dm": 24
+     },
+     {
+      "comarca": "Vitória da Conquista",
+      "n": 43,
+      "pct": 9,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 33,
+      "pct": 55,
+      "dm": 10000,
+      "pct_dm": 30
+     },
+     {
+      "comarca": "Santo Antonio de Jesus",
+      "n": 24,
+      "pct": 62,
+      "dm": 7000,
+      "pct_dm": 50
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 21,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 24
+     },
+     {
+      "comarca": "Guanambi",
+      "n": 12,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 11,
+      "pct": 27,
+      "dm": null,
+      "pct_dm": 18
+     },
+     {
+      "comarca": "Lauro de Freitas",
+      "n": 10,
+      "pct": 40,
+      "dm": null,
+      "pct_dm": 20
+     },
+     {
+      "comarca": "Senhor do Bonfim",
+      "n": 9,
+      "pct": 11,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Luís Eduardo Magalhães",
+      "n": 8,
+      "pct": 88,
+      "dm": null,
+      "pct_dm": 38
+     }
+    ],
+    "ECOMMERCE": [
+     {
+      "comarca": "Salvador",
+      "n": 247,
+      "pct": 68,
+      "dm": 4000,
+      "pct_dm": 44
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 9,
+      "pct": 89,
+      "dm": null,
+      "pct_dm": 44
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 8,
+      "pct": 100,
+      "dm": null,
+      "pct_dm": 88
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 8,
+      "pct": 62,
+      "dm": null,
+      "pct_dm": 25
+     }
+    ],
+    "AEREO": [
+     {
+      "comarca": "Salvador",
+      "n": 898,
+      "pct": 68,
+      "dm": 7000,
+      "pct_dm": 49
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 91,
+      "pct": 86,
+      "dm": 5000,
+      "pct_dm": 67
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 55,
+      "pct": 73,
+      "dm": 6000,
+      "pct_dm": 56
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 25,
+      "pct": 68,
+      "dm": null,
+      "pct_dm": 28
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 23,
+      "pct": 83,
+      "dm": 2000,
+      "pct_dm": 52
+     },
+     {
+      "comarca": "Mata de São João",
+      "n": 22,
+      "pct": 73,
+      "dm": 4500,
+      "pct_dm": 64
+     },
+     {
+      "comarca": "Santo Amaro",
+      "n": 22,
+      "pct": 73,
+      "dm": 5500,
+      "pct_dm": 45
+     },
+     {
+      "comarca": "Candeias",
+      "n": 20,
+      "pct": 100,
+      "dm": null,
+      "pct_dm": 10
+     },
+     {
+      "comarca": "Dias Dávila",
+      "n": 19,
+      "pct": 79,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Pojuca",
+      "n": 18,
+      "pct": 94,
+      "dm": 4000,
+      "pct_dm": 83
+     },
+     {
+      "comarca": "Nova Viçosa",
+      "n": 16,
+      "pct": 100,
+      "dm": null,
+      "pct_dm": 19
+     },
+     {
+      "comarca": "Ilheus",
+      "n": 16,
+      "pct": 69,
+      "dm": 10000,
+      "pct_dm": 69
+     },
+     {
+      "comarca": "Vitoria da Conquista",
+      "n": 14,
+      "pct": 57,
+      "dm": null,
+      "pct_dm": 36
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 12,
+      "pct": 33,
+      "dm": null,
+      "pct_dm": 25
+     },
+     {
+      "comarca": "Catu",
+      "n": 11,
+      "pct": 64,
+      "dm": null,
+      "pct_dm": 27
+     },
+     {
+      "comarca": "Rel de Cons Civ e Com. de Nazaré",
+      "n": 11,
+      "pct": 45,
+      "dm": null,
+      "pct_dm": 27
+     },
+     {
+      "comarca": "Poções",
+      "n": 10,
+      "pct": 90,
+      "dm": null,
+      "pct_dm": 70
+     },
+     {
+      "comarca": "Barreiras",
+      "n": 9,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 56
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 9,
+      "pct": 33,
+      "dm": null,
+      "pct_dm": 22
+     },
+     {
+      "comarca": "Vitória da Conquista",
+      "n": 8,
+      "pct": 62,
+      "dm": null,
+      "pct_dm": 50
+     }
+    ],
+    "TELECOM": [
+     {
+      "comarca": "Salvador",
+      "n": 1541,
+      "pct": 30,
+      "dm": 6000,
+      "pct_dm": 18
+     },
+     {
+      "comarca": "Porto Seguro",
+      "n": 34,
+      "pct": 53,
+      "dm": null,
+      "pct_dm": 9
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 33,
+      "pct": 55,
+      "dm": 10000,
+      "pct_dm": 36
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 29,
+      "pct": 69,
+      "dm": 3500,
+      "pct_dm": 34
+     },
+     {
+      "comarca": "Vitória da Conquista",
+      "n": 16,
+      "pct": 25,
+      "dm": null,
+      "pct_dm": 6
+     },
+     {
+      "comarca": "Camaçari",
+      "n": 13,
+      "pct": 31,
+      "dm": null,
+      "pct_dm": 23
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 13,
+      "pct": 69,
+      "dm": null,
+      "pct_dm": 31
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 10,
+      "pct": 90,
+      "dm": null,
+      "pct_dm": 50
+     },
+     {
+      "comarca": "Santo Antônio de Jesus",
+      "n": 9,
+      "pct": 22,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Ilhéus",
+      "n": 9,
+      "pct": 11,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "João Dourado",
+      "n": 9,
+      "pct": 56,
+      "dm": null,
+      "pct_dm": 33
+     }
+    ],
+    "FRAUDE": [
+     {
+      "comarca": "Salvador",
+      "n": 340,
+      "pct": 61,
+      "dm": 5000,
+      "pct_dm": 43
+     },
+     {
+      "comarca": "Dias D'ávila",
+      "n": 40,
+      "pct": 82,
+      "dm": 5000,
+      "pct_dm": 68
+     },
+     {
+      "comarca": "Feira de Santana",
+      "n": 32,
+      "pct": 56,
+      "dm": 10000,
+      "pct_dm": 34
+     },
+     {
+      "comarca": "Ilheus",
+      "n": 21,
+      "pct": 38,
+      "dm": null,
+      "pct_dm": 24
+     },
+     {
+      "comarca": "Capim Grosso",
+      "n": 20,
+      "pct": 10,
+      "dm": null,
+      "pct_dm": 5
+     },
+     {
+      "comarca": "Vitoria da Conquista",
+      "n": 19,
+      "pct": 84,
+      "dm": 6000,
+      "pct_dm": 63
+     },
+     {
+      "comarca": "Pojuca",
+      "n": 15,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 47
+     },
+     {
+      "comarca": "João Dourado",
+      "n": 12,
+      "pct": 67,
+      "dm": null,
+      "pct_dm": 50
+     },
+     {
+      "comarca": "Rel de Cons Civ e Com. de Itabela",
+      "n": 12,
+      "pct": 75,
+      "dm": null,
+      "pct_dm": 25
+     },
+     {
+      "comarca": "Itabuna",
+      "n": 11,
+      "pct": 55,
+      "dm": null,
+      "pct_dm": 55
+     },
+     {
+      "comarca": "Miguel Calmon",
+      "n": 11,
+      "pct": 36,
+      "dm": null,
+      "pct_dm": 27
+     },
+     {
+      "comarca": "Mata de São João",
+      "n": 11,
+      "pct": 27,
+      "dm": null,
+      "pct_dm": 18
+     },
+     {
+      "comarca": "São Felipe",
+      "n": 9,
+      "pct": 0,
+      "dm": null,
+      "pct_dm": 0
+     },
+     {
+      "comarca": "Cruz das Almas",
+      "n": 8,
+      "pct": 38,
+      "dm": null,
+      "pct_dm": 38
+     }
+    ],
+    "APOSTAS": [
+     {
+      "comarca": "Salvador",
+      "n": 20,
+      "pct": 60,
+      "dm": null,
+      "pct_dm": 25
+     }
+    ]
+   }
+  }
+ }
+}

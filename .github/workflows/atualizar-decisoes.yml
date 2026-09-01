@@ -1,0 +1,38 @@
+name: Atualizar decisões (diário)
+
+# Roda todo dia às 07:00 de Brasília (10:00 UTC) e também pode ser disparado à mão (Run workflow).
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # o robô do GitHub commita sozinho (não precisa de senha/token seu)
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar decisões novas do DJEN (últimos dias) e recalcular
+        env:
+          DIAS: "7"
+          MAX_PAG: "12"
+        run: python3 atualizar_diario.py
+
+      - name: Regenerar o site (app.html na raiz, que o Pages serve)
+        env:
+          OUT_HTML: app.html
+        run: python3 gerar_dashboard.py
+
+      - name: Publicar o que mudou
+        run: |
+          git config user.name  "DOMINIA bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add app.html registros_dje.json dje_stats.json
+          git commit -m "Atualização diária das decisões ($(date +%F))" || echo "sem novidades hoje"
+          git push
