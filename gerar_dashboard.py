@@ -73,7 +73,7 @@ reus=[{"reu":r["reu"],"n":r["n"],"pct":r["pct_fav_sinal"]} for r in massa.get("r
 DADOS={"massa_total":massa.get("total",0),"validados":base["total"],"n_setores":len(setores),
        "setores":setores,"anos":anos,"massa_grid":massa_grid,"rv":RV,"reus":reus,
        "teses":teses,"n_emergentes":n_emergentes,"labels":LABEL,"gerado_em":emg.get("gerado_em",""),
-       "dje":DJE,"rdje":RDJE,"censo":CENSO,"reus_b":REUS_B,"busca":BUSCA.get("itens",[]),"vara":VARA,"juizes":JUI,
+       "dje":DJE,"rdje":RDJE,"censo":CENSO,"reus_b":REUS_B,"busca":[],"vara":VARA,"juizes":JUI,
        "suspensoes":[s for s in SUSPENSOES if s.get("status")=="SUSPENSA"]}
 
 HTML=r"""<meta charset="utf-8">
@@ -219,6 +219,11 @@ HTML=r"""<meta charset="utf-8">
   /* decisões */
   .dfilters{display:grid;grid-template-columns:repeat(4,1fr);gap:9px;margin-bottom:14px}
   @media(max-width:640px){.dfilters{grid-template-columns:1fr 1fr}}
+  .dsearch{display:flex;align-items:center;gap:10px;background:var(--surface);border:1.5px solid var(--line);border-radius:13px;padding:0 14px;margin-bottom:12px;box-shadow:var(--shadow);transition:border-color .15s}
+  .dsearch:focus-within{border-color:var(--purple)}
+  .dsearch svg{width:19px;height:19px;color:var(--purple);flex:none}
+  .dsearch input{flex:1;border:0;outline:0;background:transparent;font:inherit;font-size:15px;color:var(--ink);padding:13px 0}
+  .dsearch input::placeholder{color:var(--ink-faint)}
   .dfilters select{width:100%;font:inherit;font-size:13px;font-weight:600;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:10px 12px;cursor:pointer}
   .dcount{font-size:12px;color:var(--ink-faint);margin:0 0 12px}
   .bbox{display:flex;gap:9px;margin-bottom:12px}@media(max-width:600px){.bbox{flex-direction:column}}
@@ -311,7 +316,6 @@ HTML=r"""<meta charset="utf-8">
   </div>
   <div class="tabs">
     <button class="tab on" data-v="consulta">Consulta</button>
-    <button class="tab" data-v="busca">Busca IA</button>
     <button class="tab" data-v="decisoes">Decisões</button>
     <button class="tab" data-v="comarcas">Comarcas</button>
     <button class="tab" data-v="varas">Varas</button>
@@ -396,7 +400,11 @@ HTML=r"""<meta charset="utf-8">
   <!-- DECISOES (cada decisão, tudo o que importa) -->
   <div class="view" id="v-decisoes">
     <p class="pagehead">Decisões — tudo o que importa</p>
-    <p class="pagesub">Sentenças reais de 1º grau (TJBA), estruturadas: valor, resultado, juiz, comarca/vara, réu e a íntegra. Filtre e encontre o precedente.</p>
+    <p class="pagesub">Sentenças reais de 1º grau (TJBA), estruturadas: valor, resultado, comarca/vara, réu e a íntegra. Pesquise por palavra, réu, tese ou nº do processo.</p>
+    <div class="dsearch">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21" stroke-linecap="round"/></svg>
+      <input id="d-busca" type="search" placeholder="Buscar nas decisões: ex. cirurgia reparadora, Bradesco, negativação, 0801234…">
+    </div>
     <div class="dfilters">
       <select id="d-foro"></select><select id="d-setor"></select><select id="d-comarca"></select><select id="d-reu"></select><select id="d-res"></select>
     </div>
@@ -766,13 +774,22 @@ if(RD.length){
   $("#d-res").innerHTML='<option value="TODOS">Todos os resultados</option><option value="win">Procedente / parcial</option><option value="IMPROCEDENTE">Improcedente</option>';
   $("#d-foro").innerHTML='<option value="TODOS">Juizado + Comum</option><option value="JUIZADO">Só Juizado</option><option value="COMUM">Só Justiça Comum</option>';
   ["#d-foro","#d-setor","#d-comarca","#d-reu","#d-res"].forEach(s=>$(s).addEventListener("change",()=>renderDec(true)));
+  let _dbt; $("#d-busca").addEventListener("input",()=>{clearTimeout(_dbt);_dbt=setTimeout(()=>renderDec(true),180);});
   renderDec(true);
 }
+function bnormDec(s){return (s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");}
 function filtraDec(){
   const f=$("#d-foro").value,s=$("#d-setor").value,c=$("#d-comarca").value,r=$("#d-reu").value,res=$("#d-res").value;
-  return RD.filter(x=>(f==="TODOS"||x.fg===f)&&(s==="TODOS"||x.s===s)&&(c==="TODOS"||x.c===c)&&(r==="TODOS"||x.r===r)&&
-    (res==="TODOS"||(res==="win"?(x.res==="PROCEDENTE"||x.res==="PARCIAL"):x.res===res)));
+  const q=bnormDec($("#d-busca").value.trim()); const termos=q?q.split(/\s+/):[];
+  return RD.filter(x=>{
+    if(!((f==="TODOS"||x.fg===f)&&(s==="TODOS"||x.s===s)&&(c==="TODOS"||x.c===c)&&(r==="TODOS"||x.r===r)&&
+      (res==="TODOS"||(res==="win"?(x.res==="PROCEDENTE"||x.res==="PARCIAL"):x.res===res)))) return false;
+    if(!termos.length) return true;
+    const hay=bnormDec([x.em,x.r,x.c,x.j,x.tese,x.proc,setorLabel(x.s)].join(" "));
+    return termos.every(t=>hay.includes(t));
+  });
 }
+function abrevJuiz(n){if(!n)return n;const p=n.trim().split(/\s+/);if(p.length<=2)return n;return p[0]+" "+p.slice(1,-1).map(w=>w[0]+".").join("")+" "+p[p.length-1];}
 function verMaisDec(){dShown+=40;renderDec(false);}
 function renderDec(reset){
   if(reset)dShown=40;
@@ -780,7 +797,7 @@ function renderDec(reset){
   $("#d-count").textContent=`${nf(f.length)} decisões · ${nf(f.filter(x=>x.res==="PROCEDENTE"||x.res==="PARCIAL").length)} com êxito`;
   $("#d-list").innerHTML=f.slice(0,dShown).map(x=>`<div class="dcard">
     <div class="dtop"><span class="res ${x.res}">${RESLBL[x.res]||x.res}</span>${x.v?`<span class="val">R$ ${nf(x.v)}</span>`:""}</div>
-    <div class="dmeta"><span><span class="k">Foro:</span> <b>${x.fg==="JUIZADO"?"Juizado":"J. Comum"}</b></span>${x.r?`<span><span class="k">Réu:</span> <b>${x.r}</b></span>`:""}${x.c?`<span><span class="k">Comarca:</span> <b>${x.c}</b></span>`:""}${x.j?`<span><span class="k">Juiz:</span> <b>${x.j}</b></span>`:""}<span><span class="k">Tese:</span> <b>${x.tese||setorLabel(x.s)}</b></span>${x.d?`<span class="k">${x.d}</span>`:""}</div>
+    <div class="dmeta"><span><span class="k">Foro:</span> <b>${x.fg==="JUIZADO"?"Juizado":"J. Comum"}</b></span>${x.r?`<span><span class="k">Réu:</span> <b>${x.r}</b></span>`:""}${x.c?`<span><span class="k">Comarca:</span> <b>${x.c}</b></span>`:""}${x.j?`<span><span class="k">Juiz:</span> <b>${abrevJuiz(x.j)}</b></span>`:""}<span><span class="k">Tese:</span> <b>${x.tese||setorLabel(x.s)}</b></span>${x.d?`<span class="k">${x.d}</span>`:""}</div>
     ${x.em?`<div class="dem">${x.em}…</div>`:""}
     <div style="margin-top:9px;display:flex;justify-content:space-between;gap:8px;align-items:center"><span class="proc">${x.proc}</span>${x.link?`<a class="int" href="${x.link}" target="_blank" rel="noopener">Ver íntegra ↗</a>`:""}</div></div>`).join("")
     +(f.length>dShown?`<button class="dmore" onclick="verMaisDec()">Ver mais ${nf(f.length-dShown)}</button>`:"");
@@ -839,7 +856,7 @@ function renderComp(){
   const lst=(comp[s]||[]).slice(0,20);
   $("#comp-tbl").innerHTML=lst.length?chead+lst.map(crow5).join(""):'<div class="crow">Sem comarcas com base suficiente neste recorte.</div>';
 }
-$("#juizes").innerHTML=(dje.juizes||[]).slice(0,30).map(j=>`<div class="jchip"><span class="jn">${j.juiz}</span><span class="jq">${j.n} sent.</span></div>`).join("")||'<p class="pagesub">Sem dado.</p>';
+$("#juizes").innerHTML=(dje.juizes||[]).slice(0,30).map(j=>`<div class="jchip"><span class="jn">${abrevJuiz(j.juiz)}</span><span class="jq">${j.n} sent.</span></div>`).join("")||'<p class="pagesub">Sem dado.</p>';
 $("#foro-toggle").addEventListener("click",ev=>{const b=ev.target.closest(".nicho");if(!b)return;_foro=b.dataset.f;renderForoToggle();renderComarcas();});
 $("#comp-setor").addEventListener("change",renderComp);
 renderForoToggle(); renderComarcas();
@@ -868,7 +885,7 @@ function renderVaras(){
   $("#rel-tbl").innerHTML=rh+TG.slice(0,40).map(r=>`<div class="crow c6"><span class="cc" title="${r.relator}">${r.relator}</span><span>${(r.turma||"").replace(/ Recursal.*/i," TR")}</span><span class="cp">${r.pct_fav}%</span><span title="${r.monocratica} de ${r.n} decisões sozinho">${r.pct_monocratica}%</span><span class="cd">${mst(r.meses_mediana)}</span><span>${nf(r.n)}</span></div>`).join("");
 }
 function openVara(k){const[com,vara]=k.split("||");const v=VG.find(x=>x.comarca===com&&x.vara.replace(/'/g,'')===vara);if(!v)return;
-  openProcs(v.vara,`${v.comarca||""} · proc ${v.pct_proc}% · ${mst(v.meses_mediana)} até a sentença · dano moral ${dmt(v.dano_moral_mediana)} · n=${nf(v.n_merito)}${v.juizes&&v.juizes.length?" · juízes: "+v.juizes.join(", "):""}`,v.ex,[]);}
+  openProcs(v.vara,`${v.comarca||""} · proc ${v.pct_proc}% · ${mst(v.meses_mediana)} até a sentença · dano moral ${dmt(v.dano_moral_mediana)} · n=${nf(v.n_merito)}${v.juizes&&v.juizes.length?" · juízes: "+v.juizes.map(abrevJuiz).join(", "):""}`,v.ex,[]);}
 const _vc=$("#vara-com"),_vo=$("#vara-ord");
 if(_vc){fillVaraCom();_vc.addEventListener("change",renderVaras);}
 if(_vo)_vo.addEventListener("change",renderVaras);
@@ -883,7 +900,7 @@ function renderJuizes(){
   const key={n:j=>-(j.n||0),proc:j=>-(j.pct_proc||0),dm:j=>-(j.dano_moral_mediana||0)}[ord];
   const lst=JZ.slice().sort((a,b)=>key(a)-key(b)).slice(0,40);
   const h=`<div class="crow c6 h"><span>Juiz</span><span>Comarca</span><span>proc.</span><span>improc.</span><span>dano moral</span><span>n</span></div>`;
-  el.innerHTML=h+lst.map(j=>`<div class="crow c6"><span class="cc" title="${j.juiz}">${j.juiz}</span><span>${j.comarca}</span><span class="cp">${j.pct_proc}%</span><span class="cf">${j.pct_improc}%</span><span>${j.dano_moral_mediana?"R$ "+nf(j.dano_moral_mediana):"—"}</span><span>${nf(j.n)}</span></div>`).join("");
+  el.innerHTML=h+lst.map(j=>`<div class="crow c6"><span class="cc" title="${abrevJuiz(j.juiz)}">${abrevJuiz(j.juiz)}</span><span>${j.comarca}</span><span class="cp">${j.pct_proc}%</span><span class="cf">${j.pct_improc}%</span><span>${j.dano_moral_mediana?"R$ "+nf(j.dano_moral_mediana):"—"}</span><span>${nf(j.n)}</span></div>`).join("");
 }
 const _jo=$("#juiz-ord"); if(_jo)_jo.addEventListener("change",renderJuizes);
 renderJuizes();

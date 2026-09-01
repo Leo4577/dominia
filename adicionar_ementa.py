@@ -7,6 +7,20 @@ Saída: reescreve registros_dje.json com o campo "em".
 """
 import json, re, os
 
+# --- privacidade: mascara nome de PESSOA física na ementa (mantém réu-empresa) ---
+SOBRENOMES=set("SILVA SANTOS SOUZA SOUSA OLIVEIRA PEREIRA LIMA CARVALHO FERREIRA RODRIGUES ALMEIDA COSTA GOMES MARTINS ARAUJO ARAÚJO RIBEIRO MELO NASCIMENTO SANTANA JESUS CONCEICAO CONCEIÇÃO CRUZ REIS BARBOSA ROCHA DIAS MOREIRA NUNES MENDES FREITAS CARNEIRO ANDRADE CARDOSO TEIXEIRA MACHADO VIEIRA MONTEIRO CAVALCANTE CAVALCANTI CAMPOS BATISTA MIRANDA CORREIA PINTO RAMOS AMARAL LOPES FONSECA BORGES GONCALVES GONÇALVES FRANCA FRANÇA XAVIER MAIA AGUIAR MATOS FARIAS SALES NOGUEIRA".split())
+NAME_RUN=re.compile(r"\b([A-ZÀ-Ú]{2,}(?:\s+(?:DA|DE|DO|DAS|DOS|E|[A-ZÀ-Ú]{2,})){1,6})\b")
+def mascara_nome(t):
+    if not t: return t
+    def repl(m):
+        raw=m.group(1); allt=raw.split()
+        core=[w for w in allt if w not in ("DA","DE","DO","DAS","DOS","E")]
+        has_part=any(w in ("DA","DE","DO","DAS","DOS") for w in allt)
+        if len(core)>=2 and (any(w in SOBRENOMES for w in core) or (has_part and len(core)>=3)):
+            return core[0][0]+". [nome preservado]"
+        return raw
+    return NAME_RUN.sub(repl,t)
+
 DISP=re.compile(r"(ANTE O EXPOSTO|DIANTE DO EXPOSTO|ISTO POSTO|POSTO ISSO|PELO EXPOSTO|Ante o exposto|Diante do exposto|Isto posto|Posto isso|Pelo exposto)")
 JULGO=re.compile(r"\bJULGO\b", re.I)
 INICIO=re.compile(r"(Trata-se|Cuida-se|Vistos[,.]|Dispensad[oa] o relat[óo]rio|RELAT[ÓO]RIO)")
@@ -25,7 +39,7 @@ def ementa(t):
     if CABEC.search(seg):                      # caiu no cabeçalho -> pula o bloco de metadados
         m3=INICIO.search(t) or DISP.search(t) or JULGO.search(t)
         seg=(t[m3.start():m3.start()+340] if m3 else t[400:760]).strip()
-    return seg[:360] or None
+    return mascara_nome(seg[:360]) or None
 
 def build_map(files):
     mp={}
